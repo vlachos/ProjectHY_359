@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Homepage</title>
-		<link rel="stylesheet" href="CSS/homepage.css">
+		<title>LoggedInPage</title>
+		<link rel="stylesheet" href="loggedinpage.css">
 		<script src="http://maps.googleapis.com/maps/api/js"></script>
-		<script type="text/javascript" src="JS/functions.js"></script>
+		<script type="text/javascript" src="functions.js"></script>
 	</head>
 	<body>
 
@@ -12,13 +12,10 @@
 			<div id="logo">
 				<h1>Shopping Assistant Manager</h1>
 			</div>
-			<div id="login_container">
-				<form action = "LoginServlet" method = "get">
+			<div id="user_container">
+				<form>
 					<br>
-					<input class="input_text" type="text" name="username" placeholder="username">
-					<input class="input_text" type="password" name="psw" placeholder="password">
-					<input type="submit" value="Sign in">
-					<p><a href="http://www.w3schools.com/html/">I have not an account</a></p>
+					<p><a href="">User Makis Makoulis</a></p>
 				</form>
 			</div>
 		</header>
@@ -26,6 +23,7 @@
 		<nav>
 			<a class="invisible" href="/html/">My Account</a>
 			<a class="invisible" href="/css/">Favorites</a>
+			<a class="invisible" href="/js/">Shopping List</a>
 			<a class="invisible" href="/js/">My Ratings</a>
 		</nav>
 
@@ -47,8 +45,7 @@
 		<aside>
 			<div id="aside_conteiner">
 				<div id="aside_search">
-					<input id="search_input" type="search" name="query" placeholder="Search here...">
-                                        <input id="search_button" type="submit" value="Search">
+					<input id="search_input" type="search" name="query" placeholder="Search here..."><input id="search_button" type="submit" value="Search">
 				</div>
 				<div id="aside_map">
 					<div id="googleMap"></div>
