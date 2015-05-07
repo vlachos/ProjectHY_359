@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>ΔΑΜΙΓΟΣ PET SHOP</name>
+  <vicinity>Ούλωφ Πάλμε</vicinity>
+  <type>pet_store</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3110250</lat>
+    <lng>25.1355510</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png</icon>
+  <reference>CnRrAAAAQmF7tcnBHaaLeN8Nw2OpmBqNuHuDCVds3AoIzqoKCTP1HSvxgaw715ca3PINTcnOFUD44fEvv-BFOsz1xr42KZLjIBtstopvNKd85pJrwPniIy6MdQB8MmTvri6FFVMfTbQ2yzvN3UN0Cf21AnWf2xIQP5_DOZH0p6zgv2a4csG-RRoU-V0bEOxMlI3FvEydlgy_aY9b9LM</reference>
+  <id>5057396e6ac55f3dccd9c447524aedf8bd05ccba</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRvAAAAVngHSG0kqtf8yqiQCxAEpIyUQDBXVSMT62mS1_wLGpE3nQyjnKBCvS5tdIGmV1pTTKStX3E8r7orAGGoXS2g0uyGr7Uto4ELDrD8gvHkMr-H9e49M0g5GZd2k48Kbzn1Hme6p1Qp3sCH1lQ8LS4h5hIQ-sgLmJTgYZO3k7Wmej0qXxoUXCOxZht9udWJ1pzmB_3U1K3QD1s</photo_reference>
+   <width>1542</width>
+   <height>1536</height>
+  </photo>
+  <place_id>ChIJGZGHzadZmhQRPO3mZrKT5I0</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

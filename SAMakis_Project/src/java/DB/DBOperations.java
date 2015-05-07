@@ -61,23 +61,26 @@ public class DBOperations {
         SAXHandler hand = new SAXHandler();
         ArrayList<Shop> shops = hand.GetShopsInArrayListFromXML();
         String sql = null;
+        int id = 0;
         
         ConnectToDB();
         stmt = conn.createStatement();
         for(int i=0; i<shops.size(); ++i){
-            sql = "INSERT INTO SHOPS " +
-                 "VALUES (" + 
-                 i + "," +
-                 "'" + shops.get(i).getName() + "'," +
-                 "'" + shops.get(i).getCategory() + "'," +
-                 Double.parseDouble(shops.get(i).getLng()) + "," +
-                 Double.parseDouble(shops.get(i).getLat()) + "," +
-                 "'" + shops.get(i).getAddress() + "'," +
-                 "'" + shops.get(i).getDetails() + "')";
-            
-            
-               stmt.executeUpdate(sql);
-               System.out.println("OK " + i);
+            for(int j=0; j<shops.get(i).getCategory().size(); ++j){
+                sql = "INSERT INTO SHOPS " +
+                     "VALUES (" + 
+                     id + "," +
+                     "'" + shops.get(i).getName() + "'," +
+                     "'" + shops.get(i).getCategory().get(j) + "'," +
+                     Double.parseDouble(shops.get(i).getLng()) + "," +
+                     Double.parseDouble(shops.get(i).getLat()) + "," +
+                     "'" + shops.get(i).getAddress() + "')";
+
+
+                   stmt.executeUpdate(sql);
+                   System.out.println("OK " + id);
+                   id++;
+            }
         }
         DisconnectFromDB();
         //hand.printShopsFromXML();

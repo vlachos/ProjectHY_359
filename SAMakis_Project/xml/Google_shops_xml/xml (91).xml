@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>METAXAS GROUP OF COMPANIES Α.Ε.</name>
+  <vicinity>Α. Παπαναστασίου 28α, Ηράκλειο, 71306</vicinity>
+  <type>real_estate_agency</type>
+  <type>lodging</type>
+  <type>spa</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3330400</lat>
+    <lng>25.1388410</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png</icon>
+  <reference>CoQBdAAAAMYjkNIzaAVssHDlzd_Kt09dLDwqAITJsP1wKjPgpyBkascS-CBUVQWhmVAqticv4kSt67Ak0IsHqjM6qkmNvDK7nkObLXr6j3kjivGZcYQUttofa3gfyQmoaBhUpmqHSnQorQTl3pG1E-rnKF5grjUjGU7VledpS11ExsyfDShhEhCgCqPSJVgANLlwEZuUTSFzGhRGkvT5UN7LU1izoiQlOE5wHs3Akg</reference>
+  <id>f467360d801658673c5e875c354ab27a352b9d6b</id>
+  <place_id>ChIJuUSj1syYoRQRYd_61uK_0g8</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Doctor Fish - Fis Spa Heraklion</name>
+  <vicinity>Eikostis Pemptis Avgoustou 13, Heraklion</vicinity>
+  <type>spa</type>
+  <type>beauty_salon</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3413590</lat>
+    <lng>25.1348830</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png</icon>
+  <reference>CoQBcwAAAFFXAOLPg0TXguFtkDLoYrmpJFgWufkXAfPds-ANd0-apHEsikejnO6FJRKC6wnSCmD5dGnhOyVXHFOL-LH-hsMW0BfeiisOxMabCpE54AC2jZZxe4KrL31Ij6ZCgOp6y3U6VVpHPQePkQI1tAeqH-dFIKbRBUyzTJ0ZIHwnnnz1EhDSR7-UegjnVS1yKEPfGQjJGhTBMFUD5gXT1KVvJnUCaSiIARJ07Q</reference>
+  <id>6f471c2356f40c403e4735f03dc10254497433c0</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJLxxnZi5amhQRqtMAI69iFPs</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>GYMNASIUM SMILES</name>
+  <vicinity>Λεωφόρος 62 Μαρτύρων 97, Ηράκλειο</vicinity>
+  <type>gym</type>
+  <type>health</type>
+  <type>spa</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3354520</lat>
+    <lng>25.1180410</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png</icon>
+  <reference>CnRjAAAA0NjK7-8e_i5V9MlkMrcn_DI-sT0GtKlHe55Wc1ICsjjzMIyAcS7vXzKBK9OXU1ke5czUA5Z163NLqcj7e9irH9UGBg7E5aoqyspHYEAXi8NBVpE7mg-hkPAkFpWnzB6jrXhHHOOSgqnv-wlXRoj5JxIQYIaEUA_5I6OA0kev5IsDfxoU6YSX73Dq1wBLpscpPzxK7ReiRcw</reference>
+  <id>ce64be781c0c89931e2887e884ac5e83da583d4d</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAfDe2VFV_gHzKvcitLQK5x2dJbr-9-9DP8uLLzd2XzZuY2-bWA4l2PGg2DrOAxtJ-o8YMqpC2LgWk5yP-9Mm11vBCxnP4q0xwGPcgy4jW_h3NMRukHqWl8CY5sIIvG8Ssb4g9fpeakCbu8dngmALXBxIQw3x3c0COPLHI_LKYM8I1FBoUgyzu4DYqNgT-UnOjLyybkCcbkGY</photo_reference>
+   <width>225</width>
+   <height>150</height>
+  </photo>
+  <place_id>ChIJ-bsWKvVZmhQRst4jeaQhUEo</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

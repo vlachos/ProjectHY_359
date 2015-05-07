@@ -32,18 +32,6 @@ public class SAXHandler extends DefaultHandler {
   private List<Shop> shopList = new ArrayList<>();
   private Shop shop = null;
   private String content = null;
-  private String address = null;
-  
-  
-  private String Category(String str){
-      
-    String patternString = " - ";
-    Pattern pattern = Pattern.compile(patternString);
-
-    String[] split = pattern.split(str);
-    
-    return split[0];
-  }
   
   @Override
   //Triggered when the start of tag is found.
@@ -59,7 +47,6 @@ public class SAXHandler extends DefaultHandler {
   }
   
   public ArrayList<Shop> GetShopsInArrayListFromXML(){
-
     SAXParserFactory parserFactor = SAXParserFactory.newInstance();
     SAXParser parser = null;
       try {
@@ -70,8 +57,9 @@ public class SAXHandler extends DefaultHandler {
     SAXHandler handler = new SAXHandler();
 
     InputStream input; 
+    for(int i=1; i<103; ++i){
       try {
-          input = new FileInputStream("xml/teliko.xml");
+          input = new FileInputStream("xml/Google_shops_xml/xml ("+Integer.toString(i)+").xml");
           parser.parse(input,handler);
       } catch (FileNotFoundException ex) {
           Logger.getLogger(SAXHandler.class.getName()).log(Level.SEVERE, null, ex);
@@ -80,6 +68,7 @@ public class SAXHandler extends DefaultHandler {
       } catch (SAXException ex) {
            Logger.getLogger(DBOperations.class.getName()).log(Level.SEVERE, null, ex);
        }
+    }
     
     return (ArrayList<Shop>) handler.shopList;
   }
@@ -93,7 +82,6 @@ public class SAXHandler extends DefaultHandler {
   
   @Override
   public void endElement(String uri, String localName, String qName) throws SAXException {
-   
    switch(qName){
      //Add the employee to list once end tag is found
      case "result":
@@ -102,10 +90,9 @@ public class SAXHandler extends DefaultHandler {
      //For all other end tags the employee has to be updated.
      case "name":
        shop.setName(content);
-       shop.setCategory(Category(content));
        break;
-     case "details":
-       shop.setDetails(content);
+     case "type" :
+       shop.getCategory().add(content);
        break;
      case "lng":
         shop.setLng(content);
@@ -113,21 +100,9 @@ public class SAXHandler extends DefaultHandler {
      case "lat":
          shop.setLat(content);
          break;
-     case "postal":
+     case "vicinity":
          if(content!=null)
-            shop.setAddress(shop.getAddress()+ "," + content);
-         break;
-     case "city":
-         if(content!=null)
-            shop.setAddress(shop.getAddress()+ "," + content);
-         break;
-     case "street":
-         if(content!=null)
-            shop.setAddress(shop.getAddress()+ "," + content);
-         break;
-     case "number":
-         if(content!=null)
-            shop.setAddress(shop.getAddress()+ "," + content);
+            shop.setAddress(content);
          break;
    }
   }

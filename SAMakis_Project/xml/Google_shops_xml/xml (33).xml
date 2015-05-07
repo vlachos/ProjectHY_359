@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>ΠΑΣΧΑΛΙΔΗΣ, Ν., Α.Ε.</name>
+  <vicinity>Troulos, Kallithea, Νέα Αλικαρνασσός</vicinity>
+  <type>department_store</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3151420</lat>
+    <lng>25.1681110</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png</icon>
+  <reference>CoQBdQAAAKFNvBP_1UomqGEXf5fyT9bijGMz_BEPJODZChU5jiGK5Vru8VmJN16vMFafShLMJi3dm_fE04gY0Byb2KPPktxP-X23ZvTI8EE6HjwBACaTJDF0MEIAPJwD0VC0mrkNmt6uBn9ZpLd3KZgS9L5F1hDdwH9VW6f8lYA1f-vkjM4mEhAeyAKRZLXVEd02BrN9t6KSGhQpPjPfeJ5TMT3BHVroBHy668Oe9A</reference>
+  <id>2dd6a2ae03c05e0999c30d02cf97f04ce116a52b</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRmAAAAuXzeddDZP2GJVMktj8TQHYyf1pA5WHSi49-pm81C1qkETt3JoGoFwvE9Zac95VL-YQhqha4F0RUzvwNoEYabAj3pAXLnR9orc_mFjuAHj1-M2ap7BkAlYQgT4cyQQutBQgzerDEAroh7XxurOURDKxIQ5W2Pv0SRSrU3VNO9oAhThhoUUcPE7luDe7eUJ_HekgSewXR6pR0</photo_reference>
+   <width>150</width>
+   <height>67</height>
+  </photo>
+  <place_id>ChIJC9yLX0RZmhQR9ihxPu9Xkeg</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΟΜΗΡΟΛΗΣ Κ   Κ ΟΕ</name>
+  <vicinity>Λεωφόρος 62 Μαρτύρων 35, Ηράκλειο</vicinity>
+  <type>department_store</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3359920</lat>
+    <lng>25.1212720</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png</icon>
+  <reference>CnRwAAAAD93ndU7lmxuCxFP_iA-J5k4pSOM6aeIEiEelUCNT6Uu6JY70PU7JzX2ce9H46vsI3qtZNg-9zGFB-173N0UWW0l-5StGPLAio0uOuxwHba5kbwcSUF2a-LkaUwnPMXdbEaUQ5fHm-tWFioeO5GAHERIQQV802b580V24Lb6EUfyf6hoUWN2jq2SXncdEF4fV8x12pS0Javk</reference>
+  <id>209ad2ef00c1daa96374ca022fda1be2f43b99d3</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJc6-NeYpZmhQR_K4oZH9wImc</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Kontogiannis Fashion - Wall Kontogiannis</name>
+  <vicinity>Λεωφόρος Καλοκαιρινού 189, Ηράκλειο</vicinity>
+  <type>clothing_store</type>
+  <type>department_store</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3376200</lat>
+    <lng>25.1275110</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png</icon>
+  <reference>CoQBewAAABxS53XkQV9oC4Yt8O9uOuOsefptfVpLEFDw3qIzCL2ZKRullgLVVyag_AoHM6bxV-q04hlDOgdL5Sab9nZ-dytg_77Sec-YQEBnAXmxVPYD059YtSl2wu1Yk9G4yl6a14KlpPNRJljwVvVYZb0pXOWEj_3_z3D5EqtH5pZfWAAdEhCTIC4frHTFCdWyKPshqQCMGhTl6AwhF28QKvZLcqmXkrFharrt4g</reference>
+  <id>9ea47d6a02a06028cc2ef4f4b2f80c95314ee74f</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAevHfLIF926ZA0C5V_Bu3m9rUPNlQWfj-3YKCv9MWe4pM41cgwT-BDPwnjKfbV_MHx3ZgQ4S0_mGJoiscp1D3Frvn1x-ihhy64xWNNYYNzkEOBjXZhz4yoqLF8BAa-0PmL2kcgOEu6ix8-Ib5jdMgtBIQpDPq5B_shBPoLPLAGOAwFBoU3e0XeA3_6BZaPoBEHrgZKVbi4q0</photo_reference>
+   <width>250</width>
+   <height>250</height>
+  </photo>
+  <place_id>ChIJi8IuUyZamhQRtM2aOUx7IDs</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΡΟΜΠΟΓΙΑΝΝΑΚΗΣ, Α.,   ΣΙΑ Ο.Ε.</name>
+  <vicinity>Παύλου Μελά 58, Ηράκλειο</vicinity>
+  <type>department_store</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3289160</lat>
+    <lng>25.1167630</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png</icon>
+  <reference>CpQBhwAAAMIh7LFXEOeTa0zwXHqTMB9GtwA-2BwoMzoJN7siKrKsjYvwEa5_asHhp8bAPHj29RfbFujPghb9sMGkL9GrLtBAIejH799j6SQgLjCCO-COo0EG3n14BLi8fjdf5LJolA8aNQJOAglPIb63Q6OH46gK5d9rhgIrYmLaoJ4ai5C9qPbQZQAoV2bGT94txMeu9RIQS4MSDO-G8ZugncaVb4GGzBoUgBUvUBS2rOLfJwhRIqI-g_mIQ2E</reference>
+  <id>384d89493d388c10384f5765244983f32e2e1a61</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRvAAAAtnwqCp9q6aIT-6XiJq2Cfin9xLikurnyNbM4gA7XFzljb_UE_1_sJQQkhjjyUSfLVwbSB02jJoZWf0cxViCQXrRfbISz5xI8QRNnhQXSZh7eHkCAlMm554RdywTqbeWQUpxo_onDQRoCn16lJNynMxIQwyDh8h76v6FePZRpkPy19BoU48W2UU1fXttbTbu5WV_44nr0s1o</photo_reference>
+   <width>346</width>
+   <height>346</height>
+  </photo>
+  <place_id>ChIJf35s0PJZmhQRJRITXR7PLfY</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

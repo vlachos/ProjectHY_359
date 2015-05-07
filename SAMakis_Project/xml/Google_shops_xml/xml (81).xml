@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>ΕΛΤΑ - ΗΡΑΚΛΕΙΟΥ (Κ.Κ.)</name>
+  <vicinity>Πλατεία Δασκαλογιάννη 1, Ηράκλειο</vicinity>
+  <type>post_office</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3377900</lat>
+    <lng>25.1357300</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBegAAADPD7MiPrks-N2T6MrbqJ4op0JZy0dumih616MNGrg0Q4c79wt3bkb6natBuPBYbXiDcWNOzN_M3jJJWNfk-Xe60KY8mbZE2HhE50mRkP_m0TZzbMd0C961WwxGyNv85iXbc42u915ICHxl5TAabo2et2StMfZfToU8WSXYtdRYmEhAUv2HBdL1lDXSduyUhyNiYGhQK9fXZCHgbrFmFvQ4wGHenjsGq8A</reference>
+  <id>810236cf4f6a520eae0fbfa78d48a4a67c8ca722</id>
+  <place_id>ChIJqwUd_StamhQRsTFaOJ6RmOw</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΕΛΤΑ - ΕΘΝΙΚΗΣ ΑΝΤΙΣΤΑΣΕΩΣ</name>
+  <vicinity>Λεωφόρος Εθνικής Αντιστάσεως 49, Ηράκλειο</vicinity>
+  <type>post_office</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3317350</lat>
+    <lng>25.1396600</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBhAAAAFO4pFd00wpExkyY4bwDSgnLaTiR4Ab7oQ6DDYz6JFXiVMPACigO3vS9Sml5Ms03mF469bh57TLhbDVU_zxhgFEtHWA6JIrd5_JOTR2MgLFiz4QYOJxfyYM7EovL71mOiTC2MARrMOZUg7M5AQNqqy_nz8hettngQIBEDHllnklH-ouDij-rnaH2P8ZFSN4FTRIQof84G4ehggVLykk8s9-FARoUAwrt3CBLapV2fExslBzTZNp8c-8</reference>
+  <id>41876097f48ae84659f24c89f2b36767815ec04a</id>
+  <place_id>ChIJBSIZcoBZmhQRZSontAUwaSY</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

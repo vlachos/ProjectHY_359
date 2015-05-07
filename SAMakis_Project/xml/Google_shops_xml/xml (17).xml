@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>POP S CAR ΕΛΛΑΣ Α.Ε.</name>
+  <vicinity>Λεωφόρος Ικάρου 91, Ηράκλειο</vicinity>
+  <type>car_dealer</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3402930</lat>
+    <lng>25.1505010</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png</icon>
+  <reference>CnRvAAAAHg_JncOp7RkVWVumPoiccYe0BYczJUJwRKRNV8qMeewkwtulGco4dtKNG1FDb-W078POjVJhZeuT5AZk6CBhQ3D3zhs6wq4duB1SjxQoDuq7MUc58XUGub_jYaP6oR4JdAm51APUJNKdfSgJBQOuCRIQmOkxbSP4gFxhgu9lLemeFBoUEGGiYKIDOCR1mN8YVlodDXNShgc</reference>
+  <id>ebc25817d07705d29dffb79d04bf18c2fd91ce2e</id>
+  <place_id>ChIJGf1I1dFbmhQRwcH8O14atsU</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ALEX IMPORT CARS ΑΛΕΞΑΝΔΡΟΣ ΜΕΙΜΑΡΑΚΗΣ</name>
+  <vicinity>Πατριάρχου Γρηγορίου Ε 13, Ηράκλειο</vicinity>
+  <type>car_dealer</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3286560</lat>
+    <lng>25.1309070</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png</icon>
+  <reference>CpQBjwAAAFqVqbt5JXafCA10zrPRcvcM_bVnVNM8OFk3_bHSY8JEXtaWQ6m90HBsu9p6f_r63Wgg80JtYlxQ7eBZvzUQdoRtZaGf7K35UA3ofBM07IXRc32fYi_rp2eAdFmoblN-zekbUkfhFRxdpK_Nxya-Jv5eBaF79HFdjoZX20YSlp79MeHXc6F370liarNU0d8fPRIQGvCE3wVKya2z3zxxiNVhxhoUPrIG0odqAOC2P5EojCNcejFLpaU</reference>
+  <id>d7996481b30cfac111a0ce3d57a1a9d07e448acd</id>
+  <place_id>ChIJVVVVVY5ZmhQRK_Cpj3gVGqk</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΤΗΛΕΜΑΧΟΣ Α.Ε.</name>
+  <vicinity>Λεωφόρος 62 Μαρτύρων 158, Ηράκλειο</vicinity>
+  <type>car_dealer</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3323610</lat>
+    <lng>25.1132190</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png</icon>
+  <reference>CnRsAAAA26yuttfVGBTYbBz4ixdvvAtNRGWsKQsNsoJX0h0ouO1bLXneuXwbWicvp2IZUtwKNiUBhzGSVZa7YftHA46vLsLTCrkVeYXXxeJuyCJ3COl_9rAatdLQWcz2hkp3ixRhfksh4lvlyAQ9lZw2dDuQ0hIQkX2HdCpqagPN9NBGWDhcGhoUsVG5Wt09SxuoeQ6yhEmvKXJzix0</reference>
+  <id>78c499a8a91773242cec39c2f0a164f97bd56efc</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJ51RejfNZmhQRZUaZ5MDGBx0</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΚΕΝΤΡΟ ΑΥΤΟΚΙΝΗΤΟΥ ΚΡΗΤΗΣ  ΠΑΠΑΚΑΛΙΑΤΗΣ  Α.Ε.</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>car_dealer</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3387350</lat>
+    <lng>25.1442130</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png</icon>
+  <reference>CrQBpwAAAO9N4A-bgAdzNZRZPXo7CpTYnLYWZZL1o5XFIwWkE5OvDFP707s-mG33nvhIeFbZ9urPbRgMGqbWrjr4swJFbmzrgHEstL76MRnI7LcWQDW6UmIorKeLLeYeOLUmvJwXnHZu8461QOynnuExEcCWX5pFEZBRkI3REfQuzVcG4sfNKTq7xTdC17MNDywHaluM6g6eqedAkYpsHWySZcyA9E3ikRZHCZJ_WNMK64clHAdtEhCT-uFiRGmdC2kimKtJmgmXGhS3RFutH_1LBWtnFBPzFb-mHkcPLg</reference>
+  <id>df2434f974d396907e2c1ce03fde3357dbfe33e7</id>
+  <place_id>ChIJGcy0J35XmhQR_Etjr0F-DeA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>AUTO CENTER ΚΑΨΑΛΑΚΗΣ Α.Ε.</name>
+  <vicinity>Διδούς 1, Ηράκλειο</vicinity>
+  <type>car_dealer</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3359480</lat>
+    <lng>25.1572370</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png</icon>
+  <reference>CoQBeQAAAA5EntzKLYQenmGNmlCI_ww3DCayaTxXoNV6QiKamUfDWLZ77qBn4aIeldSAtZE_3gd8fbIOlhsDVKARB15CdgikrJ_ungCQvHLkkknDBEQUe3oznRSp3Q-o6Qw21ayWVtd9jMf7MyppOZDmarWYRVak0nRe3egoQ8O3etUwBWqjEhDlnv48VdNwwPxLCsG7JF8yGhQoAFA34yhY7FTNrou-5jQDrdh7Jw</reference>
+  <id>0e62c889455b97931ee6779567379d45625cb992</id>
+  <place_id>ChIJ03DrpttbmhQRuep3EFxjTL0</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Amco ΑΕ</name>
+  <vicinity>Leoforos Ikarou 89, Ηράκλειο</vicinity>
+  <type>car_dealer</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3377800</lat>
+    <lng>25.1631060</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png</icon>
+  <reference>CmRcAAAA3JCoECscFlXKC-G7-OZ2vAjDVp7yCUhz0SZ4T72BNM-HO27vJqEoPcZqBvZ2XRsTpaL3lqUNW8UEK1Dtxs-W-VBqAhWi552w2LRRv0yT_t8OcZErSCc6RwFmhblCHWm7EhC6Lo7OrafhsFOefWVxo6A_GhQxLXCmRVPzUJMOW8g052SwYuOynQ</reference>
+  <id>23b64dd85f73636e019c2d5fcd01acbb33964f99</id>
+  <place_id>ChIJx6t2zsJbmhQR7eRnpZJ3QE8</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>AUTO CRETA Ε.Π.Ε.</name>
+  <vicinity>Καρίας 115, Ηράκλειο</vicinity>
+  <type>car_dealer</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3389230</lat>
+    <lng>25.1599040</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png</icon>
+  <reference>CnRnAAAAcvAu_nmUarBTaye48TK58L7QyHGcdiz6aNbWAbSDqzGetjBQSnt59Gj4M_pzMhHGLLwE8G134q3JMv0AD7d_o0DdiFjz4rG1JvBcTMXBbpSZl8MkQdhmlXZAKgbjk6VtsMPBm3NMf2PZWff4IS0qQBIQLz99jzS0PrhhznMuRDhM-hoUOPz_2TBMAThIH93O8bfHGmeBH3A</reference>
+  <id>6124b628f8433f06b1d6031495b5f28055618688</id>
+  <place_id>ChIJFedQWsNbmhQRscHfxRH-DSw</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΚΑΛΟΝΑΚΗ ΜΑΡΙΑ  AUTO-HOLLAND </name>
+  <vicinity>Irakleiou - Moiron Rd (5 km), Irakleio, 71001</vicinity>
+  <type>car_dealer</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3387350</lat>
+    <lng>25.1442130</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png</icon>
+  <reference>CoQBfgAAAFsFspHNggYpeeDvNviRGBC-LP2Qyb6tDuFfCc1_AbgXNeho5Q9lxImnAxpoQ52MQ-lptEhzgo4mDZJrqf_YxX5qyzWmNCM0mT4aCrGI5YoAw94fVrtz_O_FTZSTTzLdJeXGze2XciTZ787aD2Y5WujKSYsQZhq0wtHtY6hr8TmYEhAPLj9jKEtKXbixt9FTpPYEGhRl82-l2vHBuKsm9FuZ-hYZE1JISA</reference>
+  <id>ddd85c828d700de9e4f163368f6ac640cf5e84d4</id>
+  <place_id>ChIJr746AdNbmhQR3nZ10Gp9MuU</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>AUTOTECH A.E.</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>car_dealer</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3387350</lat>
+    <lng>25.1442130</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png</icon>
+  <reference>CmRgAAAAZp8hz7_kQfS_MDfTzCQhJCTinPJkb0I0Jkxeq8QhvDMy78FYgE4Ga0ZOqE0C2j-J9IYT8PSyJRK_dm2MKnZhGUfWQcs3BqCOzRqDgxysxIf95wkNFW9_ECOGic6NcGEHEhCr5EnWeSzC_lKrfEEs9zCPGhTiSIqKFNQKVcmWLC9XRvtSNtXoOw</reference>
+  <id>3ad50b600a1ad2a218609364cb48e5efd49999d9</id>
+  <place_id>ChIJXaoTnWv4mhQRg1p8DySXzgY</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Αφοί Εφραίμογλου ΟΕ</name>
+  <vicinity>Λεωφόρος Παπαναστασίου 84, Ηράκλειο</vicinity>
+  <type>car_dealer</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3202220</lat>
+    <lng>25.1399380</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png</icon>
+  <reference>CoQBeAAAAJa7Qm-kF2aTzW2eFXWBo8xURbYULPrEx0XortIs5f7BYCgGx2tGyVc5gr8bUGlfTG4OwbavG5H-D_93W1MhN0V8D_8rScmXLjUXqPZCMpACstpFDnaztYWjYIN6iXOTnuAhLu1zsJx7d7IznmRgS6xanz_eDBNJBkd7TY-7sMMaEhDzIbRYlTrBptkEqzu_8ZaiGhS-AwAmRo-uZWZjuWeLVLk3KWfEnw</reference>
+  <id>6eac8e3a667a58ead6b60819d9cf3f5ef110ab80</id>
+  <place_id>ChIJU7zNbJ1ZmhQRjTDiWfk2_b8</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>CARAVEL Ν. ΧΟΝΔΡΟΣ Α.Ε.</name>
+  <vicinity>25ης Αυγούστου 39, Ηράκλειο</vicinity>
+  <type>car_dealer</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3401900</lat>
+    <lng>25.1338930</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png</icon>
+  <reference>CoQBdQAAAEM5zhJJgGlbpm74Zmfq5OVqIm2wCg7vey38BCRaL8Es7Z9sWxVPETn-vcQftI1czkJJem5K1UJOBslV6UAG5lfHfEebIO367ciVTTHNgiutA7cBa3WmK4iW23fAEKQvb6TMAtW3p5FCuNMeENr4P3CoKetgA5k09wGbrSp7NQjtEhA35jM2r_IltxBr00YMjxrPGhQM4hSMiX-myD8Lmu4GMDzQpFmXDg</reference>
+  <id>65ec4203af5320359f1e4078d1b3656c4c252646</id>
+  <place_id>ChIJtaq8fC5amhQRDRnMLZNx6-4</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>ΓΕΩΡΓΙΟΣ ΡΟΔΙΤΑΚΗΣ Παθολόγος</name>
+  <vicinity>Θησέως 18, Ηράκλειο</vicinity>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3014200</lat>
+    <lng>25.1487590</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CpQBigAAAIYllOGtbsdKlS1ma9uJ3o9G1pkt4eD5CRlq8kImFk6Lu24gg30FiZSbUnf3_i_XLjO7HBpXcB-kMtMG2petOvOUH1YA_8xUCL4-ffAjIykDyMD7qrit-pSlhLGabEIJLc0z71zOdZepXuPc9um8btjO4bFab3nIG2NAyLTd51Pmht57vfS7IuRMv6f9gq_d6BIQAPzC1yRaffWf3rnNg36oIxoUT7ZitmHDkyAQL-k9A3l-7lmw2mo</reference>
+  <id>30ea1d409e6a4f561475fe0908578c45424fa7b3</id>
+  <place_id>ChIJ1dfEIg9ZmhQRvZW1-zooLHw</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Ελπινίκη Ι. Βίγλη Χειρουργός</name>
+  <vicinity>712 01, Ιωαννίνων 3, Ηράκλειο</vicinity>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3376250</lat>
+    <lng>25.1298220</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CpQBiAAAALKTcYMxUOXzJPBM0AoJqLEvF_NjBi3U5S5jd5WALemRq_d3jjD0hg4LrXpxJclnosfRsTd1htA4CtijFYsY3ZUSilBdT1Fth7QDbD3fG3s0FRQfOnv87KYSntMOix5yJ3k9p8Goi5uZxHIDjIRyS8amV9bhNVv3IHMO1aE30pCGkOiaxdhxkqB4lHdQVh6DFhIQFby7FYa0Pw6d-Xlu82vsURoUYhnAQ97wlMoiYYtRCBTjipb0-S0</reference>
+  <id>73d8fac3b5520bb035e5e428a25470e79222b7c9</id>
+  <place_id>ChIJocohgyhamhQRE4ThaeFf9ik</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Γ. Μιχαήλ Τάτσης Παθολόγος</name>
+  <vicinity>712 01, Έβανς 83, Ηράκλειο</vicinity>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3350830</lat>
+    <lng>25.1346340</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CpQBhQAAAIxc5TQoP8m1TF7tq9t1JxgUuO12g88dI5-I2WOpByge0-y27PifhShFpMQ-IsMyZD_lav6B5AaxwpGZpsxZ9xdGgMRrvceQW_akE0OkaWApY9Cbh4gmQL2G3BESvJMyHDFbXqjcOOjtU3VU4fHQGLNcrJmsUve1r9XPEWU14Inlj9rbSckiafNRbIjtrrd8lRIQ-x5O37g0pyaiplbrVqhAuBoUFWKRFGD_Tk9N3IB99yMyQAWQN-o</reference>
+  <id>9fad26b5921856279daebaad74fa9367f775dd9d</id>
+  <place_id>ChIJWZWdkSlamhQRtIGjNw5xCYI</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Γεώργιος Σπανάκης Νευρολόγος</name>
+  <vicinity>Θησέως 18, Ηράκλειο</vicinity>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3367630</lat>
+    <lng>25.1326270</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CpQBigAAAFx5u9cwFlch6B7H2OSaNdQPFELUbFyctsZSEkbPc_rX5ySE75PQ4V_SPid3dmwXsjdoYIoJa36s2RXDX5mguKxKWtRUYInqZ5El43w1jHLiQRl89dRjm9EDwN0YM4RcIBUHkWgM1Xw2r0Q-_dCP_gl02VqGhPCFmgxqF-4FpUIk0oHG_NJk_voO7kFdw1DYZBIQDz3mCpMbgAiREz_Kxq1UMBoUPuLdjz0otrpzVYpqJZ7B3WSog2w</reference>
+  <id>9df1c120553f012b88205c8e919801f52ff31151</id>
+  <place_id>ChIJg_ICAilamhQRj4DDnK1pMxg</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Όλγα Τσαγκαράκη Διαιτολόγος</name>
+  <vicinity>713 04, Ανωγείων 36, Ηράκλειο</vicinity>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3354800</lat>
+    <lng>25.1219920</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CpQBiAAAADXfU5zbE_muZhasH45QU8Xn1uvz0CrCzCy4e5OlzTZlP8y8pLpbn8eeW7iWpIeR2IaWCiWVkDmWT6mq6udiLeW50ekgNTb2340YYoH-ODuVNKBoK_lzr5oPJP2RZl8w0nLVqKab4bEH39Rq4UPonaaYzZRJfRuvlIB69aiU57SqMMH9OHoueUHDl8PaENgviBIQkLXQ78gG2HxGljp6BHBAERoUsC-Fy8LltMp4iFC4Bq1wXne02zQ</reference>
+  <id>b8119ad436c33a23a36a9bfe6b37c3a070d0714a</id>
+  <place_id>ChIJ-XajbYpZmhQRVXf8blL6ZmA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Μεραμβελιωτάκης Νικ. Ιατρός Παθολόγος</name>
+  <vicinity>Ζωγράφου 13, Ηράκλειο</vicinity>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3369480</lat>
+    <lng>25.1353640</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CqQBmwAAACNHebeqyfPfgari63HwajYHyhgOZdcJkCNRawLVLH9w2irOYvgBvRGMTg6GbDLAlz8S08sZCLQ452_cdqCW3pqBrCypNK9L4XT2WDU3NwhTX28MqFBoVCh5VK5hINSqOl_H6TYZp4MMpnwnn3yuCbdRs7c8mMB2F5phFSxTIKoHvN1DloWb62WPmC2BBs7sFxkzs1iI7ZT-mrE-uYCJW4kSENheftc3JfZpivmIz32Hht8aFHMTeUyTrrhAloHwJpz2UeAGMsir</reference>
+  <id>4d51b6b06421782db0b157921684eb3bbfc4a23a</id>
+  <place_id>ChIJ6WcAYSlamhQRinP8UibyrpE</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Γεώργιος Τραντάς Φυσικοθεραπευτής</name>
+  <vicinity>712 02, 1770 26, Ηράκλειο</vicinity>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3394800</lat>
+    <lng>25.1306290</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CqQBlAAAAGJqsbuld5qlWEJQNFmVrk_cYnKl-QvU5hT7H8Dde_vqIrhqpcUUuo4i4NEBf4SHVtm7Lbiag7_0ZO1Bp8kE0Ib-k2jBo5hM8NizophF5xBG6VV5lRgj7VOQ8BC3MUrELrOLdRBiuCqRdjv9xZg59pnTut24H2U4WmZ1pfKaEXlMrRrj-D_ueZn80libuOkgHBdtkrsuLl3Ob2zZowDXJJoSEFILSmPPoB3ewhvihPjpnPUaFDDFjWert6R6vScNE0lE0c744zuj</reference>
+  <id>1ef39f8f66ac641ccb08ff2aa8ec8a431322c78a</id>
+  <place_id>ChIJdePITC9amhQRMmw53grVlGI</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Αριστείδης Παρασκευοπουλος Νεφρολόγος</name>
+  <vicinity>Μάχης Κρήτης 10, Ηράκλειο</vicinity>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3374730</lat>
+    <lng>25.1219800</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CqQBnAAAABbhmYLGM6kr72wTclDdLq0_xPOcIY8-dtGDiJREF_wyr4A76lI1TuAJE6PrmyaRX8MDcwd8Yh-Uvp9O7heOQ2zYlqH3MfXQX67BxVJEeBIqEfJDUQu4jyG-SDPTmrBWjeq_XtQoKXO3D8Bjs025IwkWmtKxJN4lrLmBLqC8RTUV82MXvrkWSLdCp1UeBthbI4FTo713-0xgleRsL7s0Ll8SEHEnJktVAxJuTF1QduYizc4aFPfsctqSM3SsqM77ylcaFoxavABH</reference>
+  <id>11827707ad9ad8050ceee57f9463fc9a7c758a38</id>
+  <place_id>ChIJn97PlCBamhQRkV10bAyn0Fk</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΒΑΣΙΛΟΠΟΥΛΟΣ ΧΡΗΣΤΟΣ</name>
+  <vicinity>Σφακιανάκη, Ηράκλειο</vicinity>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3378360</lat>
+    <lng>25.1302550</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CoQBewAAANCUHsS82TBz2LkKQkrwwB6SuOd1BCayUQEFONZ0zcTO4nKVLSWSZTn_K5AFK7aQ4gL4YggNJwpPnVx88j7qKhFICW3szszHAfttBtz88-nkk3X9gJe2Ee7W2evV8szJGbHswfPyX48LFekUD_h_BOxawWR4CyhHqqYSi2JAz5RLEhDpw1rV0Rb7n9LUJeFj4lNfGhTDhNW_c__Yfr47MyGUstIlDgzWaA</reference>
+  <id>8aa88848f2dd86da1eb82bc03f985c488df0cb32</id>
+  <place_id>ChIJs9hAmihamhQRnVvWwjYWm5s</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Ιωάννης Λασηθιωτάκης Ρευματολόγος</name>
+  <vicinity>Μαυρολενης 20, Ηράκλειο</vicinity>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3361080</lat>
+    <lng>25.1336940</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CqQBlAAAAPbgO9vBmpbOyKYrukyzUXt-VXA8VWN3xRI0qjQ3BVYhRhik5yjW68oD4bEaltB9eFXLPxPsT43qqppqeGgd4GzoOgBPci_mdacrT3aBbKxJqKuHmrc-weRw-LO59fpHL1GOeNMb-z7sRhUJtkhqKQSVo4Qhp2cun-kEdQcUYOg2tZtwd7hPfFiDQ5wPuw1grkb-vbFIUvw-8LPM66U-SeUSEPGyC4fLwYCwAWMhizDd5MUaFBT0sHZYnGDKYGblZmrJCuERmW7s</reference>
+  <id>f4063d9534e1f8d97fe5e5430706af33d1902dcc</id>
+  <place_id>ChIJe-Y0pylamhQRwln76z-7V0w</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Χρήστος Καργιωτίδης Λογοθεραπευτής</name>
+  <vicinity>Κονδυλάκη 50, Ηράκλειο</vicinity>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3311010</lat>
+    <lng>25.1246920</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CqQBlwAAABM5-uN94N9tL-Ln8M5f4Pv3i_lBTPOSKCooFT9Gq-yyv9uTgdrTEK7xGsOkRNBX_7bXRZY1dy6sUnGoo1R2cNQ0hCnEstguJnsPBw7G8uUnjaABlbUyRH2jpaPVasZG8dGYo3wDg3NwkCOVu9pc61vAxvlj2FTgZzLQC-9WWBx13SwkCrlQ-M0M2SP_KVrfdWM430Vni8gMfZmHIhyypTASENKlVTGWoWmfOFq75GFp8bAaFNkRhGNiDe_NOu_dvFGUqXWNBTLm</reference>
+  <id>487593bc029fd5842e07e04688212875e04a12bc</id>
+  <place_id>ChIJnalmT4lZmhQRz1Da-N8q0bo</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Πολύμνια Αλιφιεράκη Γενικός Ιατρός</name>
+  <vicinity>Αρχιεπισκόπου Μακαρίου 38, Ηράκλειο</vicinity>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3398020</lat>
+    <lng>25.1232600</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CqQBlQAAAMnmQLgPal6DoMm579NzxI7U4k3hVmTJIvCTdPInfw9ETfNblW3igCiW_9Uxu1R-X0Vgjx6ZvQWp6oHVoEjpRWyQF0TkBDpwRHQeF1T9Wcn3BeP42ZDYFcVHTqJHZwUmnbTJmRhpUGoa1itT4AwrUr5vr8EEFWxMJdp-TuCwqeKUzn1d2yzK7yYj5OoOdM7OXykWM5xQSzlOfSvNVU2EPFISEHwWqFf6PlRk60lxq0TZ7uEaFNoAJcVDNdsUogBPaybJchAlQ6Dm</reference>
+  <id>fb8b8d08f371d841af31a4a3d22f4a23abb852af</id>
+  <place_id>ChIJiTfiSSFamhQRglBoJiPFnRQ</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Ελληνικό Κέντρο Ψυχικής Υγιεινής   Έρευνας</name>
+  <vicinity>25, Χρυσοστόμου 25, Ηράκλειο</vicinity>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3322020</lat>
+    <lng>25.1363450</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CrQBowAAAO4AM_8bBETPxydZdUKGCS6K76l-sksw9tHpBRW3aPaP6wV479lO--bFfoppPqqw9lDTEMuvXCAlq7HKTcU7z0-4RoDrLcVB77v7HAv0hBxwIbrX_YHG0rgmwOpxaamYbfNhy-G0mkWWMBzlGhp6l6vKASOIhDRUEW7sG3PHvqSTTgxySZgMLMnVAwk4hLhrDdWAP4oVzPDuxGu509CSds8t4eUMe1lu3S0uoaPbAPnhEhCFrmd_pju3Ly8SJv5liN4KGhTqfVLasy7j1wMmXBkYReVs1lOJlg</reference>
+  <id>0cddb5f0b0db80d5dfdd114bbc9e458bf7f84ad5</id>
+  <place_id>ChIJRUVluoBZmhQRk0m8OmmKt4k</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Μάνος Γιακουμάκης Διαιτολόγος</name>
+  <vicinity>713 05, Αστερουσίων 25, Ηράκλειο</vicinity>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3333850</lat>
+    <lng>25.1229830</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CpQBjQAAAF2wrXhonE8OG92zkiYBtHP42PQEt0exS2FC4KNV3DaxwDNOrtYr6eURHm2W0GN63Plv3vHUlTEeh8DxjoONYmxuV2rlzkP2FSj7st2MYO8e9bvhjTZNbTWbTLNXIeb4gMuCz98C5kT0F6I-fcawxrRi7R8wODa6fCJ5CuldlY_yU-uhLcj8mlKvdFRBNZoQchIQB8nrpyI7sBg_wJryBVgc-BoUbGLzShQ-3A8nrm8Pkbz4zoky4EA</reference>
+  <id>5dff9251d7d01f6dbc22ecb7a7c910e693736b17</id>
+  <place_id>ChIJVeul0otZmhQR50bLADSDSo8</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΙΠΠΟΚΡΑΤΕΙΑ ΠΡΟΣΕΓΓΙΣΗ ΥΓΕΙΑΣ</name>
+  <vicinity>5th Floor, Σμύρνης 28, Ηράκλειο</vicinity>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3366930</lat>
+    <lng>25.1346350</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CpQBjAAAAMb8frH9i24q4NeEIadwsqHt82ygTsI2wWY_-GS2JTKWAgUIoYhTv-DYJrPgyfBCV832WV1VY3tWIefo3akZawrjaBQyXFaM7K0yEomxfNg68H2Xub9ZTWeT7HHcwyvWyQ_zMHHzBG9eHRR8jGwqEV0hUV3546ebYZWYme1JbBIkZgPWV7V_7s25rw8qzvYuYRIQpARDGrTncDG1E9wVaigyLhoUMf-ZF5-bgl-qQ1lE6lm1Z7N2Yp0</reference>
+  <id>e2d750a1d2eb5b750127f48dcea4146f1df10a00</id>
+  <place_id>ChIJD7TTbylamhQRnUCzxkbYPnA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Αικατερίνη Ανδριανάκη Ακτινολόγος</name>
+  <vicinity>712 02, 1770 26, Ηράκλειο</vicinity>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3394800</lat>
+    <lng>25.1306290</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CqQBlQAAAGisqXDyh5FUWV8fIYh_-xKmLNA8mGsKylDopY4Eyjc6tXefrX0DfHBBgKr3mKCUanGpEHUP2NcqpXv2psDZbd7A5a2uNQYYy3TvljTaq6VLmsth1CrmIt9LQ2ILh4qWyJylDr3j-qzm-d0R1BQYBIG7yeFTZ1EWYeZbKFNjpuCKYoWvj3fKnk9Ofd4ZxS4A4pyPdIvx1NBUjNCDCuFwLsISEHYYcI8Uf9jC1A4wC8FNv88aFKZviJ-I8eX1RRxGFDBvbkfliK04</reference>
+  <id>c3616df3dc9426bef6b9d13abcbb1de708664898</id>
+  <place_id>ChIJdePITC9amhQRtzXj4ISNgLY</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Ανδρέας Βαρδιαμπάσης Ψυχίατρος</name>
+  <vicinity>Μάχης Κρήτης 10, Ηράκλειο</vicinity>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3374730</lat>
+    <lng>25.1219800</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CpQBjwAAAE_I_7cJxLQfBoYgipVVHmQLO5RpZ26us9_ZpYpDd0xLlJqxThru5ZLxqM5x0GOpbA8S04Lrf71loUWbGRB59_isOHnypF4_3VJR1iy-VsAUSymZ89GgyBHYvfVwPgfwSMdy61sK4FLA65g1A6mKLtjNeVRN-ti0NhuY4j_GYstV4JiVL25E9NLChbGDH4BytBIQPYE5a8tLhOqjWpSbbrXUDxoUi5rHa8ea4bgTImLfSG86fB_pFW8</reference>
+  <id>d59414369fdaf694b78d11c73d9a40c31ad9b997</id>
+  <place_id>ChIJn97PlCBamhQRQTQkB2lVw_A</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Dr. ΠΑΤΕΡΑΚΗ ΜΑΡΙΑ, ΚΥΤΤΑΡΟΛΟΓΟΣ</name>
+  <vicinity>Βιάννου 3, Ηράκλειο</vicinity>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3359670</lat>
+    <lng>25.1331670</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CpQBjgAAAMn-0QJqSe7BXugP9kjq6AvYJ8ohJ9AfBDm7QC6d8V24GFqLfrRep07CBUHXX9h5xfdHa-Z_aaRJb4ofWAGRMEbN0HxSHKuHOtrP6CBYbRitohdLpD5vhuWD8x1jZ1IC_kDn0ry3TH-MwdkZ6hBkoE6b3f8OlpDU0TeXveOiLCPqjUJofSbYOxBYrTwZ1Yf4rBIQ2hZIwtDRY1dBB4haZ58EjhoUhaB0nDtQ5f4KBEs96cu95QtfO-8</reference>
+  <id>1af9533271cf8dee728d411ced643bc2bf614baa</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJ1S0prylamhQRlDMx2yJyzrw</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Στέλλα Ριτζάκη Διαιτολόγος</name>
+  <vicinity>712 01, Έβανς 83, Ηράκλειο</vicinity>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3350830</lat>
+    <lng>25.1346340</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CpQBhgAAAN-YSYfMv0GL3mjVSgpMhpS-PjGFWQYIsFMikVnH6upOQijTfzvMmDhvry6SkK9woinpsRgJCLvJbyJCVFVo2_cTdcchWKDmm_3uZxJY1z0fsHoiAOgl4tAgS-r7OcwHIEhtgTg4vIi9QF53JOAHYgDMfaRhxGL2ZYxA8DFSPQc7KgVmwuEda8uxsB75WUs4RRIQPUv39hDOu42WLF8jY1H8bBoUByemIr2xKQExaKVwdRw7koJlcJo</reference>
+  <id>09526e44f2a5ec2a30faeacf555c0f0f7a2a8ce5</id>
+  <place_id>ChIJWZWdkSlamhQRLTBDp13gsCY</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Μύρων Μαρκετάκης Ορθοπεδικός</name>
+  <vicinity>Αβέρωφ 25, Ηράκλειο</vicinity>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3364940</lat>
+    <lng>25.1344940</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CpQBiwAAAFN-DUdTaPPwePebk4-G-asr1Yqv3moZhQdsvfi2Tp5Zga8mOtrMTwJ8v5bh0PtLGY3WAUBqByK6zd-Jl8TeXSwoJO0Knmt5EemlsGRWqt-givmCvP3p8NWCCkmlwWxxRQe8dUVvz0mSOOyw6wG4eoQqLKbhGEPbkKjBSkWYSTezdH5fqiDB5Xojd8JZiHvKfxIQ9CHSf7Qf5w3Mq_IBH1BudhoU2UFl04jDcz5uH_dm9RFl_MDjyNA</reference>
+  <id>71b0a4c6152cd88e8e5f5bc179fcd73b58ea42db</id>
+  <place_id>ChIJ63N3cSlamhQRNC_KIbkiMLg</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

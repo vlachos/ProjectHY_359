@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>ΛΕΟΝΤΟΓΛΟΥ, ΑΝΔΡΕΑΣ,   ΣΙΑ Ε.Ε. MELBA SALT   SUGAR </name>
+  <vicinity>Πλατεία Ελ. Βενιζέλου 9 (Λιοντάρια), Heraklion</vicinity>
+  <type>store</type>
+  <type>meal_takeaway</type>
+  <type>cafe</type>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3393010</lat>
+    <lng>25.1332210</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CqQBngAAAPzJiiUJE19uHEMaTPGSa4c4Culvzk89FoaXnavbN9pSKJYbABU0ANyZE37j0rkEC2xdkbhj-7yaz8_1jnPVISChtspBPBIn9TZL-YJeK0Vebw8Z8mGLBgVzjKysWRrvj3WkdoHMIIpGqLjacceteUCXC09fmF4i_jwE0xYkZRfiMVYtvL6aTtqr56dMFBQ6MZGbeuZJiycQ2YVXI1TQ1c8SEG8vtHUMgZVfJwf6CgKaszoaFJCWuFD82SFbGEnw_NGDqC5AHIKB</reference>
+  <id>e12d7c43210cebfa85fe5a1138e19327ee6cc5c2</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAEdo6eVZaeeyzlNJNxqJrz3X8GbhgHfQrmVtSaGGnh5hx4Iu3fE0x8gYhuDWivgjkCBN8YkmkDwR80xpRq0GordDT7YnjvtmoxLep9-Sj8RgeWCIqaZZFp249DOSojzJUv74dJE568HxrRX4JMRBadhIQ7v2bA7S3wIF89katEMGEBRoUVwuhTymr9dxPh7gRPTAEZ0GYOv0</photo_reference>
+   <width>1600</width>
+   <height>1200</height>
+  </photo>
+  <place_id>ChIJrzi50S5amhQRsvQdKzfvntA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Snack Point</name>
+  <vicinity>Μεν. Παρλαμα, Οδύσσειας, Ηράκλειο</vicinity>
+  <type>meal_takeaway</type>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3277220</lat>
+    <lng>25.1063770</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CmRfAAAAzXgM0zmBMVXd8tn32RJcpPwvP70B7EfyuuYc-bjrIJyfsQD7bjx71ydX0DtQuZHUafCTaly7CwH7WBH_l0UZADWqVVPQ7TCyREEz9YY30jQxOBN9nzXaKpmiyKcIxsI4EhCU7rF2HmCuvcScC7Tr3iL5GhRxPICYVjjhjfV0aO98JiIpssVMdw</reference>
+  <id>3c1916c3660d9727e6100192094afcc34dc45f0d</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAHSTjaVYtDYpAi4xJfbo6dQIF5Nguqyhci3vVmgvjpJSWveEFZ4i8nSEgIYseTi-fpg3v9D5mNKCWekHACMEhodN1pz6EBWVvcMtd2idSm7yCeoFeFSWLNOjNn8qEjVMC6dZ6QvLF22nE19f0dDpcIRIQ4vXlZKmJXL5tAY-mrVwNAhoU3571T3sonYhbd4iG5P-iB6QGoCc</photo_reference>
+   <width>2048</width>
+   <height>1536</height>
+  </photo>
+  <place_id>ChIJoXeWju9ZmhQRFdjZmiixHbQ</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>PizzaFan Ηράκλειο Κρήτης</name>
+  <vicinity>Λεωφόρος 62 Μαρτύρων 105, Ηράκλειο</vicinity>
+  <type>meal_takeaway</type>
+  <type>restaurant</type>
+  <type>meal_delivery</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3347810</lat>
+    <lng>25.1166160</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CoQBegAAAJNBDyaywjvZzMn1LOnsXFOM5S9CzFajlt0ZcJS03CpmlAV3lnlKCRqYqBpInfZ36EbradVCgzzGwcQR6Yf5UfOJy8kEZwYn91UwKIlz7e77mDc4QYVvREVlYELJhZF8ndm_F6gNRQwCRKLCkRUtat2n9c5aWgf-PdvRLaE42ujwEhBPGAJkYOkZ-_NWo4GHSPesGhRW9_Yv2xkWBYPPKX0_WFhGDaIkrA</reference>
+  <id>5f219e2d054d33546c623b4c8cb9b81dfa2e2beb</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBfgAAALdhmHTpR3aLTPop2spkz4vBeL2vA-Lq31I9fON_GOdO5XoBOGbLRCTxGvCxm2BPKDdy2HTSX6rZCFiNVqkky8Mgt7vBDd8RSv3h0hAvqb2rpzcqqvcos6CP8yaqNDxkkUiUt44tvhTASdiOeOkFjpy_R3VZWhTx-upHqWVdlKkVEhAydRz4YlCSOUyNzasEmu4nGhQ3CDB3QzPl-OZ-z_qo3XJRAGtnmQ</photo_reference>
+   <width>687</width>
+   <height>687</height>
+  </photo>
+  <place_id>ChIJLTtP3_RZmhQRAVjyyJQkQ_g</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

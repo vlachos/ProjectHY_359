@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>IRAKLIO CENTER PARKING AE</name>
+  <vicinity>Στυλιανού και Νικολάου Γιαμαλάκη 50, Ηράκλειο</vicinity>
+  <type>car_wash</type>
+  <type>parking</type>
+  <type>shopping_mall</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3408220</lat>
+    <lng>25.1298670</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRtAAAAMD55h2zg91dgmp7C-2vz84bAJtQAuHIMj3cokhNjhl-Jv2_F99nlmBDX9EzldtUqCuRa8cm6HTSOmUIT1cSn8DmFqJxGpuq0uV0WZn7SpFl0MJ7pZnmBjHmPUjhd4vjzJ0KBFEp9U3shzsHMRJClJRIQ4vEZCtFWK1b9ZxxL9U19cRoUL1a2vs5MtuRXba3_6PFIRpKwcJ4</reference>
+  <id>5f7d6fae0be74bcc0c42d7c75fd7c91642463498</id>
+  <photo>
+   <photo_reference>CnRnAAAAc4LnqRNssfN_L98PllZM4rrA19KhZd4cZPfNvuyQl5TvAL9N9gktEFXiNhEgOPgtb7W5bda4Tvf9yhOJZ7Iq4a5d8QIZMv9TlsbA7wn4zYLU7P9aI2Qeawdx4xfEYiwY8TEAdo-fCwSPtfNem-8AuRIQC2fS0KURWI3JlydEuzR8tRoUFncBubENMW9Twwl0R5BRJxqRk8w</photo_reference>
+   <width>606</width>
+   <height>905</height>
+  </photo>
+  <place_id>ChIJV7cKXi9amhQRbY-aov92w7Q</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Central Parking</name>
+  <vicinity>Κορωναίου 26, Ηράκλειο</vicinity>
+  <type>parking</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3408370</lat>
+    <lng>25.1351810</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRjAAAAs0n4v9oBEmG27Qv08ZhrMZcxlQhDcU_NQb0kNSiYZy6KqWzo71gs3ZrncL8xbK3idCevXK_pk9XnpiL3cgIxpQtcO2d2xAG52chA9T-f47lhWbzKwND9PErFRkdoR0iJWK8TZ8GkAwPBbWLR7XaeEBIQ3dxyBNMQqJy3L9Irm69LvRoU9gSbxYaWbxW3x6t8DSJq9L3keew</reference>
+  <id>24000fc31bb9dce686600d394d482da48a3d56ba</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAc2h1FLd2OH8e8fPj41qtea9cqdSaWvjIX826Gk2_1EUCVcrmro-Im07eOmEpKt3OYZzpKaLvia-74UwYgispS0Y0Khp1XfRC6KC-7GzoDlMdaU_aWPQ5xRl0DtcLJLUWYkRWtEdj7IUXYsaYONPx0BIQJ9ldNThlZ6XVH1Z8HfcJGhoUQxX-S_jMvJPm1XSi0wHd6o4EVMM</photo_reference>
+   <width>700</width>
+   <height>640</height>
+  </photo>
+  <place_id>ChIJd8jUhi5amhQRnOEXIOOMn_Y</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Plastira Center Parking</name>
+  <vicinity>Plastira 47, Heraklion</vicinity>
+  <type>parking</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3333760</lat>
+    <lng>25.1310000</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRrAAAAF9t6jQDRkbMiKWmdhIovatzowILB1-RDFyRdLFFhxSAcEBSMhZUs_6w7RSTmz1j_R_i0RCYlWGKnfKEzZtljbApEgapGG8GIJht7SUa3y-uxdFIhABpmJnA1GWHYj2w3LpIZl3f3tnKwshS3fgwwrBIQWj1zI6VoqxVBzNSx8lkz-BoUuYC6nZgDLnT_G8vtpFlbuPr4bWY</reference>
+  <id>32a3a7d545477c3c17887cfbdea1a31dd264a515</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAOPe7QdQS1plhxnPD3QywCX1ICRgnNcqo_6HHq00O9RU3taJAoJchxRIt97BPQyFnyJLBEHW0Jw8mg-sH7W7upH0Jkno7Rzhf4wL2QuG_NXDAsMC5Qobl5PWgSmJwf4O5p8hCmnHdnfh27EGzCMXtoxIQFvKp2DKgilbLVoibpsIV7hoUEq0wTn4FMbI1ln390ezGXh7g1Kg</photo_reference>
+   <width>2048</width>
+   <height>1479</height>
+  </photo>
+  <place_id>ChIJG-7o7IdZmhQRyODeZGK9cJw</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Δημοτικός Χώρος Στάθμευσης</name>
+  <vicinity>Leoforos Ikarou 4, Ηράκλειο</vicinity>
+  <type>parking</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3373510</lat>
+    <lng>25.1380560</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBhwAAALxgB-kq-QTIlgj6XuaADetTVD_WJ-xbD-mlzs1X7KytDt0N2bcCkNZi66wuKA1LHdXb1v8igk44dTUUP0qReUaMRd4zlPcoe_jPxAEu4YbTGVrOriVPn4OH2LqH9S--ZEkWR8XxNek6pR50TvEoUtXgdnHXHZILAmtcSnSqFZaCMLhOU4T7mq74rrf_MESeeRIQaL423PESXMKLaCfPTOWaBxoUqja7Mgryj2KWZ8Abn6BxZwQ90ug</reference>
+  <id>b5f6aa2715c366959dfdd12cc99c10c59bb280d8</id>
+  <place_id>ChIJ_3bXjCtamhQRtc-s6WVqSdQ</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Πάρκινγκ Βολιτάκη Ειρήνη</name>
+  <vicinity>Πεδιάδος 1, Ηράκλειο</vicinity>
+  <type>parking</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3366610</lat>
+    <lng>25.1369780</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBgQAAANI8s9-SUbWexFe5N3fFqY-47JvRpPwNgbQReAG1ykmXBl7NgRDWoZMAQRIwS3jObcyEJYwUO5OG9Alxn6vNJ8TO8coAajqDsJJ2quDi8PgDF-EvG_96J4HWLJqs2IsNX5RAbYY4w6qdSLCQCYDM_qPvmNBOsIyaEwvzPLD_xziDh71eSN6oZQStP7MC70McYxIQa0l8zg0qdSiWz7VgqH4c8BoU4744LrXiHhM-yyOagNOUMef2ERQ</reference>
+  <id>2d2a4facb990534f0239335ec8ff8a07987e1979</id>
+  <place_id>ChIJG4LqwStamhQR9JrLzWIWohE</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Dimotiko Parking</name>
+  <vicinity>Πάροδος 4η Πεδιάδος Βίγλας 5, Ηράκλειο</vicinity>
+  <type>parking</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3366850</lat>
+    <lng>25.1372920</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRjAAAAP2MQ9QJVCWpRqOMU-6rqLZuM7FtZiNz0m16uAgi-jkI5cHRXDl22hjsEK3IMtjoIo5S2-rVJpSq67c958Q1CzC2uA3sdHeA4gn_MYwe8soehgElIiDgW8FFdULFdB_vSK75pCuTZXmwbEyUyWZP7WxIQP28VgEHWTjrZyUuB883ozRoUARRN7Ef8mkkPYglUcpufGsf75_8</reference>
+  <id>1cdea32c12287593ccf74ecea3ae392aed7141ff</id>
+  <place_id>ChIJc4_9lStamhQRyHXZ-VOnS1c</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Δημοτικός Χώρος Στάθμευσης</name>
+  <vicinity>Πάροδος 2η Πεδιάδος Βίγλας, Ηράκλειο</vicinity>
+  <type>parking</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3347780</lat>
+    <lng>25.1358390</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBhgAAAOME1G9iKdPWnDlWqBIxrorlJZH9YdlwweiCy4NEleVF4U4AyvmW51an0KBT47S6WcQWKBrJTROIv5cdxBvCMYQj5pij-_FBZWgM8hcvH3smBgQmWlmUGTCV231ChZpLiGUyqL5vLcJB3s9vAwJxswTgGZB7iRdnA5QPsQVLQYCa2cwk1grK0cZteBYMyo0p9hIQDM85k8_YRU_VCoWjPQQkABoUwrscVZCqNnqAPW8bCVFnWaPVXxc</reference>
+  <id>a963a7ce57ae10d774328202952786ccfd1fff46</id>
+  <place_id>ChIJN8l5NSpamhQRt14bwG0to0U</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Sea Jets Crete, Rafina, Piraeus</name>
+  <vicinity>Heraklion port pier 1, Ηράκλειο</vicinity>
+  <type>travel_agency</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3418730</lat>
+    <lng>25.1426760</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png</icon>
+  <reference>CoQBcwAAAPjNSfLxfhoinT8uDrc5HHPyK2SstJqcsIBGa01vT1x0npobTE2DnpA6ooAnMD7gCk1FXP75V98FS7is4XBg0O9nQvgU4xgT26pfWqqUo9tH3us3VUMvB6f1oGhzfMSbYnssA98VqNJC1PSNOib84m7cSgSfvtKaY3F735vDsxLnEhAi6sAOPrCbtonEHFY-lREQGhTRQRgOZI816QZ3DzZgVheSO2V2ow</reference>
+  <id>49211ee08dbff5e37c5186206656e26f6fbcefbb</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAlaH3jQyv09JaclvnubXo8Gj28YT59Ol34RWvl-nCdvhXgG_DoF4XBWFTOrO62fwLtMHbqqrX4Hg90tdA3GxopOuyUdmW37_1vpy7UI8jK6iOyxQBJMuw0-usYVeDlOGX9-BuUc0WeJFHsebS1jWhpxIQlzkSFhLo0-J6ri0ddAJ1khoU_aV9P7GJ-dB5ic5s-xW3eOd_Y-o</photo_reference>
+   <width>800</width>
+   <height>408</height>
+  </photo>
+  <place_id>ChIJR5Gpbi5amhQRRyF73kMnlvQ</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>CAR RENTAL CRETE AIRPORT HERAKLION - CHANIA</name>
+  <vicinity>Ιλαρίωνα Κατσούλη 22, Ηράκλειο Κρήτης</vicinity>
+  <type>travel_agency</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3285020</lat>
+    <lng>25.1324890</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png</icon>
+  <reference>CoQBfgAAAJujuB8G6yhY38SzPRVNZR0s-A29u3BB1w9a7urMxQNVDistpTQLjenCllEa92zfqxsnbCLbhMETdQHQhAPkn-5ZWIQPg0lp6-I_LxmOb1w2bBv_iZcW2zmSogyIm8lEsXxRtSG29W0wF8LTqD0mer2qe_3XuiuDekY5MgoYYbIcEhAyeNxvEdn5AxOT89JiFPOBGhSiEoUkfwaR1Z5gzEYJLQ4kCFQlBg</reference>
+  <id>a80d316233e048b3b87fdf046ee86886fff5d124</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBeAAAADBrzc5zUjdAFWVkQJDl0N8PlKeQkhv_I5q8HtNgZbTUOhK4RLhtpMl2or4Tai_4O-yfufsL9Z33ROyuiWINt57EiZxLY2U-n4fCi1IPjOh51kAkYM-i5SZwb3JedZ6v7T3ljoMTw64q_fHMgxdg8V2wDUN1JdBsV62yX_sW8yOzEhAjeUgF-IKbfajquonPprxhGhTFsW2QtfXHM9WDGxBp6wWfbXldKw</photo_reference>
+   <width>800</width>
+   <height>802</height>
+  </photo>
+  <place_id>ChIJMaWV1IVZmhQR2BZIaH0qBkQ</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

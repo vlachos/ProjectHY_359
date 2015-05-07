@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Efg EuroBank Ergasias</name>
+  <vicinity>Λεωφόρος Κνωσού 96, Ηράκλειο</vicinity>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3250580</lat>
+    <lng>25.1393890</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRpAAAAUNzNec5mx378FMpDBuYlvRf2V7MA-iPn5F_l0hKomtrr4ivgPkKfeL5AkeJFKgAZPcK71S726306Pijk4rLmmgfE4XF9NPoCRyRRJD4P9ivVtdrPd0UDuL1ASlZzA3bnYM0JTFptRWTIt8kmcEIKwxIQmPnxvyDvEwcYOIhpPYZCXBoUSpLggr7V_lv_978Yhyvh6sx7mhs</reference>
+  <id>2258ddfb6bc929d7e0b4c9b6519bf229ab84b633</id>
+  <place_id>ChIJ14JOWoJZmhQRO9HUU7g_nfM</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Proton Bank</name>
+  <vicinity>Mafsolou ke Irodotou, Ηράκλειο</vicinity>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3451220</lat>
+    <lng>25.1570420</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRfAAAAfaC3zwoxblHLn4E4qfLk-1QsLam9Hl1xFpumOQqsxZxNWJ8ij2z85ApWiF3fERpbalQJhL02-WbPE2XNDiz54HIIQJr-7kz_Z1I6W0HP_cXW_I0ZLy7dg-JS4HOvcYEzEhBQzwDuJnUQzJZ6Fe8Y_oaDGhTTTtjqrmsIZxP-8J0ND2O3WCvMEA</reference>
+  <id>f664d83b6a1e2a480b5853c35a6662eeed26d55c</id>
+  <place_id>ChIJUTxYjcZbmhQRrOBVcJZbN7c</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ATM Τράπεζας Πειραιώς</name>
+  <vicinity>Λεωφόρος Εθνικής Αντιστάσεως 2, Ηράκλειο</vicinity>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3271380</lat>
+    <lng>25.1385130</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBeQAAAFYqJTUTiEPU3SQhLLipsN6YhEPIMgKSC3IQBdiSkNDzYscASfMbFhxu0juTwG5A9G0ZATgJrJJ32CctVHzXp6KFwofbRwQCWQCsRqS04ggcc4dv_-dwAcs_Fd_Q_OccNsb6KUHkXjS6V_95ZKhhvUeouYTOJ0mAbkiMHRnlwe7bEhD27krKcTHSQ0jr5JuotzKOGhSpTo-oTgAySwWaHO7E4FHJFRRCRQ</reference>
+  <id>d3041047c25895420545156f9501dfde46461d9f</id>
+  <place_id>ChIJK2at1INZmhQRMNTegN82G_8</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Πανελλήνια Τράπεζα</name>
+  <vicinity>25is Avgoustou 1921, Ηράκλειο</vicinity>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3398030</lat>
+    <lng>25.1336870</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBdwAAAAog4IH-gQFlaw1dJ1KemKl6QtXgBikPdxBWJhUH53tuOL7S-1jPp5zprga4fFFah6_CFw9SOwp_8Oqyxa-5yYPYnfBlPKG5iRn4_fdD3ZqNuFZK817w3yx8DTW48EQ_IGBSwAMnKLxylut7KM9QzUDsEROPAY5Ykrx_zzp554XhEhCCbl5HoZozDdrAbrRQrsaOGhS-Cmjc6u3vfmYNUDiXfF-e-t2aJQ</reference>
+  <id>148579c0c95f57f888d1acfb1ca720278a74d14b</id>
+  <place_id>ChIJaRLhwy5amhQRE8AZz6Pf48k</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Aspis Bank</name>
+  <vicinity>Δαιδάλου 15, Ηράκλειο</vicinity>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3387620</lat>
+    <lng>25.1346210</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRdAAAA2gLE0cwJ3mO2ZbxVdd2uHNOecc_rkjQcKIiEsq1f8aWypMir9fBfSBfN7PiqVKT_jTZ1Rv_cMdaF248jSZBHpKTZC2tNiVSJFiFpWJiMM7g5UPX0haL23Ka_QA7JvenDEhAf917Afen6QaHLcoqxkOkGGhSHT-emr73u4enWTkvJ5efbWITt4w</reference>
+  <id>32729e70494d1b70c78c9fa36aa3a6e61daa0381</id>
+  <place_id>ChIJ4Q-bi4BZmhQRSbRoYKoECUY</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Ταχυδρομικό Ταμιευτήριο</name>
+  <vicinity>Therissou 6, Ηράκλειο</vicinity>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3277860</lat>
+    <lng>25.1090700</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBgQAAAMie8UmpceWqtawrK6IE0yp7R6kfz2kNHTnQ4olw8o8vdxaRDX6flRTZdzk-dzadynb3JMAqIyTe9HzHQtAFG4Hl33BPnNSqUfI5bH2Lnz0KPbylGlqC76cEq7d6IBcv-Ma-uQoxE1eo0wjPjrMq4mw84uxdyc1Vy3ZM9ULMpcVYfnB-NIOk4XmOHTHyPtFIfhIQnpTC9Fz3kPn3c-uypjcS-xoUwsNZWBwVjmnGHXetS48Pjw7TTmA</reference>
+  <id>b02eb7559b3b27b2207fa35a753c67b8041bd663</id>
+  <place_id>ChIJBTBjNO5ZmhQRILK_zuAMubY</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Εμπορική Τράπεζα</name>
+  <vicinity>25ης Αυγούστου 66, Ηράκλειο</vicinity>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3401800</lat>
+    <lng>25.1338890</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBcwAAAN-Fk5u0l5Lr2kT3dSk_5Vfxm91_n1NkzamRbYXOgpsdLSziFpblWrHdloXjJHxqVA3cm6Cq_2eUOFhNxqO4si6KG82DbA6K52zBREGGGM9yuKOqj1VngP-K8_SZ_UZwZe6R0Fp6lYuGMI-bKcGl6tWb5-GBlrp6AoP6oQawmuDCEhAww_iZilP6dQHmJ49WrX3dGhThSoAhQETtGjLxAuRLQOoWX0dbRA</reference>
+  <id>89f7071bb61b5c7aa6b6fd00466f940a2a632c8f</id>
+  <place_id>ChIJD2gBxC5amhQR3ao9u4k6-60</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Efg EuroBank Ergasias</name>
+  <vicinity>Μελίνας Μερκούρη 17, Ηράκλειο</vicinity>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3287790</lat>
+    <lng>25.1279670</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRoAAAAYOGD4WqHONMznwOs_qPsfthDvmKizCKF_SfkLOL6V5xR62tDY93dnHl4J7m2IzM2dI7xN14vMDjgQqDcVtqn4DwXpHOOCs2FFYlw2O4KrkNoVQ1XTYnnqYP6i5yIQiNF5R-oL4x2oIKOQzm9VwN1rxIQd7xPXSMYVQy6yTna7-SRShoU9dsEbAyMc8COvjIfSzmu_OOqYcg</reference>
+  <id>f88963cd2380cda1c2914f3e1089ba2229a3acc2</id>
+  <place_id>ChIJiVEqP49ZmhQRZJosp77nrEo</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Τράπεζα Πειραιώς</name>
+  <vicinity>Αρχιεπισκόπου Μακαρίου 22   Σκουλάδων, Ηράκλειο</vicinity>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3389330</lat>
+    <lng>25.1239090</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBcgAAAHhNUn2R10DpnUx8fF15Hcqap8YizyUps2jCa9RJ9_XNQ0UjTCz34CQ7rBsZBS6g20lv3pMajGsickTRtHKPqI83zklxBosJf96GlHEH837zexuMslgpj8BZDU1qoF6RHzgXVqU4oXtwqZhrjkITPc98-0ltOKn3M8aOBtJ7lAD2EhCvlGorDZFm4c-8JOFltnTbGhQdi40F2ETHuVOjqH6Td0sQxDDmJw</reference>
+  <id>ac499c69c4f6f595681804c863520010fef1a0bc</id>
+  <place_id>ChIJW1F7GFMiIRURVZk8lP1caD8</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Millennium Bank</name>
+  <vicinity>Kalama ke Dimokratias 83, Ηράκλειο</vicinity>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3296210</lat>
+    <lng>25.1380820</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRiAAAA4x3SyTL-5XgFDuc8BPJHN0IfIxemiCCqrqmRBQlLg6nQwInDZ5OEUFR9v1ByEicAdIWkF0CbMcKkhPFtqIlOGvsxZZ9IWKz9Snwnl2_6varZbQTrq5XBzfeDq_oOl__F7yWYEA8sN98zkkkZW30yKxIQ26-hk0VNuiWho_yCXIRv7RoU478SvGW7Oqsk3TDYM4G33BQruIU</reference>
+  <id>b2ce811c9383ea46f585c80dc06525a70c0b4cda</id>
+  <place_id>ChIJq_IzBIFZmhQRc5SLqlwaJXs</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ATM Τράπεζας Πειραιώς</name>
+  <vicinity>Ηρακλή 28, Ηράκλειο</vicinity>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3234490</lat>
+    <lng>25.1262500</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBeAAAAMvJQgLQluNFLGBfyFiQHJU1iT7EAbPn_tcVtuIa24J5fZj85Tj12lSgOkM-mMuMG4ryi1XxiIjLYUcpU6cJkhfkmFW8L6dNwUEXyHNyCXbiP4UCb1NLcyXHA-My5yd1zQfRu00fx4__m5cDxUrBV3AM-6oYpVBN-LniXCwvpTkFEhANpcz61fKzlnvdfMd8Bf9HGhTIa6XKUyJ9Iu5ycbYvxYgyAVhZ1g</reference>
+  <id>c10cef48ae407714a02104728fb045846cba5c03</id>
+  <place_id>ChIJ_WajtpFZmhQR9I5gNX08zj4</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Citibank</name>
+  <vicinity>25ης Αυγούστου 46, Ηράκλειο</vicinity>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3412270</lat>
+    <lng>25.1341710</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRbAAAAnL87H3N8r9x0sPQBpztVvsFWT1Xxg9WRnttnXw3F_pAwUiT7LN2Gm3rYFbSsSEHymJxot6Hp27uQvNz7u53z00R-peNa5K67mwIARuzuDhiSQWJV-yEHAaNuQz0CdNQGEhBCuhzygo5PtcxqavN3ljhVGhSt_6Xmag8lZ4UCUfvqso-CpttLSA</reference>
+  <id>94454c6eccb5f350ed304653e3e3ce005270ef96</id>
+  <place_id>ChIJMXF_ii5amhQRqIrZRp-bpA8</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Παγκρήτια Συνεταιριστική Τράπεζα</name>
+  <vicinity>Irakliou Timpakiou, Ηράκλειο</vicinity>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3240300</lat>
+    <lng>25.1220200</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CqQBkwAAAP8zM_gBdH5CzlJKwWi1J7miPHkz0HKyf0Fn5XvwR9Zia7GdPWLrEWcRwzi7MuXbxcFTpwimqyuhM2BQ1M-GfmNFTFkW2hskS_T_gduvJTJYC_xzdklHZub_pzBNHBHPEk45uCtvE-katSovEEYDZMdtzgtwmQbqJwTh5pL0fCzSExDuIqB2ttj6gDzaM7J_MRNgvwdjqGTFzQlHbF1s1KMSEFAY0eNmSANKsEo4crzBoJ4aFK_IVkXnaaNXSPa8mfL4vpYqRweq</reference>
+  <id>1051e2122861619e9edf3943a3eceb85dcd3b2cd</id>
+  <place_id>ChIJL-QsRpJZmhQRAYSz6SEYcMQ</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Proton Bank</name>
+  <vicinity>25ης Αυγούστου 13, Ηράκλειο</vicinity>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3418780</lat>
+    <lng>25.1344950</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRfAAAAMIKngYxGi9l5mE6t37Znx21gRVZkdBx1GMW-UvE1OmIAKeMQjm6xVE3oYmDnSRjb0xXDO-wlITrmvxbCvRGE4arDp_S8UR6nlMF5xl1kDHzXB5P0e-_7vBEmgTfcSsaFEhBf_Fkqy1GcsLjcLwOjLLEgGhRpmY9-hD27rbt8aNtJxLKAGA1MHQ</reference>
+  <id>a91838402bb8d2d948d6a4b575f04c8ea5736fdd</id>
+  <place_id>ChIJK0KyWShamhQRuoGLx04-VsA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Fbb First Business Bank</name>
+  <vicinity>Πλατεία Ελευθερίας, Ηράκλειο</vicinity>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3373720</lat>
+    <lng>25.1366480</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRrAAAAFr1aO-db7xeTtas4j_P714tkQZiEFRFyPTphV18tIiLsyI1FRkjjPk6wVIWlkIwJ9H7IyWREGR5rrAvWhfj82azagYG3snkpvIgjjflFw01sM-HhAW6JBO-Ts0UYLghxv1dU_jPaD3TfwRflSHO6fhIQhQiq_PNHEkLJVwECXiQdURoUAI5goqBVXKFbucS46LDqLGy3CtI</reference>
+  <id>9cabb8adc60e19bc38a2d2b2fe5bb526b4ba2228</id>
+  <place_id>ChIJx7be7StamhQRSnnk82dyN6U</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Πανελλήνια Τράπεζα</name>
+  <vicinity>Λεωφόρος 62 Μαρτύρων 105, Ηράκλειο</vicinity>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3348560</lat>
+    <lng>25.1163000</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBdgAAAHVUvWu_mj0ke63X2NsmfIzAI57dStMuceVfhiEBM6sqTfMa4MMff2CmGoLuVKD20rf77RiH2dFxBKR-zor9abSiJve6N5cN1_xlxuziOlYpWSRkF_NzToXQCOyBPc__vAtWdRzFmpHdpTMTfZKJB9uUn2L3684WIsZ1nAKMkyg_EhAirPWJZ1CSTLkuboNqOHtqGhSCWIPm0-9NBekDWCWdtSopxdLXmg</reference>
+  <id>19dfa33e917cd6ff828941abbb43ff77996b2058</id>
+  <place_id>ChIJ5Xno3_RZmhQRAm2l1fVVsSI</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Πανελλήνια Τράπεζα</name>
+  <vicinity>Platia Soudas 38, Ηράκλειο</vicinity>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3384790</lat>
+    <lng>25.1246100</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBdgAAANpYEuJzjZpA0z4ioC1fQkXmhEPYcCpVbuMVr7K5yKcJ045_0luQpiE__xd_qFaiZ22F31BkF6Ki5WHlL0zc42B9XEoQ_ilgTCW1UuToZyINHcaXM2eZlTARtlu9XTr1MXQwI0wAuKKUuqhm81ont2ItW2OcaKynLOW612boj5ZOEhDnC9GdcDE7DuXSDGz_gSN0GhSedmRkJ_eBvH9Qe4HstDYd5gOLZA</reference>
+  <id>3a8e5fc9b1ec216b5c41d4fc03d10691155a5e4e</id>
+  <place_id>ChIJ3Uyc2SZamhQR81R5i33_0zU</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ATM Τράπεζας Πειραιώς</name>
+  <vicinity>Λεβινού 78, Ηράκλειο</vicinity>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3296360</lat>
+    <lng>25.1189780</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBeQAAAGnDfcIq_mfrvnvzD2RWuEreEcGH8s7pzwHQflLmm71Fi1I3iI6DVXdzb5Mj4frs86ReLnyXFlAzcAjh9Ng8Bv9W4WNlQPZUfF4mfBMLhehlassSuR9_c8NRGHymrO-k-Sx7iuUInGWg8NlNcpACdwbmd6HeJm-DAkycuvvk96MUEhACK9kwn10gu6g3GRc5oPYTGhSpWxSsd3YpZBOHPXCtnKuasiq8jg</reference>
+  <id>37bc72ba71f8799f6dde2aeae032554923538b10</id>
+  <place_id>ChIJ53Ze3IxZmhQR9lCVqzikWuo</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΑΓΡΟΤΙΚΗ ΤΡΑΠΕΖΑ ΤΗΣ ΕΛΛΑΔΟΣ Α.Ε.</name>
+  <vicinity>Λάππα, Ηράκλειο</vicinity>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3246790</lat>
+    <lng>25.1274480</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CqQBkQAAAH7eOfnworGOER1YmEdZ_i4Z6i1dVKi_8g77VFjvUTO3eMoq7Txrz_13XNaAsA29upRua_Z3FviaPBz4g4jMXGdyrsqCH4gAkB0Eu4YTALZhsZMFQke_AoUQayY5lvopSMTHJev3AE-Eij_AAdpCAL_2wi0voAskVULIh88zZvP9gEyxQLLuvyAcvDasl4rcg-BuF2aroeeJpvMW-QeSgJ4SECOv02nQbHeuU4fiSfjabX0aFCgSHOSaC8XK64AdqyLsRSEVcMY0</reference>
+  <id>8173bbe0eb2adfd5fca1ee5f849031e1d4b725cd</id>
+  <place_id>ChIJg3nlf4FZmhQRwDvoXGPIOII</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ATM Τράπεζας Πειραιώς</name>
+  <vicinity>Λεωφόρος Παπαναστασίου 136, Ηράκλειο</vicinity>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3155300</lat>
+    <lng>25.1406490</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBeAAAAJ_iRtYdicKh4RnirBgHIcb4qejCK2hBlOpcLuQFK9dzXVLnt8bQVibhmwY2whdsHH_ECc9bLHVVvIHv8VvhNw4Gj474aJRc9-DCThzZfGIrbsHGYQY6Z4gtkl40XVFkVZ-E4FfSBWF5klGal8WggX8k1hZKLa_HWEVDYiSeO5KbEhDn2XeBNU000p_boGqBpwn5GhTaQHdLRU6oteG3O2ErPY_fnvyKEg</reference>
+  <id>5c85dcd9cccc2508e3b4f22c4ab472e8e7b689e6</id>
+  <place_id>ChIJ19ShF55ZmhQRlQXm7ih5gkA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

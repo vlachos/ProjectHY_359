@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Moraitis Bikes Μοτοποδηλατική Ηρακλείου</name>
+  <vicinity>Σμύρνης 39, Ηράκλειο</vicinity>
+  <type>bicycle_store</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3363120</lat>
+    <lng>25.1349870</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CqQBkgAAAEkn2q9QKyywORkJugUhAB70Q4Pd5ceO7D7d3SidODSgrer4yoh0YDe-8qnt-TGpdgl8ViB9QWbsj7QfPElufI5pXTU6JteSIq1czBbAYEKlS9NKaDv_Kot__P_luRxHeTylaCqpNN7sfpXkMCvQr52B5jV79YleSfNNGRUwiB4oBFbhKSfu6nq6L_oOufZg04QXuNLJ0S0P94CrweYknr0SED3rbow_BvJKWAlvsTsEbIcaFCJB1i6GRVIVHD0c8VSZ8qhknMry</reference>
+  <id>813a5f5663bc3b2fd61f4ca7e6b649e8bbe5698b</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAk7x_PT6EKB2ye_WRE7zKIOiIvUK-PZo0bI5ygCvth3EDkW_AFMT5MuLLUMPC_vhPkdUYDv3JbLLbfxwc6mfYx6eRNtYesMWDYY7CYhhU3wgsHTxeUe8jyeVIkM5a25PfvK78lfBuCfSVb-fKfE5pBhIQ7GboSxUBxkgYsVmDiS0u6BoU_S9nRmDELu_wzb4RAKg_s_8XbhA</photo_reference>
+   <width>604</width>
+   <height>453</height>
+  </photo>
+  <place_id>ChIJHTMaeilamhQREPSNS6lK6Eg</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>EMW ELECTRIC MOTOR WAY</name>
+  <vicinity>Λεωφόρος Εθνικής Αντιστάσεως 11, Ηράκλειο</vicinity>
+  <type>bicycle_store</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3288300</lat>
+    <lng>25.1386290</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRqAAAADNm7Yg1QoQu6TA5juW8yEW218NKHRgyQNsmZ1R62OHm8SEI5er7i5WcHFwEsHL3XxdXEe8X4SwC9jB3MCgY7einYn1GHpaCfIMXsmpMByK3O6CYjpd57wNMQam4AJb7rDH_6ahGcvngcdndhFvDnoRIQ-3hMpex0XwTqsa0h70F1ZRoU6xB_MDyIQFjPN9oczyx1v4wOAtQ</reference>
+  <id>30c28238a007c1171a3721083ed5d8d0f88966f2</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAA0YIry97DX-Pkjd1pMmJvtol-cKX6eflFkR3vV_ASD4s-qcah8QqAybPspVKFGv69oh3Y8HMB1Bh8jyMCL2tlupB7xDZ7sgHldLlAs4smpcI8fu2AEuI3srql5pUOFK8PsTpEZanVBZc57m1ZF78qJhIQ-vNAiDWXBp67AoUOw48u6BoUpncJFkI6_gX9DDO_IoOOKv0xKnw</photo_reference>
+   <width>400</width>
+   <height>300</height>
+  </photo>
+  <place_id>ChIJ8d1eoIFZmhQRwqEtVdZJbss</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>CycloMania</name>
+  <vicinity>Λεωφόρος 62 Μαρτύρων 95, Ηράκλειο</vicinity>
+  <type>bicycle_store</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3353900</lat>
+    <lng>25.1177380</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmReAAAA7_Tb7CLh7G-FTPNGok9Hxcvsi2ckm9KiaalmCXdh1DGP9UxESD0zSLPFFqUxJJYS8sRge8_k8_dIbF_vdPXWzQvFpg3omDEkwcF6NB4h2gM8hMD2c9k_ubsNZfpWHTJ5EhCwxT2vZqaQsuT2_WQyydr7GhS3hvfxfz-oj1UyXQMfl-nyDQbNHA</reference>
+  <id>7d495ddc762bda43f1625e917bad66d046f7f0a6</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJORHWMvVZmhQReYhTw0aCbNw</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

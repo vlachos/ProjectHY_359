@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>HAIR CLUB KOSTIS</name>
+  <vicinity>Ανωπόλεως 21, Ηράκλειο</vicinity>
+  <type>health</type>
+  <type>hair_care</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3366090</lat>
+    <lng>25.1359850</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRjAAAAd49Kcvrwuk9WewSd_7nFZXkfpCiGOIdmg65MF8bv29fH0mM8FvBtOy9XzW_S2vMmLAXCg7seT_sOqmZC8UvDCvBCGMXeVWJjlMWwbgIuFjiPhXuvqsbwTFHRSeTU3Pi3q3geFyZv8FEFpja04MdzFRIQCp15zlHWMo8y9WsLU0ZErBoUIxBsdyNPTPprp3HbQvQfTo3kXBo</reference>
+  <id>be800e87b9e304c86d98182e34e903b89cb6d0b7</id>
+  <photo>
+   <photo_reference>CnRnAAAAQFo0Pe2upbOOEdxir7EkyXcOKT_Xl_lbXMKZFheyvH2a47yPlsl7pA7trNCDILlz-XCoWmJii3BOZpCJGZdcrqnMgk3zssIeoRv9U9lcZEUw3LJcDLhDgKYvQBaI0KJgkauKByuuS4NFEp3U7gMTMRIQu5pAVNVzacoA9ZfYGpWmDxoUAG8rs18PKIQF0iP3jQvg0M19ga0</photo_reference>
+   <width>465</width>
+   <height>537</height>
+  </photo>
+  <place_id>ChIJ5wJ20CtamhQRxWrm0eBCL2A</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΚΟΜΜΩΤΗΡΙΟ StrataraS Hair styling</name>
+  <vicinity>Στυλιανού και Νικολάου Γιαμαλάκη 27, Ηράκλειο</vicinity>
+  <type>beauty_salon</type>
+  <type>store</type>
+  <type>health</type>
+  <type>hair_care</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3396220</lat>
+    <lng>25.1294980</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png</icon>
+  <reference>CoQBfgAAAAv5_sZksKAvLr3EsXfkvK5V-kSaFofHo-x_zx-Rq8OmoflJETcw7To7-ByP42pfk8W5ZMclbICu7XXMa_t89mIBWy6fopsc5u8NI6yLY3BuPw7CznOb0acGgVVwBFXzBUMWr2RSU3dZ69s5tmyu083ocw6ZmJGsBxh0xmHop4WOEhAnuCqQrhLFQoJUM1wvgvz6GhQ_hQkymSp6sF5ZLwQq1oUTjhPupw</reference>
+  <id>24413f58d8115c3f23aeb0b0780354eee6ae08a6</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAmYwgGz1VxUeAHpxRqXxe_219ly3jr-CsGUcuKHRMJndvbsDQSWzkvcoEoNnZh-yxN0G_1WJ2-Z92x60GIFpC7T88lauLLXhSZxFV7Id4y4gqOdxgeMKYDQV6zKp_aNYwiMffjW-Z6nJRKyO6P40IlBIQ0OiBbLUFr1-gbOvCaJwbwhoUpCJz-OLBrS_qZbDONUCziQ9CZxw</photo_reference>
+   <width>960</width>
+   <height>960</height>
+  </photo>
+  <place_id>ChIJK_McACZamhQRdcYG5yGqHQg</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Natural Hair</name>
+  <vicinity>Ψαρομηλίγκων 6, Ηράκλειο</vicinity>
+  <type>beauty_salon</type>
+  <type>store</type>
+  <type>hair_care</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3392160</lat>
+    <lng>25.1319480</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png</icon>
+  <reference>CmRgAAAA06ir-bdxFP3OE4Kf1rJWmNbmggKs50_kiBYZZCkXLsVA9beaXqcAE3HdiV5VRubENMWBmI6Xwa1kxcP6vPLfH4QGXECJn6ZUG2LOZaus3vVCIzzs2q1tBtMIl6FZHEd6EhCEIhp4LI0hlFnARpxbf305GhSOKk6aS4OIs5_kyKuL8u7SnyQIJg</reference>
+  <id>c4c7c95d59917b23735c129209bb41ecfe0d8ec2</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRmAAAAlzLrHxDSt3fL3JEfJKPA1QkUfgv4D7FPmZTn_1PtIzjeq3jy7SD-pocUdZ7WBTBK8v-tKb2B-SoiUmmg4x7ulH7PYzIH4C_HMks1NgUiqLuemVoQQRM8J8nRaCBrRaf9iJa5yDNtdFfQv12Au6bTGRIQaV-Bqy612rLZTRYGjYxg7RoUhTFlcmG1I2qb7zo6IHCvy6ngARQ</photo_reference>
+   <width>400</width>
+   <height>103</height>
+  </photo>
+  <place_id>ChIJXxrX0ihamhQRA9S7WjCcw8Q</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Hair Club Kostis</name>
+  <vicinity>Δικαιοσύνης 7, Ηράκλειο</vicinity>
+  <type>hair_care</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3386500</lat>
+    <lng>25.1333440</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRjAAAA1pzXMV68uttVImNbniazRjz09-Qc-gXsWlDY_GZr5KKyRJ8Gzg_di4mDbNiHTKkuGmbZkAUSe_19DumoXHu7EqcY0jgoHFfcWGvIb_MTjzu6qZE2VYsdRaMbJzLpFE8rXc7-ZUDps9K2G9pWkoH81xIQ8AMYLeRmrJocbJi3JQ3wwBoU8uGEtUFR7Al3R6a92tYMr9DkSu8</reference>
+  <id>6e16eb75c8b4c5d6a39f21938b4c5c428e5a4392</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRqAAAA_qj_Sh5FIJOTNcA7JmDzLxmGf3tzgd0ZVFUJ6jk8zNCeR5XtefJomjNs5-ZQsQ1LwHp5n82y5udXyqhanFDdKuccHiOfOGpBewZn9TVBTEeTqwMzNz7TLwUXA2_1qKOfO679dAOAZwcxMoY2OmCxtRIQWPe5g5XnKi6n5xuSFiiVMxoUAXbDHm3Yf7yk73udIr1DN8-f9VI</photo_reference>
+   <width>320</width>
+   <height>321</height>
+  </photo>
+  <place_id>ChIJ-dF5MilamhQRwcvvpXHhuGU</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΕΠΙ ΚΕΦΑΛΗΣ (epikefalis)</name>
+  <vicinity>Πετράκη 18, Ηράκλειο</vicinity>
+  <type>hair_care</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3275810</lat>
+    <lng>25.1131200</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBdgAAAJzMSQXlxVdab1bC4S9VsSYTdpag0COL9bK4xkr2GGb6rh1bsMkyYJAnzIVEz_1gf4SbsIAjH5LJSF0kjj5OJmTuQOGZwSS7UM940B1MFXxxdf7Kk8e4qbwm_ZpHhFBz2yp4eUojls2zar9yxkUUVYbrPVVT0T49dkZF2bNSwkDlEhCru9cfczv5LwX7OW-ofg11GhQ_yUdeYGapTT7J0saumC84p7SbVQ</reference>
+  <id>8685f51cd10437b5efdc9d9e9e60702c87569b32</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAA_oiMRlL9nfhLMiwn1C7nBmF7F0ooBAp8lju_uvTvQXIC81MlBfjOB_dG7ZDmSXWJpuNEflQl5e3tcDHp4BqY_J2FzKePNHYhRVIKfZ39-_dQ3_gJyQLI6Tv3-xzI0XEmnoAte3k57gasalQGPtgS3RIQTpCRCFqtA-1JWIqT9VeVwRoUjOG-sKLNsxXYujwVmh5J4TCjp2k</photo_reference>
+   <width>250</width>
+   <height>250</height>
+  </photo>
+  <place_id>ChIJ83R_9O1ZmhQRaXDi8gJA9sc</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΑΝΔΡΙΚΕΣ ΚΟΜΜΩΣΕΙΣ ΚΩΝΣΤΑΝΤΙΝΟΣ MEN S HAIR CUT</name>
+  <vicinity>λεοφωρο καλοκαιρινου 204, ΗΡΑΚΛΕΙΟ</vicinity>
+  <type>health</type>
+  <type>hair_care</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3376880</lat>
+    <lng>25.1270400</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CqQBoAAAAPoIlXYQFMCu3loMz6gx0xltZBL7PZPvuqhbeskHOBuhuIeu8mWokW-nP-7per_TJ-7uqSpqAHt1Vh-DQmLlRqKMPEgDF9Dvu2Z765XKIxUytYNCjljR_0LgD19miWnltr-_sqbKsyw3EoJGAC1orUv6bwMLatHj8qTCm6vkYLkM4FDx8OOxLZxxbZfeU064onOzwG2-di3smBObEivjeccSEI3Eqdgc_UPekcAm65Nh9FYaFPkyVzYTEtSABHsssClaxEiM4u5R</reference>
+  <id>a55719fc7e15ecc037584e15636ad53ccd9d657b</id>
+  <photo>
+   <photo_reference>CpQCEAEAAMn-YuLl2O7siEpyUaPNlR5muDSJgEbiZenxp9pPeROQMv21V68Se9ubr0bH_1LRYsXHr8zydezFsjXVKJSPcprNoj4NERSFD2uqZn4QAtoQ3kyAiOlSGzkFsgpYPSlsF3BeTe4UUrUuZuLda3Te4Vb2swwuWaYIqYifTXzi_uulJmGxgFPFajNI30z_IXfJ62w-vzYo7zcWAqh57JqRx6f0Y9P44dzJDH8ieJA6N9ehwQbx7HLeRRZ2qiZWXM8dW1gXWCy078vb-eNw9j91t6Jdn6x_rD8hYA5BhNeJHfHv9gWzA00d5NxbeuRQOvvfJ1xF-wfpxhHDhr1syEi-wm3VexDHA6CZ-vtlWdZZIwWBEhDQtqLOnGjiZMQ70r9WUsb3GhT2EpDQdWn9-DTGQ4S-gL1Q45HduQ</photo_reference>
+   <width>777</width>
+   <height>776</height>
+  </photo>
+  <place_id>ChIJDyN1XC9amhQRNoxGuxfRMNk</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Barber-οικο</name>
+  <vicinity>Μινωταυρου, Μινώταυρου 14, Ηράκλειο</vicinity>
+  <type>hair_care</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3399650</lat>
+    <lng>25.1333200</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRjAAAAYO1vYz1yUWjzq9F2StCAhIR5caB14_fNkM_JWyBarRGPUTxn2oDG_wRlxdru6P3XHKrKv9HQ0TN6J-NHOSOSmFrF_oiIgeAxu1IeA_W-4G4Kgk2O8X-GDEmbnVaRDIVUWpZ7q7Z2lCSN0iprq6g9DxIQTCopK2WFq0NE6MZkpANjfBoUr17-T4NshrYOVVK_mLHvQuCWQBk</reference>
+  <id>798f2033f2620e0e09261390a33b4f73b13793e1</id>
+  <place_id>ChIJlfbU3C5amhQRCfggxEVvyIk</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Κομμωτήριο ειρήνη | ΤΡΥΦΙΔΗ</name>
+  <vicinity>Ηροδότου 158, Νέα Αλικαρνασσός</vicinity>
+  <type>beauty_salon</type>
+  <type>hair_care</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3371800</lat>
+    <lng>25.1590830</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png</icon>
+  <reference>CpQBhgAAANvwaeE7cwsUlaYNSkDgPnEXcbha7B0AHSZNBflau9_X-_zYygCGjyft3L6TCrv9vWpioRbEoY9xDSyH85J7CfT5QZT_c0mbHQbE3pWSdX8KTEztQRfjzSyAHgRr13D05Cz_P7YCkm4LZ3VJ4eU6V-c3C1zUYxt22nH7hWj6tXm-UBTgHe8jqw36xm4pYOqZLRIQaLm9CDjR7DFIoqrCxqhxehoUQ3dE9ZeFtFM_K60BLYwWuoQftvs</reference>
+  <id>4e9e8a15416f997b6dd95f68d75bf8b74e7bdf29</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRmAAAAkUOa0pyvyfLlEHiUxLzF1INeTE8mHSlMKmw9mjgwVNYhDuANbOTUbWLd5lgtmywXXatdlMstn2NiRgW-1Rm-hRTAIetrVLybC2xV9IJqo77k3GR9fC8Z6Kx6XQ8Say-CDCFSYVYuH0jSMsjRblAoZBIQWKbrlUzgAgIgRP3MMdDe6RoU5VHMYbnoKceroTCYqa5vIF9GTO8</photo_reference>
+   <width>250</width>
+   <height>250</height>
+  </photo>
+  <place_id>ChIJZxf-XttbmhQRj4EofhxgN34</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>G S κομμωτηριο</name>
+  <vicinity>Θερίσου 57, Ηράκλειο</vicinity>
+  <type>hair_care</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3334380</lat>
+    <lng>25.1225140</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRsAAAAP22Quet2hTSLr3xuMycrOoimHm8ChMoxF5mtnpwAwOgiKuMCX9Fl-wWEezOBSCz-jkozpiaOAPjANJYRhCfS3tPapp6U82O-BNEbPuKR2eoJfeK12nB6SZUIu4qO1hm6gc7qZhqcQBT-PcPmk-rbbRIQuUy6Qpi3fj0r4L6yQqk8oBoUBxjEwmEXLnkj2EuCqwLql1E7HuI</reference>
+  <id>d976983725e41db93b8b98faf231491cacb33eab</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJ_99ry4tZmhQR6WcOAlXUXIc</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Hair Club Kostis</name>
+  <vicinity>Δικαιοσύνης, Ηράκλειο</vicinity>
+  <type>hair_care</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3386840</lat>
+    <lng>25.1333540</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRjAAAAxvC8woDuC4GD5-L6IPvdS7fsPkYquR3wfcZIxSXxb3le3VtdcEKqJVnxSn9LtmkM7nrZcwyyz7BYzxEl-0JuhQ6RoBofBQQ7zoi2h9LjB_CecX6Iy44cKwK2YtgPX2Y0odYtPAKSl508OTAnegJ9PBIQJDKRIiMVvowoCqH9hun4DxoUI71jqLMNH-7ZpYaEHAg6ZW3xK1g</reference>
+  <id>966ba6c12876945c23902b059890844fb7c720f5</id>
+  <place_id>ChIJ3aN4MilamhQRGEGTz5KXFG4</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Κομμωτήριο cut   art</name>
+  <vicinity>Λεωφόρος Καλοκαιρινού 194, Ηράκλειο</vicinity>
+  <type>hair_care</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3377010</lat>
+    <lng>25.1272830</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBcgAAAFVZT9b_DXHYDOyTUJIS8u8A1TQqRmxZIrQC5BGX4Re55afmaNfUyDgnqFUsLoSHb8gAfJumC-u14Ucdw16LbFvfkcVI5OmV67gQQrFzwWiX5xTktHNkwYMVAyCqSZMlCsoNh9ZXVz408frIr-jsMpFYsItMHp7eU6Sm0sMJW7_wEhD4yO-JZG-NhaBIHKklDUOvGhQN2v2WbFzmPtkN0W4Ws2Ne_46LxA</reference>
+  <id>dff7474d5498363459ed735d3fd1f40faf258beb</id>
+  <photo>
+   <photo_reference>CnRoAAAA0lelUwRsGwPCmjbznZGspPVe7drDQ2VRuBBEqWEAdZpEDzaEb_CCYGrLp3RPCLLJbz_ctS1FIKs7ymv5u-3s4s5-z2CHWlDfM93yqSezXe4rIZGqTS7ARP9pDdu6zXOCh-JcI45aLDu4H8xk67ksVBIQvI2w4L7gBJyq2Lc1VTCzPRoUsNC8NNXSExcJa2SnjB_utVh4bIk</photo_reference>
+   <width>773</width>
+   <height>684</height>
+   <html_attribution>Από χρήστη Google</html_attribution>
+  </photo>
+  <place_id>ChIJR_vpUiZamhQRhCKHWJxyqoM</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Κομμωτήριο ειρήνη | ΤΡΥΦΙΔΗ</name>
+  <vicinity>Ζωγράφου 13, Ηράκλειο</vicinity>
+  <type>beauty_salon</type>
+  <type>hair_care</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3368660</lat>
+    <lng>25.1353290</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/barber-71.png</icon>
+  <reference>CpQBhwAAAP6fYuKCrhkx3BpzO3WXsIBmuSDVRkaNILfDLq2RyS0on4eDoJHV6j_ODcAdFRyek9iasOYl9RRQ7glSFqDtaQRgIBGvmNfTqc6Nqeg69ujT32WNj6ISu9U5QgQu5ArYAWIfpqmpLaQMG9yHfj75IWHDU103JfM8oyDCZEQNbZd5M4eW97IHVINyIysv4qMkTxIQ7oPIg572VIuAorA_ciSSvRoUfGaLu1KdhpedtGGoqR_RkQblsXc</reference>
+  <id>c8a361334d0837db9d63c2b30f41fbc01d67d0ff</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAA82VREU4pm_fpLw0EKdPUFSjVFzOOfHsiljMhRlQxOQg_SynmUbVisvYghT8I_2vu3O5qKRa4P9iKwGq7ozhF5PhfBDKWfBXgh06KJtqUfwWRoScjLJUmtcBjSAP3PcXkw7Vo0511tpQFoKXyPtog-xIQmZrs16lda5ZqESpgnEnVXRoUm0JRgYdnFmAam7wXT7VgPWNDZfI</photo_reference>
+   <width>477</width>
+   <height>720</height>
+  </photo>
+  <place_id>ChIJ-z1yYSlamhQRdx61e0-pX44</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

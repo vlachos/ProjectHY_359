@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>γραφειο</name>
+  <vicinity>Πλατεία Ελευθερίας, ΗΡΑΚΛΕΙΟ ΚΡΗΤΗΣ</vicinity>
+  <type>lawyer</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3377750</lat>
+    <lng>25.1367250</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRiAAAAxW5uZu3e0fwxIrRO9pAS-cbalwwJfd9W3weSrfODtxu4mko8blvhhM_hYDepxBVL_GJ9lT9VG1Mm5C9Fz42oEfzXRt-7vVPL0IcDXO4oyGD9d63Ja08SaUItqRoREhlgPP3aSB0V0837Rx2Y4ygoaxIQ3lfEm0YZBKvep0vMpBO5EhoUjE01mi4QucvHcmNq1vgaSg77Lr4</reference>
+  <id>1e964b339cf4bc43f8c02df7c539c933a3f40510</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJmUbC6StamhQRlkRJMoPKlOc</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Δημήτριος Μουστάκας, Δικηγόρος - Dimitrios Moustakas, Lawyer</name>
+  <vicinity>Σμύρνης, Ηράκλειο</vicinity>
+  <type>lawyer</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3364760</lat>
+    <lng>25.1349880</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CrQBqwAAADTztKTZyQjkPBeOuBuW7PwN0tfIGgeAZY4zQfhp6QDTtkXr5FnJKqHGHZr1q3VcdnU6JXJW7MXLnGlxrbCSXXYZdAWnGe3qL0TcYSIxMe8zkhNO1PH0FyVvfH9Pg9NeKWPSmj1lkcsLQlxozcptym0jTv4ze3fo6pavI5xlaN5nTxX1lvWe3IKMwsX8S4GFpii87fbAy_Ldk0zIbhmMV6ZazOiktXCEuSeBuIzJ6YrwEhApnoVY5UJRvWeEeMHFqVSrGhSnGaAb8xV5KTbLmyoQ9MUs3F5hPw</reference>
+  <id>27dff9d338244f522987869aca81c0e0ab04a2e9</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJub7geilamhQRoT0z4VZXoiE</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΔΙΚΗΓΟΡΙΚΟ ΓΡΑΦΕΙΟ ΒΑΣΙΛΑΚΗΣ ΙΩΑΝ. - ΠΙΤΑΡΟΚΟΙΛΗΣ ΓΕΩΡΓ.</name>
+  <vicinity>Μιχελιδάκη 19, Ηράκλειο</vicinity>
+  <type>lawyer</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3390040</lat>
+    <lng>25.1312740</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CsQBvAAAAJ3qHHmUpA51CPDSiU5f0ZMo74knaeuDNnb58CvGOTckXxHpn0p7Tg9ULMIjieafkEtawPAQkauQDbW4M1-F2HG1QZVst17DOVyf-H6Df-Ip6cqmHaacHvJz9FzbmHjYPHOiP2cGrqlwCL9y-z7L_hTuxhrmDQnAPlbC5YC-_cBnuTKqieuYt8XJ-MJkUIbP3q8ztgxIK-wSV7jDqNrflkMvLThWOidubrmbUnXZ3JMNZr4t0YhoGMIrxEGyjsXfoBIQnZherBgYoyl1srIG69BhNxoUtBqMTGnSBh5WcMBFEXugJil88zE</reference>
+  <id>3a78b77ce2c3d67fc51c968622ebfa079d8bfdac</id>
+  <photo>
+   <photo_reference>CnRnAAAAVTUxCG4LMTAKpjtL_bItcpYWSUTT8gZkXOoR92w97SrCU0NX_cbLW1O471in97XP6x_qurOh0yP3ZDGqfjMzeYG3558ilMxB_nLYIEzXwJgH9IL1SU71yP6tJDtoZ0cg6kmn7aID8H72Fl_rCq_xyBIQG4UayXVsy0BKKtMkkctTMRoUecu35Ta5wu1LH8wGO1ODXb6-FKs</photo_reference>
+   <width>640</width>
+   <height>480</height>
+  </photo>
+  <place_id>ChIJI9pLyihamhQRrW4yUHOSovE</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Εμμανουήλ Ανδρουλακάκης - Δικηγόρος / Androulakakis Law Office - Lawyer - Translations</name>
+  <vicinity>Αβέρωφ 23, Ηράκλειο</vicinity>
+  <type>lawyer</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3364050</lat>
+    <lng>25.1345150</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CtQByQAAAM5hIpGZTE09tLVE_DsDvyf0QHGEHFMd4e57T_Eu_zI-P3prb4dEI95mL5izDRSi5HDGyZahKTyYQs7NQ7wwYPeX2mQbG8YdUERcy0UelxbrE8oigv52a59UdrLoLyU6tOEXOmM9yuTCKcdJsBjWsnuRreofE9SOC8oTQqyWz1oMhDgrDgXz6uSJYas4klhPNHLyEkVIOPsZJfTAPf3KUiWcJ4cbPEdGHGj9aE3iFbMhpFhWTBPZjz8iunp3Frc777XclVg3aYJm3DwELpbK9A4SEHribZir31Qp3s5PVNst8FkaFINTBeThU9tfy738-dQQ8RJnMIV9</reference>
+  <id>fff785ccb4ee7a9a949f07f6d24fabf000067ecf</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBeQAAAD3OyrreaYlI9B4VOSeRScowBU41ZG_ln7TxjlL1BErGplR-RQtY9Xw-PANwgSEp92Tcn5vW1AGWgidL_qKgv7so54ElLKAx7qD-0QkAqZAjKT0IqETOqV4e4GxXtTYpcgbR3Qvpgf-L0ftiqq2TJYZGEIoFaB7pOoHVkF47ROeIEhD9buUndw0f81WdIjDLdju4GhQaYbyIPhWB5OJgfAYr6mGVjlodHg</photo_reference>
+   <width>532</width>
+   <height>534</height>
+  </photo>
+  <place_id>ChIJ94JpcSlamhQRWmT8kNYIoHw</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Γεώργιος Κουντουράκης, Δικηγόρος</name>
+  <vicinity>Μαυρολενης 6, Ηράκλειο</vicinity>
+  <type>lawyer</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3360490</lat>
+    <lng>25.1337660</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CqQBkQAAACfuTJK4pr51dAaMnKub0vO5A3VQgZH8O7qpy6Y2WKcdG_ank_Rxb2-ftoMpRBveWZ_2kvNqqeL6-MDgE6GCHv5iYLcESE9QCAZEnwAk2hMQLWt2Tw_hzMQHxYM5jD6UexFr2q99awmh8d19psYaXDVt7UTfXCc6Tq4OJxbv1x4x7IunC9FX5G00IDhnOjAAQXSx8CUzrV1aQp5UlUASclcSEHf_DMj4AwmkCwR21r95otcaFBL11mUT8_OqLKAvJTyPbgsov5pB</reference>
+  <id>80d5e111d57e48ba5dad78eaeccd96e255d7c471</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAA49JDL4RLSI7a2Q1hZH4hk6Td8cWr3tVFzSliioTsTvCAohoLC2SXV0Vs3RcmdyWsDGurzx6d5Sh36GqWtBbnujqtkBgODt8eHWU07TpVTMP5HIKAlZhUR5a3IG2KfTxGzrFyScd4tu4rvsBHx5M2QBIQzrqx0n4gxrwpHxRinE5QBBoUn8gQ4yLmbPYU-uQnacMlCEE-NMs</photo_reference>
+   <width>400</width>
+   <height>260</height>
+  </photo>
+  <place_id>ChIJ15TboClamhQRR_aDp53ql0g</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Δικηγορικό Γραφείο</name>
+  <vicinity>Παπαλεξάνδρου 16, Ηράκλειο</vicinity>
+  <type>lawyer</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3392140</lat>
+    <lng>25.1363320</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBdwAAAPH0ARoc_E9p8xKv3VYj84slh5_Ld4o3o-8mEVBQMQJuV3KwitJ7mrZHJducwsuLpjRsB3EjKrjslc31lGlbW7UkW06dIfByoGJS8JiH7vuLCLs6Kgm_Fql-WD5fUIhMYxbfU_c3eOIJDASixkUzF6FpgphaQ0u3-uKmtbh3tC_FEhC9Vvu2RDwBD_bCWZ7md5Z7GhQbuJwUJG8btSE9IKBvuieDWq61eg</reference>
+  <id>44478f6a28d769b11a03386682b540b19b74ea6a</id>
+  <place_id>ChIJlw-DNSlamhQRg6VoWOsml6I</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>THEMELIS T. IOANNIS - LAW ATTORNEY OFFICE</name>
+  <vicinity>Μιλάτου 1, Herakleion Crete</vicinity>
+  <type>lawyer</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3394780</lat>
+    <lng>25.1346120</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBfAAAAPd9jcm9vWl__mokhMyEZj33c2PZuo6lcMIv9dTIMHfFYaEJfG5O8Lu5Askb_Un6yWlma1wuNNh48JZYcPa9v605PWI0nxsA2qRmAsfXUva_a1K2eIuMbPmqlemFbzznSHTVF7uwCsoovhT_-zOFvFpHX5g9xweH0DLjT79XUQGVEhC0CKIrqCT49ZhKvKQiwd6zGhRL250qCnBNe-OF6kEqCTi_5SL3KQ</reference>
+  <id>a9f1f8f8bf73bec65e2435c26161447572cace9e</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAA4dKr-hRTJ95ls5whjIIvOGVkZTOkCBSJrDd7BVKAtr8_SVJXzKopzzyREPpASsZvVIfyWNVbkJg5ePukW4pPOFdzTNvHqYAdqJTk4Moa7gIuWjog3G6mZlZ922WcqIkfXvF1gazh1vu8zF8I7JGsBxIQWnmvZ0CimSLlj6OZbUkpAhoUdLhx6hZD2_1XIUZoX4qXgAGIR0g</photo_reference>
+   <width>425</width>
+   <height>282</height>
+  </photo>
+  <place_id>ChIJL-u_vi5amhQRPRE_t5XOpzQ</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>LAW OFFICE  E. MANIOU - N. FRAGAKI </name>
+  <vicinity>Θησέως 18, Ηράκλειο</vicinity>
+  <type>lawyer</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3367150</lat>
+    <lng>25.1324850</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBdgAAABE-ex6-N3YJyeaGLfBGReqNJL7CW7joW6YB8KaLZ40cnUQGfwKyubb5zlgjP6rGJlwhBkDpzH9tgVDuI6JQnWXrmW2YaknsDptU6kYYT4YMellnnq9nHhPzQShkSCbr66xaMOML8Vd-jX26IpOTE2KVcbYpZKW8jLBaf9oujDYyEhDI8BcPcNEEViclxMrokSwWGhQBSb28AiiHeUqnlgV-uN96t9JQyQ</reference>
+  <id>99727691ae2fbdcbaffe5506eb1f6f37dac7c0aa</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJ2S90HSlamhQRXpl_1hJBSBQ</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Maria Filippaki Law Office</name>
+  <vicinity>Αρκολεων 7, Ηράκλειο</vicinity>
+  <type>lawyer</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3403350</lat>
+    <lng>25.1335990</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRtAAAArjq_xOjbvkUm9V-MJJ-waNiwR8pldhP4X13947_5dBYwDyWC1wZthGreRIp4Sdf0jurIvLrblr5JqGd6eHGtNYZySnHVevaMLYgyqvn449Spa_X48paS9oyOkoLYKkB-OEKpI3gSLpgfK2sNPyL_yRIQgkz6Jh3lXc_Mp02uALqsBBoU4ON3tKUHcy7-JbJwizCIy_z-hbY</reference>
+  <id>6c71ba139cf1a3a18657a58c78e42ff94741282a</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CpQBggAAAHYxpzesOR8N8ZXdVDK88IE3huuliwXhhA1zlBxF9d0cnN5Bo5J50PX_eO_YpIRgHjqeXxRqCHIoBWLPEzPydapJ36FoR3fPZiUDXXhO18eqK1WTvJPfmiFnjizXaADPp5r0NBTUV2jX-GFbXtKlNmavcnvKBdZNzC52Z3MJPZJxHsnLmY4x-7GdQ_GSVEg7gxIQJ332F_HV3LcS6-ia-oYDDhoUQtLooqPHMglQTUaxLMfJ9EbVuDg</photo_reference>
+   <width>940</width>
+   <height>940</height>
+  </photo>
+  <place_id>ChIJ5cw96S5amhQRt5v2PDAUShs</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Antikeimenikes-aksies.gr</name>
+  <vicinity>Γεωργίου Στυλιανού 9, Ηράκλειο</vicinity>
+  <type>accounting</type>
+  <type>finance</type>
+  <type>lawyer</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3273070</lat>
+    <lng>25.1295700</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRrAAAAmuBFXGCNNDao0AmZ02mzDBvnL7yWwmwhPk0QW-pCLFgWltnbWHuhelWS-wHlwau7PeKhF3VOdud-twS-u2HGiv1Avu5KdaxIf3bi43BkGS0XgGKsCZY3KjNCXarB_ezlEBM__P1rcv-uNbj9QavuOxIQlFlMNIPEdpsYcjezH-s_gxoUBsBlM_UPmhQw1uvS0cU5Fi9Xw3U</reference>
+  <id>c7dabe0c9c6ae599d1c00de2c42876d1e972bf45</id>
+  <place_id>ChIJF22dfY9ZmhQR_EXVk1b5MG4</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

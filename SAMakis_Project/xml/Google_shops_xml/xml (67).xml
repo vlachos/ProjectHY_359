@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Pizza Club</name>
+  <vicinity>Leof. Sofokli Venizelou 109, Ηράκλειο Κρήτη</vicinity>
+  <type>store</type>
+  <type>restaurant</type>
+  <type>meal_delivery</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3408270</lat>
+    <lng>25.1205860</lng>
+   </location>
+  </geometry>
+  <rating>4.0</rating>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CmReAAAATVodZzOtLYlYEhIZ7W4hfnykW9tZzayCWVQ6NJRhxjZO9CuVtCMu_-7Lz1S9sGuw4U1jMfVhmsBbkNOqUnSZNuD3eLm98YhIo1USjz2IXL6PXNjYO00Jy_aEsdFVzLidEhCUHwgYrumntbSBMwygWGsMGhR64hUhXnks3k8b8uq-4rsTGVaEeA</reference>
+  <id>7bcf606bc74c294bf9ee3e09d7c1766086b795c7</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CtQBxgAAAEys1iI0Tm2WAmkgABNfMuqSmteabqDYE2UQjAT-weQafw6LRai_Dp_q2MJ0G_RG25LwlaCcqgSQW9PdsUQi7rmESVraO1dcl4u454Il-YxBp3Piu8ZXQ4VC4bOK3hDPcBOtA6JZApu4XzqBzqGm1DhWLyjwhQMPPPD_4IXOxgPPrVrjl7Y2M6WRV6TaYPqhSk10oq4GT0ZmKpagG4z1vRq_wl2AA8iie1G4jVqIiz15HbABva-jlw4iBEYozGXP943NjT3U4GwS9rNDHGVKORASEB-BMoien7VSXChP5zO7yxIaFNpSOyLl7kcDsvCdsv1g_6W0g0Wx</photo_reference>
+   <width>1032</width>
+   <height>774</height>
+   <html_attribution>Από χρήστη Google</html_attribution>
+  </photo>
+  <place_id>ChIJi_n5e4pZmhQRNYRe-PhxE7I</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Αθηνά</name>
+  <vicinity>Λεωφόρος Κνωσού 348, Ηράκλειο</vicinity>
+  <type>restaurant</type>
+  <type>store</type>
+  <type>meal_delivery</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3058370</lat>
+    <lng>25.1528260</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CmReAAAA3bEaz7Uxj4Uh6p_-7a_bpfMHEHYkzgSM1UOyTPN7TtogyXUTkbe05Lsm4d2OtfZSStqkg40Irup1_rwPXBDlbi4OplCQACnDGEEiVtfEOv3G4Kqj00kavl4gofbT72t9EhByL6QH8xefYWCjd8wPxOLyGhQM99SJQnho1uyLZJZF1oTNZHUKpw</reference>
+  <id>eb8944f75164260ea86aa61f5940d4209451b243</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAARkVxSpSkbfm7EpIQvhfXgMe0HyGxOb9c_5RkvuUEfOHBayA7IgZlargZ9gBilu5BGApK5bZgJs9WNKBZ0PUm5qbKJ6bFWhpaF4lyH3yppUmR6ea8XHAd4Og_oct-4os17S-POT7-OtP_gSMSe4dxrxIQpi8FhJIe9o49BuPRFzCoLRoUYaCfpLcELwGWf6qyiXJHdF0efUE</photo_reference>
+   <width>2048</width>
+   <height>1536</height>
+  </photo>
+  <place_id>ChIJMxEHhQ1ZmhQRK3_x9qi_R9k</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>χατζακης καφε</name>
+  <vicinity>Καζάνη, ηρακλειο κρητης</vicinity>
+  <type>cafe</type>
+  <type>meal_delivery</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3382510</lat>
+    <lng>25.1301160</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CnRsAAAAoTtFjF0CiSuXq2M8Nn6UkxU9vfWa-VRnguaoLEHBy0KaU8cGqcZpP9z83ID6zAUMELhKiFz0gIDNWwjQAhSHWl56_dRN5KIrhJpBCfOmVve2HxMs2zIBeFfYstC8zmGFURnpO_UIts9lGG8ozMCAkBIQX7VhNN9f5EO5y52fvsmwwBoUS4rcxAwcyHwEnnLHSUgNZCEyE_k</reference>
+  <id>5b833a5e4baf206afd74d64b5fa2d2f65ef20430</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAACNm0yYDPifJwbARS4O13NEgbBof3kQbpg2fIuxeWLbjwU8QRVrulawQkafrIT1lzkXBJYONRE8UpHdpC1G8-rpaPpzlUEZAHeu2nF8P7KEzKpbBhj1QBBa-7FEcv_qxOxl-TmcGJbieXX_eRQRuo2xIQMjZD_U7jY9GkyncgMBf7CRoUfsf05U8SbyuUIi-D8YhEe_F4HbA</photo_reference>
+   <width>480</width>
+   <height>320</height>
+  </photo>
+  <place_id>ChIJwyttmChamhQRkRn5NJfuVDw</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>GOLDEN DRAGON</name>
+  <vicinity>Αγιοστεφανιτών, Ηράκλειο</vicinity>
+  <type>restaurant</type>
+  <type>meal_delivery</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3397470</lat>
+    <lng>25.1316210</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CmRgAAAAJkRk1SVynTSO4wsSSKsbUHN3o__zEDAig0iF_twQTGUP0hPHw5sicCbVbfPDnBXSmfYIMcwCgoG4hsQii8Cjy86-BF4tU9D5lYSgwCthMnGQKrmop0E9hsWU6IVTFULzEhAf_uYIwTOzJ-Xaa0oh_r6zGhSS7wdlXrjA0a4itCrTWGZ2YvtQPg</reference>
+  <id>9d9a8bfb2cfc951ecb7dada8a5fa85ef99793e14</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJz9K0zqqkoRQRQLEEGvOA0Eg</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>PizzaFan Ηράκλειο Κρήτης</name>
+  <vicinity>Λεωφόρος 62 Μαρτύρων 105, Ηράκλειο</vicinity>
+  <type>meal_takeaway</type>
+  <type>restaurant</type>
+  <type>meal_delivery</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3347810</lat>
+    <lng>25.1166160</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CoQBegAAAPau32pvqi86pwc5ymzEwARWnL8rVd7hgNY3ScsHxApstDoNYbyf337Fac_Xb2h6S64GK-cdoIusjuClZuBNFrZUJLPAZhIa6rwADN116tO4mu0Az2ASa4jfrOU30MQ-kLR7U_tm1dzf9doSK2aw0fBjsab4_1X2IJtfdE7Loa_6EhAhPWFkbIs4vbPWMPTDwnmkGhSqH5CLK5x7HjshW1ydco7rDncJ0Q</reference>
+  <id>5f219e2d054d33546c623b4c8cb9b81dfa2e2beb</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBfgAAAHEX7RUEkqgLWK356Ilr8H3C2xSaLar-LonGN9SZzuihMj416_9X11z0B3e7vd12CPiznzP7JVqZNgPBRtz-2oXyKTJOSwUerI9KzjPQhJdrISd3V1MLrqZVYpo4WgY7PiDxhFquOnP_QwBIj1GUy1k0cLIU0AHwCMgClI-K7f8mEhDiccKa1AtSmSE7pGCEX9QpGhR_JGMXxy3oXfDDoN2M1BRZQg-1dQ</photo_reference>
+   <width>687</width>
+   <height>687</height>
+  </photo>
+  <place_id>ChIJLTtP3_RZmhQRAVjyyJQkQ_g</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

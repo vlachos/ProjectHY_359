@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Kazanis Garage</name>
+  <vicinity>Ειρήνης και Φιλίας 9, Ηράκλειο</vicinity>
+  <type>store</type>
+  <type>car_repair</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3176280</lat>
+    <lng>25.1143920</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRiAAAADkMnCGmSzgjinCLnkDzX83xz7FrC2fMIt8XUCCGF7-p9gy-cjkw3GM2ed1BeuKz6GgEayB1o9vwHJfr8-pBHT8aJrznbEGb3ed_fmUGRN1GA5l65CsSQ3e-on8omp86d0nGz7bpfqlvbNOYgjCT2dxIQUrRlQrjK_Bkgas38NhcAgRoUJ_xgyh526IfT7E4z2wQsPTi-B08</reference>
+  <id>ff944bec3f2511574dfc255fe17c5388f7bdc5f4</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAVILYX2CTwaqWkjg4ikDgYiA_bt_r2juniQjR--aBzPB1P7Z_GpGq-0yMlZKqKUGVG-I36A9j9Pm5_aCSo0X_jOJdAB36bazTt7J0SvbvLX6vFw-qB6F_FR8ZhuCklbEZR6yO0Y5RSvAIl_R97OWi1hIQRmlLN0W15gGvUJC667VzyRoUWKL2o0TpzQHutkn6KCqm2DEAPIk</photo_reference>
+   <width>2048</width>
+   <height>1536</height>
+  </photo>
+  <place_id>ChIJt8JQeepZmhQRcKpb-Jqm4bI</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΙΚΤΕΟ ΑΦΟΙ ΓΙΑΝΝΑΚΑΚΗ</name>
+  <vicinity>Μανού Κατράκη, Ηράκλειο</vicinity>
+  <type>car_repair</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3158890</lat>
+    <lng>25.1128180</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBfAAAAIxRuubGwIf13qSDhqmNsbFhv1n2mIR88pSGUMShyrNsTOUIpRAI_k6oCadNieVsrQOnany-LnVBJimzIGcz1Kw5lOr_ssaV1GzohAFe8BSk2kBgs6DhhNDx6-J_Tqk7YT1Fbxfc3KQMT8qvzlxrkk3di84A79GFzcFV2uyNVvotEhAUdK59WnaKBB8KD-QM-zBhGhT9r9rKna2sKmUQvXWXzdNOWWBe8Q</reference>
+  <id>650577195f3ec5531fdb1cb0e0e3b8d416e8f6bd</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBfgAAAMAPbQ3oKlDJETiDBGkIQQ_i8W7aoqDqODNrUAjRRkwTVn02_HXyEfD0btGTn8uR19MeCH1JevOH3inEVZHzg3gol5Ee2IHdYSz64adKVS9DHLCdp1CsHZde189dsGKX_PDIKKAWnwERbcRWZ87d-CwBWhbqXByXgurizf7xiNC-EhA0Yehpgyd2vaeoT6sHdlQLGhRWqf3X4IYi24a7ejJpSIgvlAMVng</photo_reference>
+   <width>1747</width>
+   <height>2467</height>
+   <html_attribution>Από χρήστη Google</html_attribution>
+  </photo>
+  <place_id>ChIJl0xUkMFZmhQR4PJ7jqOTD9k</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΙΑΠΩΝΙΚΗ Α.Ε.</name>
+  <vicinity>Λεωφόρος Εθνικής Αντιστάσεως 28, Ηράκλειο</vicinity>
+  <type>store</type>
+  <type>car_repair</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3285280</lat>
+    <lng>25.1387780</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRqAAAAka2InAsyVIPrtvxAUwJLNL4vvvnlF02zOhKtEEPVNSEj30DOmYKLciTtHk-UN8aR8MYTI3_v2qX4hpClk1JOjFWImCmjZFBhnaUWZg0w3eM5iY2W09k7C-ZuXyY0jFD2D3GuT-7A-2gfvh-ixlfJiRIQqfJgy-BHKmaJwGcJB3mo4BoU5vwMRLLDonlEoeVt86fTnxxoL9A</reference>
+  <id>34e49b034885e95232f8e36a4f51e70da28fe4f9</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAetLDqkOTrCQH3h_I7O-U7wYkCE8lwsjGRLfRHOFkP-_yUxXPMOdWuU0W1gMfpymD4HxdHGoHqBJDq7b_UJWt7aqSpBMAT-d7jt14oK7wqSVy4xbqfDPkYkBjZe83TomDuNfcVBk3mX96WoPmbGuDQxIQU4FNsdWJOSGwa_NFAjdQ7RoUMXBgwOb7ZuWeuxG7GK3kyRGlAkA</photo_reference>
+   <width>2048</width>
+   <height>1607</height>
+  </photo>
+  <place_id>ChIJDUHTN9NbmhQRWVHDqvj-DnQ</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Dandalis Team</name>
+  <vicinity>Λ. Δημοκρατίας 36, Ηράκλειο</vicinity>
+  <type>store</type>
+  <type>car_repair</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3306120</lat>
+    <lng>25.1380900</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRgAAAAD_LGDpt1rUhR7kO4qIsmfWLRxvcZD_O1JalcCtjqDXEDtfz2UUwzh082M0sJe-DmtS90r4e3MZdlyEFz24AQIh9SLSkJ6Qholzmj_1OHxThNVgXUTKn2_6DB_p9hRP_aEhDh8Nh2HeaD3GJVVZDfByaGGhQHobp8vZBzvWyA03Qy6_oEmIgzoQ</reference>
+  <id>eb9abb37c76c1401df20eed4b3cc088ce4c5501c</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAA4EVpHaC35hFc3aaxpVyZcISwEG0MhU8KYWc1-0tIxzuIoM2NOLwGukGx55gnIkOhgr5rHjUGO_TKerHwZ00wZnfY8A2IfGEQdkmd51pY9ShHHOuGX-nt5Ph0_1LD54HFZ3IrXtD7tm3_T22R0oSlFhIQutn5-GSlYLY-0zEPD8fB5BoU5a-OAixRlIEwEQqeHXBhGJn1Z44</photo_reference>
+   <width>382</width>
+   <height>382</height>
+  </photo>
+  <place_id>ChIJP2A6-oBZmhQRFc9FPrl1tUI</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Smart Repairs</name>
+  <vicinity>Αγησιλάου 12, Ηράκλειο</vicinity>
+  <type>car_repair</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3382730</lat>
+    <lng>25.1514500</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRhAAAAOjiBqdl-X-NcdZW0SrJaOSauiyapeUfZgPNfgKf2ZKm6KEZJK0jgvsqwIa3im3dBCr7JGf2dhuFNgfz01KIIgaB84OIhFRYhqyOnAf4BIHJ8G2NF5GzBozrn1dPULwFkNY2CgUya9V3fAn-H2v-jwxIQ331U3e_i2fSk1EULW5xhzBoUiwXzNKAlXEfzgiLyt4FX34ahS5Y</reference>
+  <id>4c48c61999874c75e49fca0b782f0d69e4b8f975</id>
+  <place_id>ChIJN4uQQ9BbmhQRZ7VWjgwmD_4</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΠΝΕΥΜΑΤΙΚΑΚΗΣ ΙΩΑΝΝΗΣ</name>
+  <vicinity>Λεωφόρος Κνωσού, Ηράκλειο</vicinity>
+  <type>store</type>
+  <type>car_repair</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3096570</lat>
+    <lng>25.1504510</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBfQAAAKEHO2ALJ-xCWyT_Ot3mpn76hUUKMuEuGkm9VMehRnvNrWLZqlRwrY2S6d2LCqonvZUaL6lvFNMoPqHy7PzJZm-LQlhN7Y2Xe9Hdlk-hxrZ69Uaq2q1rTiosHeEG8lNi6hxYBMMpqn9f0LkWVS3BA_J5PSX5mGTRsTTdUUolp4KiEhAFb9h7Xau11vabp__BYY-2GhTztR1fUjsdz0VLBabprQmt7hT68Q</reference>
+  <id>aa57cedc457a625a58cb7d7a0e8f7b54cb96bd85</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAGy_DZkZPoqxUB-QyDOpe5lK6BwowJOO3CzRIqI_CIfFdgy4EU3Bft3Lmh8gqYFG_jBoA76SX9YxZoA_JkDRUiqhau3h9_zELvrkI8QsgvdAntznthInsi21f17hTJLzW9nrrDHDgUBXSJrJNtu0FRBIQ6V4JRTwUnFQJwTyHKa3mchoUrhsJVkjQIvXrH5e27vJG0ufRILw</photo_reference>
+   <width>300</width>
+   <height>150</height>
+  </photo>
+  <place_id>ChIJWekWKIFZmhQRlj_7KKgyuYc</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Hatziparaschos Service</name>
+  <vicinity>Ειρήνης και Φιλίας 54, Ηράκλειο</vicinity>
+  <type>car_repair</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3110590</lat>
+    <lng>25.1155660</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRpAAAANYxUhffjUAc4eWl8ADZNmj48g_13bupIiIHOWQD44-KBg1BwLE-5Qzb5pgpqljDj4dv5mAVikgPyIGv3o20ZXlA9tQlCSqj14xvBImq5HkvtPMq8WmgnuhJH7T06wN2ohkBHVArk1SLLcDEJiypUFBIQ4265BRb78atzyT4C5LjFBBoU5L1blcfJbPycm62nROjd4-EFeEE</reference>
+  <id>5b9fa37094e1fd3c49071cd81c64663dac87c01a</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAASrpKch7qxWHerJSuNCPkFCY7GQMgYF2P6-H3GOKDAntFTH3ShmQwah3hYmdrHAhCc5TwTb0ulWzPXjKeDMLpv7tQr0xffE4L6Yge3lqjsFHhGvR2-eT7EsF_ZBmUBVdod5j8AyLQi87ZvXEpgcy0XhIQ4aNuGz2V6mgIPFGApJkO-RoUBbSb9UNRfzzzNSefGDPNK95e_z8</photo_reference>
+   <width>604</width>
+   <height>363</height>
+  </photo>
+  <place_id>ChIJMb87O8dZmhQRGscLOtfYD00</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>XPOWER - ΚΟΥΚΛΙΝΟΣ ΑΡΙΣΤΕΙΔΗΣ</name>
+  <vicinity>Χριστομιχάλη Ξυλούρη 59, Ηράκλειο</vicinity>
+  <type>store</type>
+  <type>car_repair</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3263590</lat>
+    <lng>25.1138230</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBhQAAAF_NkqkRIxwv8aVG0zfdDOJI7ZLEglqDtcl01PEAW1Z7xTYBbZ7Ghu3Q-cWezSYmUEXI8bl-KtV45CXggRA-PhV2sslzdDpGVU5admE416xVQrtI3mRL7GotUvmcH51Kx-98LCBa9PHaUutIAcA4oLDeUSNKtpDDEcQG8xtGia25D6tOrwLr_ROGx4gKrfQn6BIQ-sD-nPl8s7IN223CvEMh1xoUwTE7C2yCXtJcsV6NXUasoFXIJew</reference>
+  <id>27f07add3d32845fa8b9a6e90ad6dfe6f65e6515</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAXL9l4nGmkq9k1FNalxGO5gSSbdh95QMp6sy0bd0HAdXvJnK4V-MSsGO55n0PZQ0Bq0GgMNiXkm7w6TNjANd6m6cpfamkn3JAW-ETksBsz_zLcCQxh8Z1XAVOXF8p3V_nlbLoKX2TS14POvQeIyPVihIQAyMKgAMg1uD6y2EYwZuuchoU0LlA3OEDOVxAq9WgB8KtWR47yCA</photo_reference>
+   <width>522</width>
+   <height>522</height>
+  </photo>
+  <place_id>ChIJp7y8ve1ZmhQR7BnWWZeMTJ0</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΓΑΛΑΝΑΚΗΣ ΝΙΚΟΛΑΟΣ  AUTO ELECTRICA </name>
+  <vicinity>Μαυσώλου 202, Ηράκλειο</vicinity>
+  <type>store</type>
+  <type>car_repair</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3387320</lat>
+    <lng>25.1569410</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBiQAAAHY4FWl6c3GqWUiOp5wHLeL3XOg_xX91DuX3W_hSN7Tdbqole1PijvjeYhe3WyvTjuzVzpqSEmiMV8d_ga_17KdVUBSWdN0K6yT1fjvDZ7agKlRIXZ3wfSdeEK7lK_ECwmnjAdr7CMpycAwtedMKkhSluHINyR-Hr2_lRDPteI74OYvmT94VnbG5hG_Tk162-xIQNrwl3yToJInD_yXFR0CWrhoUexF_Ax0J9rICGWKxKJJxvAXUSGQ</reference>
+  <id>af88bde8d1f97e5334357a39e14dca30560e60d6</id>
+  <place_id>ChIJp4Kq0sRbmhQReoqTFh4iZ8A</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>SEMA - ΣΥΝΕΤΑΙΡΙΣΜΟΣ ΕΠΙΣΚΕΥΑΣΤΩΝ ΜΗΧΑΝΙΚΩΝ ΑΥΤΟΚΙΝΗΤΩΝ ΗΡΑΚΛΕΙΟΥ</name>
+  <vicinity>Ειρήνης και Φιλίας 79, Ηράκλειο</vicinity>
+  <type>store</type>
+  <type>car_repair</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3115660</lat>
+    <lng>25.1156700</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CtQBywAAAD5v9NcerLOcTjF0hAy0EO-ntunC6dQsiF491kNg4XrlkWuz8ncwbE5z86AbmLoMnKdZ8eGKqSFrayXaTHkWBRxLrryxC0b_IUJk1aHQXyF0qpmvdKk2arA5ClY1CgkxfLDOhsRGbBZ-q7t_gGZAosB_7kSZVIKn_kbc5-yyXY5FeZN6qgaaMnMAVo9PfnZcW6zjLBCXO1BTOHuCqAtgNh16fE0HPHvDBeTDYEraxkyMrZJC-NwaVQCzUq4xiTsk0z9Kd8KcLrfAAMdEWxPJ9SwSEJ-iJ4LR062wZa9wafht8I8aFERE2DBPqg--9ohqStku3aurYEgD</reference>
+  <id>21ff3c52576194ab9cf8d3a02c0980eeee87113a</id>
+  <place_id>ChIJ79aIMcdZmhQRJd2k2eRQEGU</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Car Electric Power Fasoulakis - Ηλεκτρολογείο Αυτοκινήτων</name>
+  <vicinity>Ηγουμενίτσας 10, Ηράκλειο</vicinity>
+  <type>car_repair</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3159540</lat>
+    <lng>25.1418900</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CrQBpgAAABGA2hLMT7jg_JtYxUvmZinS4VkEvMn4ijbb83RcceVWuojDYJx0AHorB3ydCLOPxGLLtvXOAfIy9wnFSwp2UHQsrCdOvn-q8voARcQQWNW5wcGqYdxgSeWXb8wDG-mOKG-pJMK5piV4Zos9S0j61R7L_rflRG93IlPArIfMwOnVw8eKkvL8PSEc2E1RTUDus1iWQrSpCPk7nwdYgkgoBeoGPXP5xlfS0xU3r-cILzEbEhBdLpPbayOkQKauPPe6FmIHGhQQzGP-DnyM9tpr7hfqDmENLQr9Lg</reference>
+  <id>98e298977b1284ba3f9470642ccae550eadedf09</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CsQBvQAAAPc2qxGdwgTARrnDCibX1IT2U2ye2EDwVP1ps3y8m6x261L1cFWBCMc1yQarwv8PuyjZou2hMfEIEpE5pvfSrBH6yKL4hgcre-rKW0pofLtoWryGEPzcgHok9-NcIAk1zvHEhsDKfMg6ByNqI9Z-7D1rLDFykJxwcfuWvljWO_-Xgft11_4PkuZaSyM3KF3kpQL9KiArUFfIaQp6phRNvMQFRJqCGJVveJCWl2gX_rlaysEaRuSOaW_YhFktEs37khIQWb2KdeHiwn2CCMpXQkAqqRoUxuf01IRkVQs0zBOwGztxdz9cC4Q</photo_reference>
+   <width>327</width>
+   <height>327</height>
+  </photo>
+  <place_id>ChIJNfTa-3VZmhQR0MBnhDhQbbY</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΤΣΟΥΡΟΥΝΑΚΗΣ ΓΕΩΡΓΙΟΣ</name>
+  <vicinity>Μαυσώλου 242, Ηράκλειο</vicinity>
+  <type>store</type>
+  <type>car_repair</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3270600</lat>
+    <lng>25.1642480</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBfAAAAP7HtjV_d0bDz03ZMtP_ywZAUdLWxA-SS0tLCz7mCSRHoM4uzmkiY0XLKgnB_hw50Nakmtl0NtQRjf5AG_l-fqHs539GJxk07IPJM2OFFZWAikydzYp67a1PoN869ohEdOhsF6FtmEo-7yNfH1Uj2HmDVWpoRB_5V8xgEFCVZX29EhDJ-GFElO3ZGVtcwVR_MqVxGhRknE0Y_wTKAy1awk9RrVlrnHFtDg</reference>
+  <id>96795293945d75936e536b64988d5898856a4ada</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRwAAAA4PjKk86pWGqyI7QN2e_3bWaUlMDymrr4jclIdThroO0HRXYRYzG0whaMLiCsWmwkgO6wHZ7orFyPg03ADFimUi8XZx1stFg59G6tuCU6e4PIZPGoppWmRQtNniDgQNDXdQ8djo31E9Jd3j7dKIG0YRIQJaiplruYfzVbGw_ovwGwgxoUaO-P81bfe528yRpHodSrbgwVIXY</photo_reference>
+   <width>295</width>
+   <height>295</height>
+  </photo>
+  <place_id>ChIJp4Kq0sRbmhQRvrMC7b0QKzs</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Φανοποιείο Βαφές Αυτοκινήτων Τσικαλάκης</name>
+  <vicinity>Αγίας Ειρήνης Χρυσοβαλάντου 21, Ηράκλειο</vicinity>
+  <type>car_repair</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3114910</lat>
+    <lng>25.1332180</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CqQBoAAAALDb_h0o3JIiAlghZN-h4FhDnyl8B0ukFz_CM81oBu0GOHrPZPwucMDwsyewyI_m-rBKpvvRcYO3MfeKKUDDJaLxSlzOHXX0sXLe9jrnpSqq328vZVIYi9c-WqQHuiKKeSW1DWuu26O8nPchITvopILgmQFqGlHrRjSKUavjAGhFGzL3vl-g0M9QKEwGU2Wh7BnyrJygxxdqW5SkBtXmxBASENobhH6sOOf2Re1T--gsdLAaFOk-sBR0oPL9QnuZI_TQUjJqSULx</reference>
+  <id>4c6fc0ce5ce540d1df4c555fb5d4f26181551653</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRuAAAANtaHZYuK2i7A8U079u3uHqdWpeq1VKZCr6iG14tTTuJEKp80vHIGf6F7hsTlI5Ep6uHh_Mrlzt-2QaX0jeD8-X5zE8I6XjoDvIVSWnSC9dDTSW9zDszokb6EQRoA9NKPxQFFQnIpW1ur99NpP5O8AxIQJC8RMS_d6giSuM5anP2XdhoUFiEczhD8qgH76HiK6gL-ZGpJ0VU</photo_reference>
+   <width>263</width>
+   <height>263</height>
+  </photo>
+  <place_id>ChIJb6-dW6JZmhQRMLG9-iVkLPo</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΚΑΤΣΑΡΟΣ ΓΕΩΡΓΙΟΣ, ΣΥΝΕΡΓΕΙΟ ΑΥΤΟΚΙΝΗΤΩΝ</name>
+  <vicinity>Ελευθερίου Βενιζέλου, ΓΑΖΙ, ΗΡΑΚΛΕΙΟ</vicinity>
+  <type>car_repair</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3355640</lat>
+    <lng>25.1082760</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CqQBoAAAABpmoRGit02hs1WNIcv34UMMbo_vrmUREUuEIE_0JKqcARj4gfGBYgwfYKBmwStcECwoNTLrSfwdkMyyCLh7dKZS41tATSs8lRaCxou6jtA1mvAP2O99XVILq3B3HkPTLO9S0Sgae3mGD3_zrlul5HRPSuLbnxg98SMNEhIgUrmPaHLWD_-JiKa1KtkXrFuZNtZ0JshWqG6gUsKapm-zjcQSEJCVDk6ign7gPUO6Gti5GjAaFKs9-xkxZs9Mk6cTttKAzyKCfxyC</reference>
+  <id>68b7cd616f9163a56b58770368176e09e463a014</id>
+  <place_id>ChIJBRGtGfdZmhQRGX46UyLi_QU</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ALKIVIADIS vasilakis mihalis</name>
+  <vicinity>marathonos 11 poros, iraklio kritis</vicinity>
+  <type>store</type>
+  <type>car_repair</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3339890</lat>
+    <lng>25.1458480</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRwAAAAwFhwA3kElA4zh54B-UPknzQ5YQJM6y1mMJJmybfF65J31nG-KSOjV4CYyLTK9kSnPVmuekwP32v2l282PyJmqiwQvjqgsG7y-8drIgaKySGZPV5Ti6J791_BiJMrCMTWZh8VQuL-wRtr4e4iKmUkkBIQHiH565dgUlx_Wr-KN0wh0BoUIaE20APXL6r63ZiChk3yBz__boc</reference>
+  <id>d10923f6d8285224a499cd4e1e4a57a003869e67</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJkdDKSdRbmhQR_XnZx-WIo_k</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Αμαργιωτάκης Εμμανουήλ</name>
+  <vicinity>Πιτσουλάκη 3, Ηράκλειο</vicinity>
+  <type>car_repair</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3273660</lat>
+    <lng>25.1447450</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBfgAAAMDDZku5w0tqgUaLiF5pN0PDf6vufD6_aGZC9Ty9IpJrYPkHuVIij1xaQ2RzpEkzmeMOmqOOnf-lS7LPF4OsQ87pNZgWPa_GMGSDCm4ov5K02ITEelczxODQV25hv2ZXODro3lzsfNTQBLm33y2F5VBJycSWEuMrddeJb70WhJ7VEhBrEnApqoSEVLGzqPG_fc2ZGhRK1qWxNLeRmcPmqzafsvhbbHVPsg</reference>
+  <id>961b12ae8dcc4f96311080dbadeffdf53e70fc39</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJ30uj4H5ZmhQRkXirYBOpBBQ</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΜΠΑΜΠΗΣ ΠΑΠΑΧΡΗΣΤΟΥ</name>
+  <vicinity>Μονής Πρέβελης 95, Ηράκλειο</vicinity>
+  <type>car_repair</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3311040</lat>
+    <lng>25.1400880</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBeQAAABcbEmZaaZzW-sQQKoswPSyDwqzccPcLmmEuJmzeLE3yutrh_vOxVOALMbUL-ciKJCmC8p0FtF_R5dgEcf9260kEyggn6t9pvP9YjL-rUGlAunAzerDHWcUsxlzZ7fbTp9eD0-G81Vyy5i36PS1peXL9Xc78vG1C6hjO2F7cs1aiEhDb7FiH9WavBK4XfbMX97ihGhRmw6c2cmGnytuZxNw3ywZEUHUIww</reference>
+  <id>d95be56fd3ad54075abe5d3d118a399012c1b57c</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJH0HeFIBZmhQRn2WEpYmL6_c</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΜΑΣΤΡΑΚΟΥΛΗΣ ΔΗΜΗΤΡΙΟΣ</name>
+  <vicinity>Μανού Κατράκη 14, Ηρακλειο Κρητης</vicinity>
+  <type>store</type>
+  <type>car_repair</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3168420</lat>
+    <lng>25.1132220</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBfwAAADCLgr6pI7f4bOjeB0OfQC920VOUbVyqCQHG2py0q0zWZX6IjPqG__hBWZERDaE-2Famp52aMIJYG2xq1jdpe2olBNn33sR4A3olOW49YXWr7FTYjf6cOPzcMiQkbSt9eZqRIShJamsFQnoYNUOCy7Kt1MJitGhW9Pqihf5p_EpoEhCQvD6Z__DmKn1Wi8_I8UouGhR_k49IeVzw7gCSN6mcJnAETKvFDA</reference>
+  <id>5fc290085fa637e14c12927cf4ff981d7f163228</id>
+  <place_id>ChIJLUNH6MFZmhQRd2TAg-XUL8w</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΚΑΘΕΡΗΣ Α.Β.Ε.Ε.</name>
+  <vicinity>Μανού Κατράκη, Ηράκλειο</vicinity>
+  <type>store</type>
+  <type>car_repair</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3079070</lat>
+    <lng>25.1094890</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRuAAAAInQ56x432PcFEPNeUWVD_KDSyAj8aInVObQu1qeabKP1dbtk--toTv6aH8j2ElwQMdqpV-3PO1bxsKIWWea4IAEjlgxUOAaGTGCYvI4yQrwrYnj763GdIAEUupe1MLBHzaSo-j49Ygw9g40D778cVRIQ6ySrS43uyo56kS_ppJK1eRoUgJXIV26RWIEYqcOB7VJAfpShCuE</reference>
+  <id>198d7fd2b5ae0417ce40beee12d2510df297d1c1</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRvAAAAfKWPdVMpNi_f7JBqFQL5Rp2we258WYbm3h_MbFVmpiit1MS99p6xBymTH5zzniNqODH9YNTCxUQ-cqAXy7mg0c1ANAKIleD_D9hcTx3Au9f43QUYJeC8_s3sTHMIS39aRzz-_TwOFRC_sfeqBHjBUBIQ3DRXyZaKBrI_2Y0rQD17OhoUGRx2YcinW_CUMK1IreeMJ1wPmbg</photo_reference>
+   <width>321</width>
+   <height>320</height>
+  </photo>
+  <place_id>ChIJFSHsfM9ZmhQRDBbrppdsVis</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

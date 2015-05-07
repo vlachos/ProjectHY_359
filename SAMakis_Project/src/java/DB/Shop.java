@@ -1,5 +1,8 @@
 package DB;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -12,14 +15,14 @@ package DB;
  */
 public class Shop {
   private String name;
-  private String category;
+  private ArrayList<String> category;
   private String details;
   private String lng;
   private String lat;
   private String address;
   
   public Shop(){
-      
+      category = new ArrayList<String>();
   }
   
   public void setName(String name){
@@ -29,10 +32,10 @@ public class Shop {
       return this.name;
   }
   
-  public void setCategory(String category){
-      this.category = category;
+  public void setCategory(ArrayList<String> category){
+      this.category = new ArrayList<String>();
   }
-  public String getCategory(){
+  public ArrayList<String> getCategory(){
       return this.category;
   }
   
@@ -69,7 +72,6 @@ public class Shop {
     String str = null;
     str = "Name: " + name + "\n" + 
           "Category: " + category + "\n" +
-          "Details: " + details + "\n" + 
           "Coordinates: " + lng + "," + lat + "\n" + 
           "Address: " +  address + "\n"; 
     

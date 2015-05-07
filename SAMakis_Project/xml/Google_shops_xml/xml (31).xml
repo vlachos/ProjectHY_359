@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>ΜΑΡΤΙΝ ΡΑΝΤΟΣ</name>
+  <vicinity>Ροδαμανθυος 5, Ηράκλειο</vicinity>
+  <type>courthouse</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3348110</lat>
+    <lng>25.1412780</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CnRsAAAA1kxygAxYJ6HYIYS8AdvLHaCPv8dl5Rb4Nf_1CSvcAyDA67aqo3-2BSOmbbDh06AcSQiZptF-VuV8ms4NDnChylb5AxMaVYun2tdvgoCaaJuR52eyRcQo3kmxmz2oDaBu_xgdVHJTtFlQN9LvmxmI8BIQsEFPOAXizYTyY7DFk-gb5hoUs_uZeXmPMiEG8U8UGo_t4QAbIPU</reference>
+  <id>2b3d987d12ab83224e1833e220741e48bd7a1a5d</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJP3qDKytamhQRYy2NrKBwfz4</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Δικαστικό Μέγαρο</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>courthouse</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3381400</lat>
+    <lng>25.1343600</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CoQBcgAAAHt_d3Mv_3XVmxQziYL1O8IE1li49OnDL2WMOVSz_I_BDuw3hQHCSDk7E3OFGVJI4LqoSeO_9JDASvo9jVeqX71MRV0TM2Fw2QgqDETnv4OPzyzp803ZYfX_yElMDlHrDNlPcdA3ZYYIVcJ6YSoQBdGtGcJugjrE5cw_R3XYKpAmEhA7hjQn5U2eXtX2DbhexfgGGhRpngoFX3gtTr6XJsfKShJtgKCb2g</reference>
+  <id>35c1303c401eff2a3ef953deaab588543254ad45</id>
+  <place_id>ChIJb4TfSClamhQRX68j97vSflI</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

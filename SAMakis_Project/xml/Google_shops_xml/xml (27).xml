@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Venetian Loggia</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>city_hall</type>
+  <type>local_government_office</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3397700</lat>
+    <lng>25.1340050</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CnRiAAAAs-4xKm96JCKSMTbg_GROWok1nfP8YZIX6qss_o7UgZWb7dvKPWUwUjLau2gD0r1KsU0Fs14-v4q8ZqDUHzz_GsPa_6uoLtuuLs6aed0inMnn8I8rcKPQPTmVyN2vH0sMcY8l0Ylem14k0H5Y5fwCchIQO_Mf_W3p53hJ0vHN9jedPxoUtqXhXrMN9sMWwz-E6Igafqzr3Vg</reference>
+  <id>d4886c30cce10042e75228e1324195662debd39a</id>
+  <photo>
+   <photo_reference>CnRoAAAA-WP10jrg9z3I20SSslfYbcR9pTnwqGruC06sbkWU9M9FpuIFfPpVKt7QaJrxWmNjFO4-eElE31pev7Uth6mgtt0YcT2OZ_I7yj_mBE8vbm8zzOrTj2Qy5gqWfXW9h5lN_jIgiHu6lK1nRRtDMUOIrxIQme533KlK0djyTfJwTk95qhoUr068HExrkJRyOUS_PO9cM4gp9iM</photo_reference>
+   <width>1632</width>
+   <height>976</height>
+   <html_attribution>Από χρήστη Google</html_attribution>
+  </photo>
+  <place_id>ChIJuXcUwC5amhQRM1CvWpGrSwo</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Νομαρχία Ηρακλείου</name>
+  <vicinity>Αγίου Τίτου 1, Ηράκλειο</vicinity>
+  <type>city_hall</type>
+  <type>local_government_office</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3397520</lat>
+    <lng>25.1340460</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CoQBdgAAAPhTzJqEaSQHNBoxxf0z8MVU6lvubIDIFrX0Yzh_iw9gtsuGHgWAL-89H71zPRAUKJQZkCjVNQ2v931bLQ2OV_Olgj67colivXSDUvZlBvJlf56YkYUF3YWs8RHN0IMKvyugvo-yqRJkHlsn7qw7WT7XFNT41_NR4kmXOCgl2wIhEhAWkz89xdBTTr4HbM1Aus-qGhRbZw7eQYDpPzMvDGTZB8jYW8zSsA</reference>
+  <id>769a08e9ba6c077ca0acb8dd84258ef110cc2bf2</id>
+  <place_id>ChIJO9x0vy5amhQR9uwGNb33Hl4</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Δημαρχείο</name>
+  <vicinity>Dionisiou 13, Ηράκλειο</vicinity>
+  <type>city_hall</type>
+  <type>local_government_office</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3422500</lat>
+    <lng>25.1563400</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CnRlAAAAgoaMlR1kUy-suk79UCf7IHtYpyy0e53ItW5KkOSVyttcRcVMJVIJsIqloOSVMDVfUm9XvG43c_rPtKfjo0UUfLV83u8tzM_VlQuUcZt2c7sX5YXdLY8KKDtzQKbfCa62ek7cmFXJnJ4O-CQFalkkSBIQo8MfFW-wvPhsYKVwfa6HDxoU3qVGEYxgNbxZc8hH4-1Jv0ztAG8</reference>
+  <id>ccbb22cf05434795758ded3826a9ef48aeb2c0b0</id>
+  <place_id>ChIJ-SwpTcRbmhQRip8ODuEKUVU</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Δημαρχείο Νέας Αλικαρνασσού</name>
+  <vicinity>Artemisias ke Dionisiou, Ηράκλειο</vicinity>
+  <type>city_hall</type>
+  <type>local_government_office</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3428760</lat>
+    <lng>25.1576020</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CpQBiAAAALqQeS8k50mjpkEH14QzLSUdD1o2-ViLBsquF9at5YLAnMQrvJ9eh_n9vF1xrnLuPObykVFWHMaKdJE2kQBsapjctaAHI6-LBtKfppytwRxZgZHTzCr7aV-s8yV9FrVrzmOgtF5eY3-L-WUWKoKK636t5pOBW6424UpHRW7Dui988N0WvfItmgs5QT0wvzMXVBIQEw3a15qs_8KtkmokWZFxChoUJ9xALpIOUDPRqvqgjXOG4J7VYW4</reference>
+  <id>c0b02677fa86e83a1cb87101e69e827b8e9dc160</id>
+  <place_id>ChIJD7BKPMRbmhQREW1EJragnjw</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

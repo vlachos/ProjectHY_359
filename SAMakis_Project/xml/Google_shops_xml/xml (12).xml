@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Κίχλη - Βιβλιοπωλείο</name>
+  <vicinity>Ευγενικού   Χάνδακος, Βουρβάχων 1, Ηράκλειο</vicinity>
+  <type>book_store</type>
+  <type>store</type>
+  <type>art_gallery</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3398260</lat>
+    <lng>25.1317290</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png</icon>
+  <reference>CoQBeQAAAGdIKFeT8n4SqlpG0iOPQ5AYasSBm8Puxl9J7Nnyp7RpYhqINQrmcLnMYTTkfztesLK0WpBK1j7wV6CmDxItrQropv5BDjowGpqtNXMx8KKQwSrHbrd8vWSSAY4IGgHK4eblCU6xgStp75hh3k_7f6uQ9iHBWbbn9xB8YCjg6hICEhBukiC6-m6ONZglbR-NB9wgGhRAjf7K4xD7bZrSJunZjkO5ZM4NIQ</reference>
+  <id>678fe6e7af869c535ad98038cec35bef9fb602f9</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAB6nVCx83AkPETqBvwqxcLay6algkZG5ClpdJ786V5ezES0QuMFispw9_uN_q12TmxV8xqXblaW9NCoGLIu_ZiriCDfG2n6D346gIYm0fh_4MBufRtmbQFUGpGAfq7ciy1iXZkmwU7EJtZz50IJuTdxIQRC_Zont45NjpXfL4AZTr5xoU9lMPo85CBqr0WPgFFKZ8pFlP44U</photo_reference>
+   <width>1035</width>
+   <height>713</height>
+  </photo>
+  <place_id>ChIJf09xMC9amhQRonbOHDxjTsk</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Digitalland</name>
+  <vicinity>Παπανδρέου 84, Ηράκλειο</vicinity>
+  <type>book_store</type>
+  <type>electronics_store</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3304340</lat>
+    <lng>25.1337830</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png</icon>
+  <reference>CmRfAAAA1t2UpCYPm6mkdu5u_WUMwTDV2Fv81Ih0YuCFFhR-ZeEGe-INGlxD0UUpw0SIcGrlbJQDaElByWCgDp49lj0gQ022JSpVNuKLKoRSI8-R3ijWXR0hdoKEFpfqmqEYVUY9EhAjXvOSzksdJ4z1o3-hgfmiGhQ5R2n7te6tYWqb-vinTrgu5F6J-g</reference>
+  <id>9324a3b8ef45a0bf0f11cb82087ac26cadd17fea</id>
+  <place_id>ChIJp-wd7oZZmhQRCWuQSyK7Pso</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Papercut cybercafe, comics   games</name>
+  <vicinity>Χάνδακος 30, Heraklion, Crete</vicinity>
+  <type>book_store</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3402670</lat>
+    <lng>25.1312910</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png</icon>
+  <reference>CoQBdQAAAISe9KZUsiw5mTG6wNdMHD0VHdiPrLTWh-JWdeQ14x7ghlrx_49pugX9yubgfM_yX8LFHqBJ9iW6DRfWWjhwAL0YuxDLLtl5nAusWOWZa7hMvVIGK4QkhjjQyyTzPqsrm4iLnRCbg3VbycSqIBEQAZdqmLRXqrl4md_ShOW9EhY0EhBc12qvH9JaqwjjUSyt_nlmGhRTz7Lfjv9mH1gfaR5No8900JFpkA</reference>
+  <id>74b3a8a53375967a48bacd2ce3d0cd55ca3217d9</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJ0fTaOC9amhQRc2X_b43pATY</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Μαγικές Σελίδες</name>
+  <vicinity>Παπαναστασίου, Ηράκλειο</vicinity>
+  <type>book_store</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3081570</lat>
+    <lng>25.1458180</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png</icon>
+  <reference>CoQBcQAAAGb9C-_4idJlBsH5NDU3FwsFVOGim-s3IWRBFP9MgDCulkVzny8Jb9WhBdwL_qSATPgoA57RqRMRAjNwxJX_hTvTJYg-eukACc6mpu-UO3TGgBzM-x0fmHzsiekJ4kEm2rvtlzmXSypObmDhEyN6UBdjFXB3DFzWXjYLqc7l5eVMEhD9HyC9KczJFmakb19c-I5DGhQr8pPy2PJffbWKcUC6TRpIVh9dxQ</reference>
+  <id>7f1edd2c0a3b0de6e68108c6ddffed39a5c62b9a</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJfavqDAtZmhQRVActJ3Qawo4</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

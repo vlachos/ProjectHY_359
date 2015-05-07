@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Ανθοπωλείο Yucca</name>
+  <vicinity>Λεωφόρος Ανδρέα Παπανδρέου 62, Ηράκλειο</vicinity>
+  <type>florist</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3291350</lat>
+    <lng>25.1304770</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png</icon>
+  <reference>CnRuAAAA0OI_sMJCghUeqTJKtwOLl7gAoINlIGTz0-OrQkrTDrktoq-4Fd-MpiTnQVylMbCdN3MQMpvJ19iGeeOgE9jThwROG-A2Ip_ohKgZgyr7L5lLJPwVMBlT5IhjG7kW58BAm4PyAXqFAfA9QdsYI2Kk7xIQabSLT0YJWOFtwlRy71wfchoUUr7i2FQnxajmWldZ8uN__SYbZAY</reference>
+  <id>de25727a9c7e2c7b7e90be7275a8fb378e8867c8</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAR_7oFydf72QE7xiIExDrIZCcMk5G2hfSBlqOTUyG-uxYyp7O0QMCBYFbDsBI3QHVE5vpePBfgFQ4Jm5oqMeuX-VhB2eFVNTXzPiFvOhr_XW9VyJ9_TY4oIgkf19tAsrBJkl9lr1GiGWCdTuQzEeHUxIQVGlLoqneMqK5Wy4EYekzGhoUiyWkQ6IHEFiaQg0ilRz1IaTRJtg</photo_reference>
+   <width>358</width>
+   <height>512</height>
+  </photo>
+  <place_id>ChIJ2-H24oVZmhQR3thlXdyblYM</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Soula s Fleria</name>
+  <vicinity>Εθνομαρτύρων 12, Ηράκλειο</vicinity>
+  <type>florist</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3178850</lat>
+    <lng>25.1353310</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png</icon>
+  <reference>CnRhAAAAoOhd6xA5m9Eb7C7s91U4QkOWfVa5RmaNQb1Y2CER8TuRcmnxN4L9rS-bIdnUb5O-mOit98isNcvndOlZ70wtUBwdb1OFCYeK1_RT3V8myEWvatqd1LpusAyFjYxSOaLG-iJOsYyUmiGkK2Z_YwnAiBIQ3fWEpucXmjYN6p_fZcijLhoU6O1oVTIuj4Db9Xht8H1ykUPPcoo</reference>
+  <id>b3ee35f97f35ae8652d98a19c8bdfcd1a70997ee</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAvuNhvXRKav5AE3EZyHXnHv1uUkOb0yGvK4lltlwoAcs8nKKLBJeJJdz7QsZW3kGIbCDOVkc27a7h77vRwemI-h0Q35oflQx6rPXZnBVgDtnANAflC01ZV2ilOTHwL_62t-gu3ZKifm1WbQcDrXF7TRIQxRa4-Uum7mPadi2AqX6KeRoU6MSSeCm83rrDZs0yXykEu6npNrQ</photo_reference>
+   <width>173</width>
+   <height>173</height>
+  </photo>
+  <place_id>ChIJ5X7H_5tZmhQRwahQAUng8yU</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Ανθοπωλείο Ρόδο - Λαυρενίδης Ι.</name>
+  <vicinity>Κνωσού 92, Heraklion</vicinity>
+  <type>florist</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3254210</lat>
+    <lng>25.1391950</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png</icon>
+  <reference>CpQBjAAAAMsBancQQEGKmfKtQWmnQcdCd9-BZw-ct-7VBRim1dBCWdVKRW2eGPQ2AIS2aNkN6mVN8zFcbevEOSNlTn-Xs0pCk0dDx1QL_Bkz_IgncbFjgGZhgt8gTddgf3B-qhNl8EQIVT--Ny41QmB2LLpt5Uuq3V9woltbpqdrB3VD3-2i_Z5HRcVJq2ydkFHCwPdczhIQgdeI2qfdYmU8FFuitMlZVRoUapy578QZU-4WajpEcLklyfZri4E</reference>
+  <id>0843358847812bfb9e88f127fecb5ddc0db08a60</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAhLm-tnst2XnmALehX6K5oJsUlRVDASHyaHWt0GNanDWFuZBecEkT2WZaAnquCGx2xtBO4dg3dodIXEnobbLiQyIIERtMCfeVWedxuNcuYAnWWa1cO5kAimWc3e7bEyMuTYL3tiWXK1cApKCw172jRxIQOXKDCcA1Fh2xJ3WJfBy5JBoU3aKqvnBk18H1Ur0MGBCGwiWv-VM</photo_reference>
+   <width>600</width>
+   <height>545</height>
+  </photo>
+  <place_id>ChIJgWdiTIJZmhQRMLGWytKdkFk</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Arenaria</name>
+  <vicinity>Λεωφόρος Ιωνίας, Ηράκλειο</vicinity>
+  <type>florist</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3207830</lat>
+    <lng>25.1331430</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png</icon>
+  <reference>CmRcAAAAu8z0e3pGhGRcDEorCYS6R-mwoWhaGv-LwFB-EPqkxDavp1mrwQG4cL251zkS_4t9PeHwsQRLr64mp22ucmPEUUP6irsEgwSDH1UrbewfxGPnz84J85fIuztbYlKHI6TUEhA23IjP3XH-POqbl_eh5NX4GhRi4QB4dUDJw9NZfOWpTzLb4XsFbw</reference>
+  <id>1efe0eb79bf5c3cd045e95db8e0f2e6b093596ec</id>
+  <place_id>ChIJ4ciyqZtZmhQRII2gXzxRvMQ</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΒΑΛΕΝΘΙΑ Ανθοπωλειο-ειδη δωρων</name>
+  <vicinity>Λεωφόρος 62 Μαρτύρων 165, Ηράκλειο</vicinity>
+  <type>florist</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3318670</lat>
+    <lng>25.1129780</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png</icon>
+  <reference>CpQBjQAAAHghUA-YB8xrx1xsXLyvb2yOYBOWmi32JvnXleybzudlX-FeS4T0F5ktAcGpH_7n7qTIphiirPmOOKNS2UWB5-3jDIEiIeTbezDiFDBL4Uf6tJkFGcZjZAJKytlZdffxDj3jdvG17-nfoISLW1u17JpzQCr8I6_5E85S0jF8-bDoRET8QPwMPgPUVNaF40AVzRIQqKrIo5nVzDTG1XW-Kq3hEBoUNjTdU6b7vcIX9Krc6joyK-to67M</reference>
+  <id>3ef62ff3d80655afb2eb42cc352665a4b287da90</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJMxIi6vNZmhQRzidnErfKqSo</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

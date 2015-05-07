@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>ΜΗΧΑΝΟΛΟΓΟΣ ΜΗΧΑΝΙΚΟΣ ΚΟΥΜΑΝΤΑΚΗΣ ΝΕΚΤΑΡΙΟΣ</name>
+  <vicinity>Θουκυδίδου 29, Ηράκλειο</vicinity>
+  <type>electrician</type>
+  <type>car_wash</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3387230</lat>
+    <lng>25.1505700</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CrQBqAAAAOtJboRgEjpivnaDPO-_TH7Z03EX6Yn8ZPcNvZvjWtMTiQHYlUBA8n3fsZUmTBA9dR_keqYy-i_MKTFkQwqTdrdbZG85GYufIx4nbbzD1DTbzaFbFRF9UqxQW60Cs2Tt8tChDitKBUICKp1-zJiSr0fd9fdUsEHm6R_wkhV1SqTzhbPdRjKfAheg9OxBXJ_c35BVRdaz5NafW5V6x7MbhZSGcNpqfamXdD6611unF-T4EhBfHp6nL_73PGdfYVu45__sGhQU9_rtYo3ulKh85LctAAWKVYDxBw</reference>
+  <id>f55e0a904aa7e51d356ca24aaae270f7e52befc9</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJT2AdS9BbmhQRCyi8nW5oyaA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>IRAKLIO CENTER PARKING AE</name>
+  <vicinity>Στυλιανού και Νικολάου Γιαμαλάκη 50, Ηράκλειο</vicinity>
+  <type>car_wash</type>
+  <type>parking</type>
+  <type>shopping_mall</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3408220</lat>
+    <lng>25.1298670</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRtAAAADzOjLhySCZP4nHhjHL5naNKAq-UIzV8WhjC0JJZUgdWAAp8nMBPZ8Gw1-9ftxqZTSucaGfsgn8zU1V3ay7JHoxMec2YTQ83JPQF1UiCb353NizVVna40Krmk81PIPjSsG0ZKDG1aBMcm_9E4VWyGwhIQD8DkkU43eAzFbKJy3Sh5VBoU7eeOR2EtCXYKtwaug2UjAero8IU</reference>
+  <id>5f7d6fae0be74bcc0c42d7c75fd7c91642463498</id>
+  <photo>
+   <photo_reference>CnRnAAAAF3hK-hA1Jnd-m-RSRzBpg4b29-QUu1wuS5WHFXnW9PueQjO7nJXmam9tWi5hmDRO5ihYwGie2FR8RuYea74xHQArcdQLI2UIoteUSiPmSB5BUEjXUsWA-EKbEqGRT34UoNxARiooQn65qONqhNStZxIQL2kqD8l5yt6xj-yD_eHyiRoUJd6fdUeXvONB09PqvvI4DcAhpc8</photo_reference>
+   <width>606</width>
+   <height>905</height>
+  </photo>
+  <place_id>ChIJV7cKXi9amhQRbY-aov92w7Q</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

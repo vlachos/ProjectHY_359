@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Αρχαιολογικό Μουσείο Ηρακλείου</name>
+  <vicinity>Xanthoudidou Street 1, Ηράκλειο</vicinity>
+  <type>museum</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3387720</lat>
+    <lng>25.1370440</lng>
+   </location>
+  </geometry>
+  <rating>4.6</rating>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png</icon>
+  <reference>CpQBjwAAAA2wQNLdrABsYiE4-oy62g2zz33VC2Bb0mqv5Irro_3WK5_RQTLN6KzkrYBtQLt2i1bW9fagi-tRyimJlbtGBVGtL_t097pWfz85XRUO17D6_G-ss5jgeGyLdtMnaWKyz_wE5zqb-qauR_HoRd8PFKiyujOuf4XrdX5ubMSsMf_xsslehI6C-IJpoJl9uGP7zBIQd3s3hTxELsQiuKYS71Z9rBoUay7DOD6gPHvBk5kfrS51ApTAZKc</reference>
+  <id>c117d7106d91a3e08e9ca4d2db2333c251557ec8</id>
+  <photo>
+   <photo_reference>CnRoAAAAZKTqgbYr-T0g0laJBM0g5PIPB-C9UI_3-7rpBs1e_mm1Vn6yfp9voz01vXhBVD-SgNxI8hbO3YLrgtk7K53901bWJzhkmwbbL4GMNYr75o5ImStCmB0ssBXLm4C5jel65QV-l8nJYHES2Ka9UlRGPBIQolRhERCdjPyQbzlSWvWDKxoUNZfefOsnSZu-ErVCYiwVpdEA0eY</photo_reference>
+   <width>592</width>
+   <height>800</height>
+   <html_attribution>Από χρήστη Google</html_attribution>
+  </photo>
+  <place_id>ChIJw1SLaixamhQRwoUu278STN8</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Historical Museum of Crete</name>
+  <vicinity>House A.   M. Kalokerinos, 27, Sofokli Venizelou Ave, Ηράκλειο</vicinity>
+  <type>museum</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3420300</lat>
+    <lng>25.1311700</lng>
+   </location>
+  </geometry>
+  <rating>4.4</rating>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png</icon>
+  <reference>CnRuAAAARoLDqv_tSH2Jcw1M38PQJTG2mtQywzum4sRBNR9BLhZBQTXzahZTx70H-6D3oSG_lAMSqAq_HdqXeMjFduAmvs0D1GbQ_t2H9XboI2KdN7IprzDqmZoqNfqAg6QKi-QBRc0K6NCN1etgBAZjIqWUexIQaxrpywhI1UvA9VelId9PUBoUUzUmaA106QAefmrGMWW1f78N4Qw</reference>
+  <id>93fb647a26575f70cb3a013fcf637ab144c70d90</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJ--lwkoBZmhQRxZ-k5gwg67c</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Ιστορικό Μουσείο Κρήτης</name>
+  <vicinity>Λεωφόρος Σοφοκλή Βενιζέλου 27, Ηράκλειο</vicinity>
+  <type>museum</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3420320</lat>
+    <lng>25.1311680</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png</icon>
+  <reference>CoQBgAAAAAk7skvDbUHb3W4Qp822D7oo8QV73FQvCeKBoNtlMKgUFvRbLihCvgEG1bnrVlNNH6oPeQc-eESsgpMGwOSFFeVvlWAENILYGUEA8QMFUv4WBAwS-UxeMXoGDAojsbbZZq4-JhiN3-TCAgBN3WbsyZZYA2lpNtN9CZeoOlJHHU7REhCfOQ7xV7quH2U6kEXiM8rmGhTGoli3krMXZudrS_K50HPedzA50Q</reference>
+  <id>9f201fb34cb34ca339a4680018733bcc9831f2fb</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAuMVY_OP8JNE3NT32ySMQX2n8DgTV5qIisNzk4bk7eDSPIMwYLUeGtmV9hhv4Cy4ACOEubgkBABS9VahJYXFEJsJfxDWZlvPfGjNCltL8CdzoL-ehKQFBOSz2npsMPvlXkh2O57nF5-LItWpW63PmsRIQw4bLUDZBv_KPEXgGsrKUWRoURgeIyHmRlQhG3tYepz5PyBvo96M</photo_reference>
+   <width>800</width>
+   <height>600</height>
+  </photo>
+  <place_id>ChIJwX_XoS9amhQRo7E4hplXjcw</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Μουσείο Μάχης Κρήτης</name>
+  <vicinity>Λεωφόρος Μποφώρ, Ηράκλειο</vicinity>
+  <type>museum</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3398800</lat>
+    <lng>25.1387700</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png</icon>
+  <reference>CoQBeQAAAMzk8oOK50WjDVbPk651XmsGa3pG423KTIBRkehm6QA2tamBB_UdvWdurre6t1Tv1M1Ss0CjupdrbsojSd0kPJlsRxWEM2ucyfHrEYBbatUqukMYCXaeWZECNVPlpOWwrqUo5ZFWXtXeCTLDBHSI7cBrHQDju3qdoglunzXio5STEhCxLQZHdwFawc3jU7kKMEFaGhTHP_t5jbgyM6_O32L2Wu-zOB4a1w</reference>
+  <id>7f6c91850b3133e7219332b5d2629b647fd5f9cd</id>
+  <place_id>ChIJo-4z-SxamhQRFQISLT5HhQw</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Μουσείο Φυσικής Ιστορίας Κρήτης</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>museum</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3416750</lat>
+    <lng>25.1271060</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png</icon>
+  <reference>CpQBkAAAAJ3lpP-S1pJJ-Ddk5xe26TSw20nBa-EPG3tqzwDnl-YC35Pat_ft5NG8ir-C2H_URY5Yt_MngrE0OkgAmiQ0DxGxYHqJK0p57UbrNg_etQL0P4dLSvf1KHoUERhAkvJMunD8oRJcOIT54JwqTjshQ_-q2k8VgDX_go-scDzIi3SkogT-qLXpI5-Np2wrddl6PhIQZzi5275Dr1PLJHQFeryDEBoU01pwd3YdSdQFw-zwzdmLh010yZU</reference>
+  <id>af03dbaa20dfb87f3f5b09958254f661b8c43c2f</id>
+  <place_id>ChIJF-BhtiVamhQRx0aRcve4DLM</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Εκκλησιαστικό Μουσείο Αγιά Αικατερίνη</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>museum</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3376560</lat>
+    <lng>25.1304560</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png</icon>
+  <reference>CqQBnAAAAMnkIJWxU6i2s_Z3KkfoPE5SmQ0J_8qqmCjP_ZIVOtaLU9nK4XOqxsCarGd5LoURG74oqUA5BZsce1R56fjh-WNPNu7NsFwRXByHy7SSXz__IdYBL1j4wa1J5NGx_mBJpI4d3tLs3ljHfGLbkEU9HvOFIpkLN288TTajPvl2wlM0nwUN-J-eLUMy5t2b6hbXiLEdrI5OmzPJYza_pQwU6O0SECK6JJ6hAKCmUe7kqI25_dAaFJsewpgqZ1tywDIaQJq8B1OR6yA_</reference>
+  <id>1d39f9c09ae65274affcabc6dcd12ef8bc3d768b</id>
+  <place_id>ChIJiw1qkChamhQRS8-u663O1aY</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΟΙΚΟΜΟΥΣΕΙΟ ΤΕΧΝΗΣ ΝΕΑΣ ΑΛΙΚΑΡΝΑΣΣΟΥ ΗΡΑΚΛΕΙΟ</name>
+  <vicinity>Καρτερού, ΝΕΑ ΑΛΙΚΑΡΝΑΣΣΟΣ</vicinity>
+  <type>museum</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3352570</lat>
+    <lng>25.1653180</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png</icon>
+  <reference>CrQBqgAAAOBaWd-R3niDhBcWzjdcybGG2rMA6bC5gETRUIBLMEmUXN-DlXltbtaOo9jQdO1cDaiZEns03XfCuvByGR2GBiFWVXbTh-MWjtd9xeGLScfRhjQYgfV5BEMmE1j7w1OksmdqwyIb8yLc6ovAyx-G6LJO-LBjg3OeqUJUkQ4AW_ex8Q9y6mayrxJUMXsQpowIsXwvKKO8iR-R9ncW30w6QhDw4qqoOylH3WpsebmxNyO3EhC4QOEDIczHwSEpjwy_ROicGhTHNOeoMrkraRt_hokis0-Ept-7CA</reference>
+  <id>c07b5d2993204af664961ec2fb1907f397d7bd33</id>
+  <photo>
+   <photo_reference>CnRnAAAAZJ_eu6dQuw7P82ivYoeQBDnEha4fxLYAfindCUowJwdyOoqUfLV4OfEiBO4KkuZK8I0TZuFXi25CcfocpKfF85phB96KU1vCT-JYI8LeqandjQbRHEJG3jokXwRn19zAVpH3QrOwqAAkAysUcuSPtRIQE_NZA_haup823brE56ipfxoUWWX2HnatD0ykGsNzBGcIiOwNxqk</photo_reference>
+   <width>2048</width>
+   <height>1536</height>
+  </photo>
+  <place_id>ChIJZ_YOX91bmhQRI162PIs8VEE</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Λυχνοστάτης Μουσείο Παραδοσιακής Ζωής Και Λαϊκού Πολιτισμού Κρήτης</name>
+  <vicinity>Μεραμβέλλου 60, Ηράκλειο</vicinity>
+  <type>museum</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3398170</lat>
+    <lng>25.1379340</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png</icon>
+  <reference>CuQB0QAAAAcpU2howXN6p5UspHcpB9s62rrOskyOPDkTleIlMARampje_nIPDnxtVoAZmQ-RGFCUvtsQpCMVqttWhO_GulDeaqxd5psCBvh1uHdEFMR8V8J7ENWP5t-qCLEA_UfDoW9PFa63Vozg8JMA2tTALobqWA_jQPt7Dsc3IWKqyqlFjSJBQS6pYlWfarg6xnggtEXJBVBN7O7UXSpkt_Cv6mZYMeAkyVyMZhP-no_nu1JfdDV-s6Y7j_aleDXrek-2FK5QEH-I_Nd_lwkSuKTKSUSj-CMPKBaCSlVqeDHVNX-JEhA4nB132RT7OaXv4Tf9N0tTGhRJbJAThzZYUaZcuU5DUXlok2f39g</reference>
+  <id>91f0e07a85e1aed05ce0ddffa1226a592d8194f4</id>
+  <place_id>ChIJjT1kUCxamhQRnt61bz0t_gw</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΜΟΥΣΕΙΟ ΕΙΚΑΣΤΙΚΩΝ ΤΕΧΝΩΝ ΗΡΑΚΛΕΙΟΥ</name>
+  <vicinity>Νυμφών 2, Ηράκλειο</vicinity>
+  <type>museum</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3398260</lat>
+    <lng>25.1460250</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png</icon>
+  <reference>CqQBmAAAAAl614mkKR2qLUlwPKiHdLvYOlrC5tvt58Q1O0lrRXsZgcadnMFZ5XPwr3n58MYjz1B2SOoNSdyo5kRGE5cYodVOx-__LyFLqscu2CIBOeTURt2yNs6c4QBZ4WtWar5nasBb9qK-u3CtA23-AHwLqD5mQFLWUCHonW2I4sH5fbgSpieeRVSuHOef_FipVAQFvHvrLwaBYgWN7F4ApqPmrqYSEIrs-hhPiMgFONn78XUb_MQaFGN18XGvq0epzgkXTqWIXw5bJiYV</reference>
+  <id>527e5be37a681b78383c592ca17d607fb0ae156a</id>
+  <place_id>ChIJl9TBP9JbmhQR3WipFoZAMfY</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

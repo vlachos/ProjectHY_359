@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Σταθμός Ταξί</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>taxi_stand</type>
+  <type>transit_station</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3366210</lat>
+    <lng>25.1334590</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/taxi-71.png</icon>
+  <reference>CnRqAAAAyKjr66JE5BeLNBkB5hLtxDVb8lYGkrJABJdbLSXKfZ-REXOppa2szXvjWbjWWjDEG_S4DH52MR9sdF3VZ2WEPv6GEoy9ZxykWBFDnJ2UCAm3YvMknRnNGeEuQjiXzHoK4Kj-YhdQmQ4zTU6hUzn1nxIQuJ8p_xArkfDC7emfBii3YhoUZ32HCUEvayQNmhWeqVzVcmIZkiA</reference>
+  <id>21bee7f6d35a54b5bf9a152aa4d0e0a96d8cacd1</id>
+  <place_id>ChIJy_c6DylamhQRa0ulQTuA5jA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Σταθμός Ταξί</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>taxi_stand</type>
+  <type>transit_station</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3323300</lat>
+    <lng>25.1268470</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/taxi-71.png</icon>
+  <reference>CnRqAAAAx7UA3nQcUVgzjtscSFE4ZaqvDbyyOsA80LOm9sgylwuarvX1rVsS4rdxv_rmS7ehA1vfVbkSTyXCZFA0681Z1ciNdsYc0yAezU4LPQRM1vv6a_LBZPi2ZciGK1UKVKdVIocJabKGICD-S4DiI5inoRIQRF-CKkGUFaEM9vR_eGT_OBoUTscjUr5MKNgw6JymEqs_4wkGB6E</reference>
+  <id>ff4c0cd665db5b248036fc57c96ced3ff9f1aded</id>
+  <place_id>ChIJF6SK_ohZmhQR1p-SfLSoPQM</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

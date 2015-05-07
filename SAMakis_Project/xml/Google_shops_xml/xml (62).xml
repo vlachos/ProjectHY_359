@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>CRETA INTERCLINIC</name>
+  <vicinity>Λεωφόρος Μίνωος 63, Ηράκλειο</vicinity>
+  <type>hospital</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3352620</lat>
+    <lng>25.1204570</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRlAAAAqHD0EV_t4pdueMSJv8HVGR7m_YuZ59LGmh4R10WT0TjWWfAHG8a8AlrDTjLnHuVWJVT6moaiIEv7MF4tW9EnMG03PzzhqJgeDc_sZDOxPQdKJYkYQYtcxO4tzFH0KspgmgHXORLOIL3JJcogUt-VOBIQIBQBRB88UsZo7x0VLK455hoUhcacOZ84utOjJunqIdXJwy45oEM</reference>
+  <id>c4b02da35044d861aefbe8ee5e59ef6c6904c986</id>
+  <photo>
+   <photo_reference>CnRqAAAA5mVP1Z2HfRBKeuEc-bMQzCJ-mmE7sHige5KtTOtQTUJxvXuhcCYnJalKrR2jgO7pWKYffmkmVTgWvQVFMbKVAVrAf4XFS3qdKQrl2E3HJDFTKioq8loirrefXIfcQbB27OoA_l93DYhmdy1IJsKlZhIQUA_OiEvEwtD6dZbUWNE7TBoUI7x3TfNj2j1GhD3toJ2HpkA3Y9c</photo_reference>
+   <width>1365</width>
+   <height>2048</height>
+   <html_attribution>Από χρήστη Google</html_attribution>
+  </photo>
+  <place_id>ChIJx8K09IpZmhQRuIn_Zu2G94c</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Γενικό Περιφερειακό Νοσοκομείο Ηρακλείου Βενιζέλειο Πανάνειο</name>
+  <vicinity>Λεωφόρος Κνωσού, Ηράκλειο</vicinity>
+  <type>hospital</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3061910</lat>
+    <lng>25.1559850</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CtQByAAAAPFdTDhS1JmQ58LHhndJ8_s3B_McI-kWsw0EVn4bdPtCrLRzP6bC-jIpPJ9s-3U7h5RSgRu7ogrLrXErA8JGicaSBpi9Cjd98x-DrTPkrYI81ne3MBFkTBwrVzAhl2UcDfcfKvHj2QVKmuiOxHXtGMSfbLrQzQDX44cXwRCL7BPLQ8UwDM8wKzpPWhymPAdp23j3M_1eru_-TNQ5l3aQCn4alZoIpOkEIeTh04OQIuoIsF9Xy-R7PoX44lZ7lh4f-3eSTVDxugy3qnFvDvUJrakSEJtjB-V8-Pb8D3BXc49Hd4saFJc3QH0F_ywnn7zYQV1uFwp-yrmu</reference>
+  <id>4d45bb192a7d9158c5cd90b4a4ffaaca2d5d8ef9</id>
+  <place_id>ChIJO-mgYRJZmhQR7Q9MRTGC-KA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Mitera</name>
+  <vicinity>Archiepiskopou Makariou, Ηράκλειο</vicinity>
+  <type>hospital</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3414740</lat>
+    <lng>25.1238080</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRaAAAAFxw9zlEiIJ4kW_Q8KwB_FrCoEFjWOV_iEEW8NtC-rCw7h0etmxIP2VCyOLbBTqh0SN8e6P5EgZfSnAoIEzEu8lUF99WKh-_9d76lzUtM82KBNxM40CWvAGiDwKOjL5mdEhAm8S3MtOV2KVQVjtogNSvgGhRADENUmRLbuR2-b8FB3GokRkpDbA</reference>
+  <id>faa714e93759a4cc09a16de91fa97b6cdec4b15b</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJ7WWjByRamhQRzz47AckSZ54</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΙΑΤΡΙΚΟ ΚΡΗΤΗΣ ΑΕΕ</name>
+  <vicinity>Πεδιάδος 45, Ηράκλειο</vicinity>
+  <type>hospital</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3377750</lat>
+    <lng>25.1367250</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBdgAAAJILIVxpxTADdKAD0B-ohz9jxEYg3TIlT9ql53D6_fUVpPhx3QjgtCpADONVmJVwk_mhhCh9_klN-K3_Ecsz50UH8MSyanA80EqSGYgUPNcTaCwbMbmugm6itqBukcnGa24y_B4IZiZWT5W9XlibdQvUkAXgCD9Hk3kTneaL5PzdEhC2aDzW4PiHj7dMbYY-afjFGhTJ10PoS09AVxbvlXHCXpEt2_VMRA</reference>
+  <id>ed636bbb9cd94ddec2f410ac147f1b883534880e</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAwfUljGcvun753a04QXYEtCV088x_RXdbHPR0uU1qUA4HsGoY-Es9cH5qFjjqdOFU0VEQcLCl9gaNm6faVNDnUHLE4SANSvO9G2F2wImJNXmDFdOqK_EyUVep67SWfx7x-pen0cQodXrlDUjMYI4vzBIQHmTMIOZlaJGB4qx97OGG5xoUww2PeQFGieWxLAC5lGPbX_itJ0c</photo_reference>
+   <width>1000</width>
+   <height>665</height>
+  </photo>
+  <place_id>ChIJgcDC6StamhQRSUtAudh-4vg</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>BRAIN FITNESS NET GR</name>
+  <vicinity>Ζακύνθου 5, Ηράκλειο</vicinity>
+  <type>physiotherapist</type>
+  <type>hospital</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3368210</lat>
+    <lng>25.1438200</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRoAAAAQDb6TNmMJOGs2vDHwVTioCPL1RjevO1rLn2eL4V5JRJpKgwsaJiqp_dgZG497G2BixkR8iaIr9IN1ZN00msLzZ3KD49bT1QV1ZxFn0dTO00TKMZ2Bwcuu3kfLUO3reU1CcNmhKXqfaQl7tVZVutPNBIQiA6KbCAqRewS55p9LL1fahoUHBRda2h-9HoGtUp5pymVtxZwgp8</reference>
+  <id>d39acd8a5f4cfc597cdbe675ff6d2d2e2bece2d2</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAANRnai8nNrUktuQQIH6Lya9AhCz5dz8Z51X3A13Anuxo78_2oSwWEgEX5uC477egm2-CzZZ1qFEqO_ulcCSyBH515gbYW9ia2O5ekgpCga5Apeh-l7S1XfSA0c9yR43b40N_vuc8Sd42qO0-zRc3dtBIQA5vIGAD7p3pAOlUVy_RnrBoUTzXa007-sZI_nT5rBNxzKH7ZG4E</photo_reference>
+   <width>237</width>
+   <height>357</height>
+  </photo>
+  <place_id>ChIJf_f5aNNbmhQRC6_AUAIXN_M</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Ασκληπιείον Κρήτης</name>
+  <vicinity>Ζωγράφου 8, Ηράκλειο</vicinity>
+  <type>hospital</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3370530</lat>
+    <lng>25.1351090</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBdgAAAO1CwiBaDnxCj9nsZWVlHoUQQb3mQmPqfqjyYPnUX4StQfuFZ1wg8eXqLsLlvHYDDXPgVvoAjqNkEeT-3udcN0qPrsTY-rZVPEJcK-k57NOC37lc64uPnpkAgcM3-wwIQmaYVetCMC8QwsrH1BEd0iCUvLCuBX5avhIWRRPnnHYhEhDlcEqjKD8bMiNzNzliiHO8GhT4YP-rkcKcoG2AsT_3-i_lactfcg</reference>
+  <id>38e2f3f879857d1d249e9ab18fcb0402aef31f74</id>
+  <place_id>ChIJWzVvZylamhQRoyRnPZVnE2w</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Κέντρο Παιδιών Με Ειδικές Ανάγκες</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>hospital</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3384920</lat>
+    <lng>25.1170950</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CqQBkgAAABhXzUQPwfigBF5_UNnEOcWFlidH9gLXv73CsUqsOOETS_VK3u2rv0iXBggYm8cL-RD1_Mkiz4Lg-CwVUiUZxeEHnuuhisFsT2_JzF_HNCbC_y9_Tjv2Z8g30z0x2AMGLgn2bXVWZCDaUGo1Ed73KR97cS5JGbqUwhJS-FHMHfh5uobTfESsco2s-Gy9K7Z5AOXj1TuNckmP_3xFKi9kCgQSEJzTktsEJak-zc1ezSxhM8saFMJcrAJCJ9lTcOJmUVlpAnIqDQdd</reference>
+  <id>e4d06c74b876fa1174caff7fe74bdcd7c89850ef</id>
+  <place_id>ChIJxR6U8h9amhQRf5mKPly2DV4</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Euromedica</name>
+  <vicinity>Ιωαννίνων 3, Ηράκλειο</vicinity>
+  <type>hospital</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3377040</lat>
+    <lng>25.1299000</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmReAAAA-D83KSY9I6hcq5zOUUGjsENmwvxSHMkT_E0fpe8xp7ajfXzdpavac5nphrh3qfgIFWDNsPJWMXlexIdhtuK1jTMFf2H0IFIz2dTATJCwa3PmY3uzfrB3yyqyHndHCxxYEhDGiknKJHOx-xz3CWdTg6ktGhSlKG8XbD9qRnofcQZr3OLoMjWP_g</reference>
+  <id>fe2af07ded8d86a5a7867ab2096f92db2cc9d13f</id>
+  <place_id>ChIJq_DJnChamhQRX_JbawQBQuA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Μονάδα Τεχνητού Νεφρού - Βενιζελείου Νοσοκομείου</name>
+  <vicinity>Ουρανίας, Ηράκλειο</vicinity>
+  <type>hospital</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3067720</lat>
+    <lng>25.1552310</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CrQBrwAAAOTKvXsNbSd9xyG3F0q4xD8O1KXckMN77sr9kwh30ibIUMHD4dUEQ8nlaKG1FanPcVgbRmYmeRBL4nb5ebydFljIUabeoOuEyIJ9vE51F5wsNqscNyCQZRF0g9ZXfdR7jEvp0axVt_qVtjMtiZSyDQj8GNJa7sj6cUBycwVTdd5gryYKJo6Br1Cm70hNBpFd7LTjOGh1Hww_J__LMT2Aj2-hRUdO53F0XXn4CLtRt09aEhDYbPO8ZqoNKWXpEm8Fi57IGhSuVjO2ED07gn0cbMq7PO6EqaoHaw</reference>
+  <id>094f409febaed69be2ee110890e249982c985d28</id>
+  <place_id>ChIJXZ9n6RJZmhQRCMhpViwjkrY</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΑΣΚΛΗΠΙΕΙΟΝ ΚΡΗΤΗΣ ΕΠΕΙΓΟΝΤΑ ΠΕΡΙΣΤΑΤΙΚΑ</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>hospital</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3370570</lat>
+    <lng>25.1351090</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CrQBogAAALuwXlCvsZBc2kCzmwqAZ7kvjCJRIw5tGv8vZuLKnu-9jwfC3lHVhLZY19_0coKZ4wgnj9oblFd4bjQoY01EHCFUd27ILxphs_je8L0JQz_9LufRclkzrpbAY-JHk3fD0ZJfu1TI7jCRQnv6w5QAcrYs7TYAdwdEAr5NkOTfPB7fW_eEwkyShAsJmmWwGMO2SppTRqCJx0eo53Ivy7H4DIloyFuYNur5tZCV6FwCWDHlEhBN0IXklwLeGoqctJK1X50nGhTVU9mZ5xXqAQ-_bXNwQXhNvP07Og</reference>
+  <id>ccf7923f9c7aeebf2e1cdd4ed8226752479d5937</id>
+  <place_id>ChIJp0AZZylamhQRJaEqzws1kIk</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Πανάνειο Δημοτικό Νοσοκομείο</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>hospital</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3350190</lat>
+    <lng>25.1285830</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBiwAAABsrOo_KBMpZLG02D2ViS4_MUmYpsBZ92akHFNdzeqduZKzMlZErZuMZRLQaaY-1EEf5qSM4v-Lq75Zb7wFj6Z56Uw0V2Ia4idOXGza3vsBcqkF7IjHG9r96d1bPSJvQio2TLVnDA_MPWfDNmNyfVlOKl7pctVhMkjrPe74wqAN0NoP7qApT9kSpQ6zsi0oRtRIQrdVLEPwFNGmOSbDNKks-QxoU9jdB71-4Ucz6mkj5afOXn4x4dpQ</reference>
+  <id>1e45086e8db9523a1bd4730a365560370834db77</id>
+  <place_id>ChIJZ9LI8CdamhQRToF6cEBGj64</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Iraklio</name>
+  <vicinity>Ομύρου, Νέα Αλικαρνασσός</vicinity>
+  <type>hospital</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3270300</lat>
+    <lng>25.1598930</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRbAAAAk66yR2B176pSUZRQW6tOBfNUph_FrnfmzV0srZJOg7xI39Bn2K2lOn2dxsfS3z-7hrX-VWtNJh9IQQbu929sDsAosqbFyAUhABDA5nZgxadWJnBMqK-XdVnXtSItMhwgEhAjMQQW0xJmKw0NeJwAMbFMGhTtr1eQQKFT-E7UZ2ZvV5Yx9_uSqw</reference>
+  <id>5eb6574ce050149d01ed38ad772a7f5e12a6a097</id>
+  <place_id>ChIJT5FM8GFZmhQRBU18qM6mJIA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

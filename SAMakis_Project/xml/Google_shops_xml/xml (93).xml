@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>SiteMakers</name>
+  <vicinity>Ανθεμίου 2, Ηράκλειο</vicinity>
+  <type>storage</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3377900</lat>
+    <lng>25.1388360</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmReAAAAletHpDSh2O3cx-QhCNfZaaZ6-ZTmqSV5eUv1lEictV-RAWbozC_nJCPn7yvTVEooaqA2LUcsGWpOiZrrxLUaxcaO9nUTW-O_wuvfGVY7IQ2wWBDONlV2DQqXCexZIT4rEhCQnXlf4N3VbOFR4HcuHX_qGhRa8da1u8o9Unr-EWEUkPjgYiLNgg</reference>
+  <id>ef15af6fc8661001e548413bcf2217bd6c8c4c72</id>
+  <place_id>ChIJjSMRgSxamhQRzf5emPf-X9U</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

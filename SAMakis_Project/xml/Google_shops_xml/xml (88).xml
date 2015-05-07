@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>4ο Λύκειο</name>
+  <vicinity>Φιλιππουπόλεως, Ηράκλειο</vicinity>
+  <type>school</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3309280</lat>
+    <lng>25.1223990</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRjAAAAPfT4NLs4Wklr1DpJiPaGB3jPRRpLRSE6MVaLB8o_Ro-tS9aix1mFsxT5eRERqRV2dh8gkB5DSx-SGc_8bjL0m-KhwZ_Wa06fGHgu-b14MPcuE3qdGq0VHGZ2YOwbK5ES8pA-tVCOYyvnoPv3Kd_XZhIQDwqUjchavMXASeF9yf_fwRoU_JP33VLJPfByLDeHhl532oCoXsE</reference>
+  <id>56a245b92d88929cd86e89ebe5e5a7f876f55198</id>
+  <place_id>ChIJjcuECoxZmhQRIMHuPVbiOB0</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>7ο Ημερήσιο Νηπιαγωγείο</name>
+  <vicinity>Μαυσώλου 105, Ηράκλειο</vicinity>
+  <type>school</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3363460</lat>
+    <lng>25.1574640</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBfwAAAPAWUUu5HKWLqtN7g8OThQNdDSvgr4UhPvPI8bya2zUogaBdp1UeV076ZhNYU99s1ds-KB3_TwhfCzROUgMz7mWtSPtjIBSNm5EWbprRWtNGZ19uBtzeJgJkd2LTN2nwF-882h7WW7--0SCyQWN-M2XKQfinzRQlVmlJnnjnEohdEhA6OcrsmUhfJ55JhDPIBncfGhQbYRoLtW_L-_OG1KgziCiqWswSYw</reference>
+  <id>2e88719e23b78bc567bc08d20c4faee66f68b7f5</id>
+  <place_id>ChIJcx7kC9tbmhQRUr5ugr4EZqM</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>4ο Δημοτικό Σχολείο Νέας Αλικαρνασσού</name>
+  <vicinity>Κεράμου 91, Ηράκλειο</vicinity>
+  <type>school</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3422800</lat>
+    <lng>25.1606190</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CqQBmgAAAOyUxTr-k5VPZ_Lj6AAHdfIoIDQL7YlFEtarXIbB5AU7HXpJZXK4vV42ZJRMAljyAaKcsoa05Rl_eXN2nIZa0cnZkkEWUlfdMuHu6OW9OAtX_Fa3_SuGbdDUtz_3Sip9nwIqxxTC13qg6TPLNlcuu2vufyPeNfBcJo3LIDHyG0O2nVWSWea8ZJjVpiE9TzhWgam7lKY_c_LBodiTTXHGL7ESEH_5K-aYgeo3VgIbmepP-QQaFHqpMFlDi7FytpK2mvFHV5pQoO_8</reference>
+  <id>f6f5e8ad1756536e7f0eb35ed60dc55c4d81a58a</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJi72y6cNbmhQRsrlqQnl2T8s</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Ip Man Wing Chun Greece</name>
+  <vicinity>Χριστομιχάλη Ξυλούρη 37, Ηράκλειο</vicinity>
+  <type>school</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3272770</lat>
+    <lng>25.1124380</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRrAAAAVTfLgtj16P51SU9M9nDLTjHbV9baSIIWd6_jUV3i1ekQrWM9uTRvfMZf-NoaSKuBz2AHmEqkhyXQ_XIgqVs59oTvZSpzLA3H865KmKgreXclA1Y8SIJshueLPypV1U62TUAW2_SU8TLuij2W_P_udRIQcc-UHbifdSqmimPph_xC5BoU5ybNw6auA4qiboW_oPnjh0UOSRI</reference>
+  <id>c358cf0611f50b4a6dc806d53b6db0809e216a19</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAA6msr5UAc8uXcm_kjy-0KxLg1g7AY-U_lfa7_l6PTaUGkhK8d-OnUG95AcCgWCDK4gplnqBMxez3AsF9y4j3VvBO4nRbETOsD-RkCjOQWivNTw2DETt15igjxvO7g2VvtDb7XGdcJ3ix16psZKiNZgxIQX_AqPABEMEAiu9KP3pvByhoUnJGS1AUOT6ExpFavggCF_9oe62c</photo_reference>
+   <width>960</width>
+   <height>720</height>
+  </photo>
+  <place_id>ChIJC4cP5e1ZmhQRHaT9H2rJks8</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Εμπορική Σχολή</name>
+  <vicinity>Λεωφόρος Μποφώρ, Ηράκλειο</vicinity>
+  <type>school</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3400700</lat>
+    <lng>25.1395000</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRuAAAAq2R8ib1TTlMMpyDNkO_JMc_lQC1L3BVdEdFGEbYp14wI3l3Hpjy_5DSWDoE8mal46o224FlDFWYhIrcExa7r-8LuTBZLw9xjS9QQvTFOkMytMGISrJrLuMR1mHvD7bWtmLXtK9sOVDndkrpN8EO14BIQGl7dWBpRXmkS9H3taNsNqRoUJm0AVODEADDJt1_cAF74cScKvEY</reference>
+  <id>616a372658299fc1decdd886516c40ea8b137cf4</id>
+  <place_id>ChIJLemIHS1amhQRKI2dTccN5yM</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Σχολή Χορού Φιοράκη-Fioraki Dance School</name>
+  <vicinity>Έβανς 2, Ηράκλειο</vicinity>
+  <type>school</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3353790</lat>
+    <lng>25.1339110</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBjQAAAEtkgUPXEIWu5P1gyesXDW_yjuQEm7b0U6vqcI-nrHzxUg63QT99H3yoeCwJOIP01cEES9qgVsXxgrNBTt-7G0rO4LESSi23U2kASSVYq79gFJ8P8RJPez1QhQwCkXPRu092i64uoBmOaV8WvQHqLzTDkj9H6rFhjLUruyrwfQGMUqPE6RSay60wVC4HNcVI7xIQPwk8lVhJXqrTt7O4edOrDRoUPOY44uqtNrDodAjFcEY6z9c6YFs</reference>
+  <id>a6d602ac6818ee03ae0b86a8dad25346a0215a1d</id>
+  <place_id>ChIJPX4EvSlamhQR14QpXC-Acks</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Δημοτικό Ωδείο</name>
+  <vicinity>Αρτεμισίας 165, Ηράκλειο</vicinity>
+  <type>school</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3364630</lat>
+    <lng>25.1588160</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRvAAAAkBhsIvoR6baVYcHi70-diTRFzd589zbCj-h8fiO-9T76KQqyYLySypzMrVnfeAww3Y3ceRzVP_eFy3tkzhFplsqVfspzZi2YN2aC6PX_H0sYIB3YUXRF8rUNxCmCagTnrvlKD2mVNbFCeybCGqvWShIQ43U67etEfEsMtfdnNDYtaRoUfWDc05iMFbOjWuSX1LsulvYD6mg</reference>
+  <id>808ce82165ab9e34999e2ba1ee7cb207059a5b44</id>
+  <place_id>ChIJC2_VettbmhQRiITSAG_9i68</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Γενικό Λύκειο 10ο Ηρακλείου</name>
+  <vicinity>Βορείου Ηπείρου 1, Ηράκλειο</vicinity>
+  <type>school</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3304700</lat>
+    <lng>25.1157180</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBhgAAAA9eQkO_x_6oPxfVbme1cgFD9UjrWPUm0BbWSt3akGmA8-OA9d1F5ZbFByVnq7YiF3mR9pumxUZo2zZV2FwavmKui_C3Bv_RptQzlGP_0oPx4HDYbffkvGiFOztpAp1PuTVOEBLiQcKtxVuHdYnTaDGLTfFZD18ckUOFwDGK-WU9U5m2-neE151-n2lgjH6sphIQ2QUhL1Yd21Pq5i-sEZZKMRoUwUBow5DbLvTjT1EM7yB02nI61j0</reference>
+  <id>daa419fc88243825981f14e31b18b41941552fb4</id>
+  <place_id>ChIJCz2JGvNZmhQRN3ptPcT7XPY</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>5ο ΓΕΝΙΚΟ ΛΥΚΕΙΟ ΗΡΑΚΛΕΙΟΥ</name>
+  <vicinity>Λευτέρη Σκεπετζή, Ηράκλειο</vicinity>
+  <type>school</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3252900</lat>
+    <lng>25.1412500</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBhAAAACehnbki4de_gqzfeHtIQi4dU4k5rxu61TiD-2F0cK_IDaeQwf1b7OKO63dCJ55S7IcCmQEA9NHO5i_Q2xVqTXgWjhvGeBgerbSbtseegdlxXBOIOhHgeY-wmMuDOJUNtLgUpPgMBrT-9TZFiKQqtp7b5pEwdFXI5WzR2KWHq-88rdkGxaVzz3LcRM0l5MAfuRIQ7nIIVhP0VOD5tp9vMYfAoRoUaq7N7zqY_DyHRwq3b1nKnc7tR48</reference>
+  <id>89190495ae79340188c8771de95c96d718b99a75</id>
+  <place_id>ChIJvRG_dYJZmhQRKnixeXaJIXQ</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Παιδαγωγική Ακαδημία</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>school</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3324100</lat>
+    <lng>25.1338600</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBeQAAADoRnyP311d7VgrJiJLeICoJmzOjGSII9m_4dVRJA-YzQzFR9PCQVoZKv0DxritEElme9Ry50QUPlRZqu9MiDHFW2MOV8E_ncYt2BzXyk7QfZ41d18OU9U3_2-TPZk3l3sJCerT7nqm_zLVnNvhQsHoNOz3L4UgN9jMEehBmc8M0EhCjCYbC-lXDdXjyR5LpUdmZGhRXPsiy2oCcwzN3OE6o93DEBYtmxw</reference>
+  <id>42164d1730188546376e77d21c44e900f32a3fd7</id>
+  <place_id>ChIJU-Qba4dZmhQR-HUaqepFYwA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>1ο Ημερήσιο Νηπιαγωγείο</name>
+  <vicinity>Μαυσώλου 75, Ηράκλειο</vicinity>
+  <type>school</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3401520</lat>
+    <lng>25.1565100</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBfgAAAK-AcaUG7mDC-Fl9HVW9oq04JOPYdL299SGMw_KLxpdQN39EQLQCCoH-3FcUJ4dGYV7W4ir_WzPsr2gC3kMtC-Z7kZvFh1UaTxZDymXLSKNEpzKEukAJq4jEFhvb-x9WhzfKR9c-3uRP1uHBah8WYZD0H5JqGJ3THaNs7Gyj5jh-EhBQhs3CRpcfszayN8-KaCXfGhSFO5xn2kAIa5XyNPgLCiSLcsMt5A</reference>
+  <id>a483e5277075355305539b505944833c3e3fa7c6</id>
+  <place_id>ChIJk8Xp38RbmhQR2HVkdcd10zs</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>4ο Λύκειο</name>
+  <vicinity>Λευτέρη Σκεπετζή, Ηράκλειο</vicinity>
+  <type>school</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3256680</lat>
+    <lng>25.1420110</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRkAAAAED_XHN1eZW5_tlZJbawz9ZadVSDgy4MpdqsV7MNzuQAbwu1waQ3h4zfzHiD_fanjoiI2Ec6jhf3VlE6Rck8bkxPw3q2LtCRMENzBcp0w9vPy4JwyN-KNauW93XbCzrkJ6fwe16d3wRdDhQsZ1bS20hIQKnN1pSgx_sDwZgfkxCOuORoU1Vn_UxSRqh_koF3u38mEMCzevS0</reference>
+  <id>c2081e1422d1145687f87bc0fa490b907ee2f515</id>
+  <place_id>ChIJI8P6pHhZmhQRDnU7V8XBrrk</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>3ο Δ.Σ. Νεας Αλικαρναςςου</name>
+  <vicinity>Unnamed Rd Νέα Αλικαρνασσός 716 01</vicinity>
+  <type>school</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3275980</lat>
+    <lng>25.1655250</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBgAAAAInwFA0JUEnY8ADS3vKn2mu0h3mo2asE3gE4ABR29XLyOS-06GFJAAP3g4HdIHtslT9G-qOkSLlxozHx-6mhBbuULnx0pI9WLlDXaFLmWoFw08tWBH38BMP4hD0Xlgs0wXhZinSsq94A52sVNqv99oumYEssXqFrDlrbTeEdpDWZEhBRXm6KdHQk1WUx_tBlhKpoGhRAKXj-SkzX4ZRbXww30bYf7VS8gg</reference>
+  <id>3977f1d1fc2cd55a711c16fa7c527640d3a0442d</id>
+  <place_id>ChIJfyDuC-BbmhQRDVaeXXG_vfQ</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>2ο Γενικό Λύκειο Ηρακλείου</name>
+  <vicinity>Κονδυλάκη 32, Ηράκλειο</vicinity>
+  <type>school</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3310260</lat>
+    <lng>25.1248850</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBhQAAAFl9V6kuvEewYZ5SwRKGQe4zo9jeVIc0fFBgyI5ablvx87B8QY9HY5wJZvWhA5BWvHeunEbbc-JT7NyIiWnNqLUdqZfhixdSM2SL0qs608FrIIHeiqjdu5FePKu7AiLdp32IVWkAk_4RWMChlranqEHZ9bJ9Enhqbz4ORdPU-wYwg5xQj7qzXqxl-aKjUFYJTxIQi5QunNYTPSuvFPZ8LhtTEBoURHjJFSesclQ-m7Ilmm_b3VLhfi0</reference>
+  <id>e0674b44ab4786b701f626873b66d093f629e4e3</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJc0a8SIlZmhQR9VM5V7RvVMQ</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Γενικό Λύκειο 4ο Ηρακλείου</name>
+  <vicinity>Φιλιππουπόλεως 45, Ηράκλειο</vicinity>
+  <type>school</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3294830</lat>
+    <lng>25.1231960</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBhAAAAJX_GEWQtMPCEdPmJs-g-Io-qaC_5t3y6CuNfb8Ps2W1PIipJMPfxSTfhXdCLwlks6MCnrVpGuGsEHox2FGj97fUqWqWxhKB2ycvluHyfK8uzLMECgqjEBwa2v3mwyV6-OZhtONs1cwXhjnp_7QCtMb-64FEZgr2C2YPK0-VpwbJFIABjlNQAFsLHfF3MH6LIRIQxm6c9b7d-v7mpJqn67ycrhoUoSvEYNZJXFQ-LvZo1U02rZtxbjs</reference>
+  <id>ad4bc8de4e73cd0cd402e6befa5c07e3a1e0778e</id>
+  <place_id>ChIJ2yVyIoxZmhQRRUW8ypjpgH4</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>5ο Λύκειο</name>
+  <vicinity>Ηφαιστου 7, Ηράκλειο</vicinity>
+  <type>school</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3371400</lat>
+    <lng>25.1174140</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRkAAAAo4CC4eYLlhuD9bNjiO7ZwW7D7NzStviMz2t7yedCHCaUVE-8GMY3rw9bb6jNAO1ELQo1SXKJL20s0WThrlEDOU0WLMYNTe0LcDiALyIecY3k8lNhw7MfacXLcH5OZzg9GFNeWSxOdYOOF__oqJ6e3xIQWi7sgVB8i-7EnEB7ITwdQRoUcIeWb-zq8DEDnz_ILd9gS9Eo-1U</reference>
+  <id>3a3e3ec1227b7f8979416dcdd70332dd27aa53ef</id>
+  <place_id>ChIJAQfCVfVZmhQRRURTTFmHxNo</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΤΕΕ 6ο Επαγγελματικό Λύκειο 6ο Ηρακλείου</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>school</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3267800</lat>
+    <lng>25.1436300</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CqQBngAAAAstXpyrPn8VgAPHISU3vYIrDWi7NDI_h2S-rhTOLR3FNiqWQYEMla5zlTtD0Izmbi4NVPi505wLfQ7T-Bx5aVWzhrxKUiL4k9QfTEx7LnVpGQ_YpzBwUZ8rtVG-9GMnMx5fIssCKRq7C4YAsyfl3YENyFCAkrekdtv8I9iNe0Sd1mPSuEDxpdkhokrE9hv4aqE1n8kUGT7sl80ApyKA_LQSEP-E5t7FQ_p5wELR5GqkWlEaFONZcud0kEM9FouDmHI1QkQ7AK0e</reference>
+  <id>1cad69cefd692d933c5512e569e4321873361650</id>
+  <place_id>ChIJM95u03hZmhQRczTqp5lFne4</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>49ο Δημοτικό Σχολείο Ηρακλείου Κρήτης</name>
+  <vicinity>Αυλώνος 10, Ηράκλειο</vicinity>
+  <type>school</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3339370</lat>
+    <lng>25.1259940</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CqQBmQAAAHTWxrGK99VUYrif1hJFUD9nvct4r08FuNqiRz5JbVsTUlIn_zQCWGyJWx6OJnb8t5wVvBRjNARTFss1jgc2ZtGJPsTKYMssgQ6L2OowJ3gmPw1l-tvp767f7gIMeEgbF38KrLAmhRNyIiLMirCQTk3Un4nU_gMGXXgbIrK_urBQ0OlQASPMBfBbnWJ8fscuDbHJGLu3rWMz53SB3aqmtXwSEFL9cnugZl2FWlcpLVGA3AcaFNNpuoqFuptGM4pCs8QbjNKwKKD7</reference>
+  <id>cfc8f225db5b715d35d2ca884566e1afb3a5771e</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAjMejPBsAZKix_JvT17TVJu6KkmiOrProFzN2Fw6fLJ-S0RB6i7BqgdDN5kkwMnwyP-FWUFtlWKBoIY4Cs3eR0ktNSwyr5xnD4nkVj7YyUZUC97k-BYHCM2pmfw5kv6FKyVOBHsdtWrMD6CXkEnPMsxIQX7wIHbN3_UC3DN__SFNRqxoUIi5t9hGdQ3jyYk8X24isRazb5kA</photo_reference>
+   <width>960</width>
+   <height>720</height>
+  </photo>
+  <place_id>ChIJ5yGXt4lZmhQR7RuHHsTz1IQ</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>30o δημοτικο σχολειο</name>
+  <vicinity>Πυράνθου, Ηράκλειο</vicinity>
+  <type>school</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3334330</lat>
+    <lng>25.1273690</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBdgAAAID3UkHZOac6cVFR31DwPDO_3esYSKlmwftwxQRZ-jlE68vpoBAXZYmRs3hTj394c2JcmsjwbLc_rAsl2pmRqkuTcA7fTIa4m3NiqSyJWjw2Tc6rdIDvc6gWzk5KHtgKzU2sBN9O1dxXrYuJGWqxl8MUMkNiuv1oGb6ZwTH6AWakEhDhZptNI4ZH3EhYvCZ3MRyOGhS23A3Sh07aOpF1hLJoQbSNzzt8NA</reference>
+  <id>59790d6bbbacc1e4018feae6d87b888408e186ef</id>
+  <place_id>ChIJNVasSIhZmhQRZRsbCDs9C2E</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Γενικό Λύκειο 7ο Ηρακλείου</name>
+  <vicinity>Γεωργίου Μαράντη, Ηράκλειο</vicinity>
+  <type>school</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3336630</lat>
+    <lng>25.1098270</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBhAAAAP_gJqddkXDavq2NfitjPIO_KD5nKeIQZt4GGzR3sjSYmUYSv1JV6ydhNRMjZaSKuECKcl3WCPAj0ca9uivznOG3N-45Osa80WE-ULp85IFNNzNMpLjF8j4zutaOyLgvltrbNwuBPBtpk3tA6VABHYhH5HE8jD9u4MZjoNHbV81E_JGJk_j0Sr049w0DR1hoqxIQi3Lyo5ZwdHJWeYsPFznznhoUt_u03tKlmFDaXF21fh-s3VWlbNE</reference>
+  <id>0863f782d9d8486cb72b49e80a563dab90e072ca</id>
+  <place_id>ChIJde4IM_FZmhQR3xdhACZJxk4</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

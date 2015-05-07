@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Προξενείο Ρωσσίας</name>
+  <vicinity>Θαλήτα 17, Ηράκλειο</vicinity>
+  <type>embassy</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3417320</lat>
+    <lng>25.1335540</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png</icon>
+  <reference>CoQBdAAAAHdbmdzaGsz3G3WVWOoJNzdFjbg-7-aGtN8gM3i7s14C-NCnjGX6jXgaa9XHuddqtJ1F1mZJDx84xo41Hms8JKDiA5_4RiMH-Y6W6jWlzPBwpiAUzBpsG_tj1kFbD48kEzsZQKsI1sGTqs5j9NtKXp37TZ-mL2_X3TALyFj6GtjQEhA9wwZRnK5ji86N-lxbAPb0GhR1Rx7oQ6wmFxjWXIB4BDV1y9BzhA</reference>
+  <id>bc9c46de05fa3e6cf3cc6b0d825554887c7acf90</id>
+  <place_id>ChIJf19hSC5amhQR6q9XfD2Ch1g</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Προξενείο Ιταλίας</name>
+  <vicinity>Ζωγράφου 13, Ηράκλειο</vicinity>
+  <type>embassy</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3372870</lat>
+    <lng>25.1349270</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png</icon>
+  <reference>CoQBdAAAAAzOiKxgj652od7dKD5heJWEN9TiwFumQD31GVmP7Rk-G-cu2j4Mfvbe5bq4sqOgbusTz-gbx5Zd-aoC0564D1WNDhA8md4EN7mgU8n1A8jN5uNhsxS5ZirpILUlrg2DmLlqrcXwiv7WL0c-gEDtoyn67ftYdHwca9-AOMsXu-G7EhDqmwtFrpogsp2dFOi8VnBeGhQbqH_g-YyyLyxs45CuHkjHXXTM2Q</reference>
+  <id>ba376c6674e1ea14ea30094da9612181b0c11300</id>
+  <place_id>ChIJsWsIXSlamhQRPTITNTwxsXk</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Προξενείο Βελγίου</name>
+  <vicinity>25ης Αυγούστου 23, Ηράκλειο</vicinity>
+  <type>embassy</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3401350</lat>
+    <lng>25.1341030</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png</icon>
+  <reference>CoQBdQAAAPI4GJYiSu4KKulmaTUjOkGtz0yqL30ZaPvnVnBwx7BWWIf1bJGOUv0g6G__TJSLsL-ksboWjhOP40KntrEmLTnznGerh0iPnqZXt7i5Exxee4BRk5UIbs_gqUJzvSAjDM-jKhcLbAWDkNYQS06YK_4qozjXb2-mhJVg9z8fONgbEhBscnQR2oz8_4o8Zj2ZV145GhS1_qvSR1697BNu_RZEao9mf98tJQ</reference>
+  <id>5a8378344254c703c0f5fbf236e1f8527dafa034</id>
+  <place_id>ChIJYXgo6y5amhQRQ18vWOFZx-A</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Προξενείο Φινλανδίας</name>
+  <vicinity>Σταυράκη 20, Ηράκλειο</vicinity>
+  <type>embassy</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3307820</lat>
+    <lng>25.1326250</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png</icon>
+  <reference>CoQBegAAAJMCFJxx_66X3ijKVVhXTi9GYMH6bi0M4aglQ04NMSTmDj4kcLpI7lQ2dabifMpvmalPTDkwnTPgHLefMMH6GURpe0cgk9Mtp8xTIStiUtxDQ56woeJxwI3GsbPlMy5WuEcRdIUb1Y12gRxe5uH6UdPySp_AKNLwP7KIYp0r-P-HEhBkKuebzoVKboV-PReNU8EyGhRmqkGXgX592UBTWdFcpcb-wDLcSw</reference>
+  <id>91bd4410ca1a48653fdd9c66e2a889161ec1de86</id>
+  <place_id>ChIJ1bNw-IZZmhQRGhTEmBo5mzg</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Προξενείο Νορβηγίας</name>
+  <vicinity>Λεωφόρος Παπαναστασίου 28, Ηράκλειο</vicinity>
+  <type>embassy</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3239200</lat>
+    <lng>25.1390480</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png</icon>
+  <reference>CoQBeAAAAPTMJSKA5LNQS5ndiBMFJFnAoWEZPr-CEtOnMQ_grSkJHIzw0L5kYfvz6Yu4obaAXyWbWiyEopx0nCkkmXXaaX1qAumKkPkAOhax5201cs3L2x7SR_e0ItlKo5aTcRA1iDqUWeI3GUV41Jko_KuDLes4vCcJRALQUejNK0UovOA8EhDy7hL6wuvZX51m54238NN9GhR958OI7JVI0P6p9j6N6-Sm2WbJ7Q</reference>
+  <id>e49ac7827780e8bb487aa1f3395fabee9e898aea</id>
+  <place_id>ChIJjXdW5IJZmhQRcR97EgtHo1E</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Προξενείο Γερμανίας</name>
+  <vicinity>Δαιδάλου 36, Ηράκλειο</vicinity>
+  <type>embassy</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3386800</lat>
+    <lng>25.1342320</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png</icon>
+  <reference>CoQBeQAAAML7TaDYdO_jW7CYCSmM3IE7gmomu8TlQVpehBZ9FqzHvg_ZsSWHs7WFLlLZUawpxi4MHylK5jDFbdVN3Oh0cg0LDwV-kDRMFX8OvDrdpt3mfpMQ-BRyRbmn1SnFMOhdmQxF7l9qYLkWF2Y32uSNulz6aP0NHkxkILsGs45mZaJcEhA_88owduZkPbcwpkPvpS7vGhRmNFtItdnAVZdg0hzMWSjhxvNyEw</reference>
+  <id>b8f5e386ba0a3297c9e0f65a664036920e1cafb7</id>
+  <place_id>ChIJQUkRNClamhQRRoBOao6Zt_w</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>British Consulate Crete</name>
+  <vicinity>Θαλήτα 17, Ηράκλειο</vicinity>
+  <type>embassy</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3418160</lat>
+    <lng>25.1334770</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/government-71.png</icon>
+  <reference>CnRrAAAAT6Gm29QsZZN0VIVVbX_dnzwLvjb5LU0coESIhmNun6pj3-T3sxXIrwcCAaUbUB9wn8eKvzIBXG27yuQaefxZcExb0ujAbzU_fDU7ONQxhX8MmOdeCEY5Rtf3KIceZqgR6ydktLf2n4UxFb44znvLOBIQDOOa5JAq_fjvGovhPq5utxoUknZL6KGsC3Qu-w83mWVQ5M_RHA0</reference>
+  <id>f5da22928111b64826c5778173762ac639993acf</id>
+  <photo>
+   <photo_reference>CnRwAAAAmvJYO8tT41LYkAA75KFK_uHe7Vksd7NLGfGyX1z9wq1yMQs7qEkDY2-AE5mQgfyiVL9uM0R-YTRkhHds79dD3Kktx3dvWr_-7_dDA84U8Y24jUb334bQPMV5VLLnrJHfYi4_DS-Bvph_Yn0DAh0W-xIQgCqwR572bSEE_Dj05hJowBoUasun6uEnPsDxtjyFgL9z2e6G7sc</photo_reference>
+   <width>480</width>
+   <height>640</height>
+   <html_attribution>Από χρήστη Google</html_attribution>
+  </photo>
+  <place_id>ChIJkxVPWi5amhQRjCyhLdoR6oE</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Χριστοδουλάκης Π Φουντάκη Μ</name>
+  <vicinity>Στρυμώνος, Ηράκλειο</vicinity>
+  <type>gas_station</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3290870</lat>
+    <lng>25.1176140</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png</icon>
+  <reference>CpQBhwAAAINsD_EbgM4XXT2X23OxVcDdwbpE2xbrZxugOj7_nXQjxshwzvxLAYtN7xLaN3Z8GCa_AFwPrRKa8vokrdVDVwcqgVHFWotqI9jkBHxMKoJEFZ1rtO8YktuigWQ_Djqh5OT0WgBcIFv_sBeV9rFedMFxSQi0W2aaRQmg3DVuSVXfxAuqvy8wHCLFn4cKeZQqTBIQ8UaUT_RQwSBb48FIHgWNvRoUbvGLt6OCMmR58lsxtpSYA-V599w</reference>
+  <id>de261577c2b78e512c8cb3144ed45dc0f62c16ce</id>
+  <place_id>ChIJhUuB1PJZmhQRKOHCTzgEhwk</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Χανιωτάκης Γ και Ν ΟΕ</name>
+  <vicinity>Λαγκαδά, Ηράκλειο</vicinity>
+  <type>gas_station</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3319540</lat>
+    <lng>25.1464600</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png</icon>
+  <reference>CoQBegAAALeKp5KDZF99uagBaF-gtAN8i7z_K6hyRuO1hySHorynFgnAy4ADt5_2daKc1xmJxSYA6G-3N9Ni8wLbl7eusyPKvnYZgfDLbPvgL3tyPQQM31fcM_0DeQ57viziFtDAVeUEhCq5TxwYwWzSQPfWFFV1MdmFZNt-4nTNC3WeqT6uEhDbm9_2JkYAhh2oS1_zOPK7GhQfhyppUp03N7c0miseMZG2Cd1QlQ</reference>
+  <id>65019263f59217fd8ef11e9258625891eaa1e059</id>
+  <place_id>ChIJ--936dVbmhQRdIhMEzSpFfQ</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Τσικνάκης Ιωάννης</name>
+  <vicinity>Θερίσου 56, Ηράκλειο</vicinity>
+  <type>gas_station</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3332210</lat>
+    <lng>25.1217990</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png</icon>
+  <reference>CoQBdQAAABXRPO25GHh89uVDc8Fa-vcqHHJYnH-YpFsezirUx-L_3y5Hg3zvkIPG69t-3RDG5u6ZgnwPP4tor5coiLzILSXWUIgt1EQTO0jTeN8SR8lulCccV72xtF9UQDFazcAF09A6yYenesVV6Izw7qYK4opGrWPjPaO12OttWTc_J2YnEhC-9LIgy-1hBOtSRmPn21pQGhT14TWlUbqxd6HWKqU0iSwN46Wwrg</reference>
+  <id>cb08a10d741b1e2918bbefbbaec9d75a7279771f</id>
+  <place_id>ChIJ7Qkvt4tZmhQRYd6DVR7eYOE</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Αλατσατιανος Ευαγγελος</name>
+  <vicinity>Λεωφόρος Κνωσού 344, Ηράκλειο</vicinity>
+  <type>gas_station</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3061600</lat>
+    <lng>25.1523320</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png</icon>
+  <reference>CoQBfwAAAAUIP7vpHEQLLQRvSfBJNLK3UOsdudXl0gCKQ3Gp_-t5tnepiutyaj4PVjqJjkAZdLn182ZNgOHtmzz2EyazT_VOJOvLu0PMWftCIiPnus-5kqyyq7w6YEm2gNYGa-tMnce9nUzQMoUB-Z3SgSTeJ1sC7sqGaXpVRvs_zA0Dukh6EhANO3PcTE1U81pISOKWTesFGhSosdjOcz3rTRdpPN_8kJTxjnJ5Bw</reference>
+  <id>58d383e39c7151ac7b586c10dd694a4ad597c0d6</id>
+  <photo>
+   <photo_reference>CnRqAAAASRqvPmmI6KqR5ysKLbQ87UYWtnxOD0OjdzGr4LKcWqYq4WlLPiRyyciuCY4HPm5rOoxJwbkgaPsM1fVV6gKnxRAMMxzTAtQIg4h0NA3_ObKzp8EOX16kPdfpmBM9ljnFEdbX8CH6-kpd4d_FrpUB-hIQN5-2-tgNT5G-MbTUjkDsXBoUzYZlUBWebyka72iTAuePjxGcozY</photo_reference>
+   <width>5184</width>
+   <height>3456</height>
+   <html_attribution>Από χρήστη Google</html_attribution>
+  </photo>
+  <place_id>ChIJD1R_DA1ZmhQRUmtd3tE7OIQ</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Χατζημιχαήλ Φώτης και Σια ΟΕ</name>
+  <vicinity>Agiou Trifona 28, Ηράκλειο</vicinity>
+  <type>gas_station</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3374880</lat>
+    <lng>25.1574860</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png</icon>
+  <reference>CpQBiQAAAHQuG7PivJvZkVGVd38-kfQqTS2aEwUolHwWSfqDO6hYLwCTPZ3ohL_Wz6egAJfeV0S9yojZsD6eb3Jhv3JVIml1SPHbveCM5iRDQbZ09S823WtfLY9bAXOxlvMvZi4gG-T8QFAVwHBhCepvPhdTtZGs_dsIlpj8KtT1WNbkXpDmnIrJnMFwIHH-6tQYyxD16RIQJVsXfAcy0-_OfcpbJE7V9xoU2NbNtljSCYcPR1lAH5EX_70Cpjc</reference>
+  <id>7fcbcdc201faf9530e2064d4a14764a1c94d1624</id>
+  <place_id>ChIJxSxkPttbmhQRx4SbCqWQnJM</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Κοπιδάκη Μαριαννα</name>
+  <vicinity>Λεωφόρος 62 Μαρτύρων 192, Ηράκλειο</vicinity>
+  <type>gas_station</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3301530</lat>
+    <lng>25.1088540</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png</icon>
+  <reference>CoQBdAAAAK_wmB8JFq4USfO-xnNfsrwVb_BLDVqY2YjuVEuQb-fmX6hgTJxHlipbAPHEQWeSS02JQkJyjwxaa-Gp2N-jhm3y_IO7dN5lYN_P4qKCoGhUR-U18yfV7ah2tasoH4vAJKob_iPKVna0o9BxmQRfFfBhrG4gMgG3P8hwXWmindEQEhDeeLfvu9grp1l6_bMtE1K0GhSODl-RSvVqK_fYZYnHQEbaTX1f0w</reference>
+  <id>7372b78bac13bb3598d1f7f1fd0e983710cae416</id>
+  <place_id>ChIJGyZMNfBZmhQRX0IiRRw08AQ</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>bp</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>gas_station</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3381710</lat>
+    <lng>25.1420710</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png</icon>
+  <reference>CmRVAAAAbG-X4pyOPFN8UPQffc-39paq6kBWHygaCwqIp-ExCjRQZVe8OWlrZIm8A6gc8GNbdgoA7gbhhmAdzbcGgaaOAKIja0gLscd8kcw0CHeLhOjXKbJbY3wTRz_9maX7kl0hEhCc30d1D9L-rS9Jj_Dft2_AGhSxNSUrgpOyWnEvtolVHoUJ8Kvrqw</reference>
+  <id>4b0625ce7adbf61dc37778e020394f1eca66738e</id>
+  <place_id>ChIJE1guSNNbmhQRt3Nefqfvf2U</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Παπουτσάκης</name>
+  <vicinity>Λεωφόρος Κνωσού 114, Ηράκλειο</vicinity>
+  <type>gas_station</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3234190</lat>
+    <lng>25.1407670</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png</icon>
+  <reference>CnRpAAAAnc1ajd5fzrfliMue-hk7yIPebyQhhSnBDeioA2Rbr2qThG3Xy19RcS2iLdjelKnXxCQ1DPm17BlRFIRLrXaozUnr0I6bL7c81N86byPAXztgSHmFJz2yNQOoZcilpCchPbL3tJdotAEHKw4QYNKAEhIQKZS4gemLNmL6fhBFJsZXYxoUSWa72R5e30pame7AtTB3L_nMZxs</reference>
+  <id>139af983cc606859d4aecdbe6c857b1cb00c0baa</id>
+  <place_id>ChIJHTcSmoJZmhQR35YMrybEJFs</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Μαβράκη Αφοί και Σια ΟΕ</name>
+  <vicinity>Λεωφόρος Κνωσού 106, Ηράκλειο</vicinity>
+  <type>gas_station</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3241210</lat>
+    <lng>25.1400890</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png</icon>
+  <reference>CoQBfgAAANTy1CzcyBZ2NYHC4DTyf2rhHdIJJAemJfcaFTsC9yQ2EDqHrZFNtGWNSRxC6FGoCfxxGCcWvM2dggcizfsbUVhQ6zMkANhp8QlPpdoCwIE4i_AIFIePzIrE6q9YadS-jhl1Sh0sFkgSLRC8dNFQk0cEbNgGRrNz1a95iHCFxiwNEhAkH_3qrscL9Rsh_ua6_CcwGhQW7LuUM9mwLDxM5IUty2idK5ycdA</reference>
+  <id>783d7b0b2b4868e7782a1cd4c440a18736e5d839</id>
+  <place_id>ChIJXzaCjIJZmhQRWk92yq74cfA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Γιαννακάκης Γεώργιος</name>
+  <vicinity>Λεωφόρος Ικάρου, Ηράκλειο</vicinity>
+  <type>gas_station</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3386470</lat>
+    <lng>25.1438170</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png</icon>
+  <reference>CoQBegAAAPd2ATK5eSuCQcBX5Hnr4f1bWWA5y6YOWYrkzZntRe_TsfDHMM5iad-NmJ90KIxZG870EEDdYKfutoP0qWFXb92RoRe4U8zbMWHzAleIP0EjseYiIeMRjl7ZIydgg9l4QjjtDFLDxrtahL3YVMLsanfyR3i3jqWG7XM4ClK9V5WfEhAHbHD0LFSlBomZoayu6e4ZGhRVvRKQJE71-JIbh9e8JGeTEZ3f1A</reference>
+  <id>90a4e8d33ab2ad80c44af6dbe7978766c9d4ea3c</id>
+  <place_id>ChIJA_IdBdNbmhQRBXWtNaWRTkk</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Shell</name>
+  <vicinity>Λεωφόρος 62 Μαρτύρων, Ηράκλειο</vicinity>
+  <type>gas_station</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3321260</lat>
+    <lng>25.1128860</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png</icon>
+  <reference>CmRYAAAAJBR2-ANmGi35oJzLjIzxbqPQS6IoEDUXeSe5SyrYe9PIopWaa9OUrFpwLI9ZY2Rpj0IOH2bWfrxvY8MWBVU_dwxtYN-URBEX7p1TgBKcAtzu-Tst4j-MucEKAdbkrx0AEhBxTP5-xIjgvIE7pqs6ALYIGhR6gUEHmj4YkghEoUzs2tEBXf9llw</reference>
+  <id>09fd706f850593888658c5b387eb16fc78c7539e</id>
+  <place_id>ChIJiSNY6fNZmhQR9WeqJ9TIBVo</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>BP</name>
+  <vicinity>Leoforos Papanastasiou Alexandrou, 60, Heraklion</vicinity>
+  <type>gas_station</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3218750</lat>
+    <lng>25.1396140</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png</icon>
+  <reference>CmRWAAAAWu2tcDFJm9U-X4ogtzZgYGP6UeiFdgUj-nPFCvVggPlFxh1S57vxu2gGFKoh2hwosvaiCZtFWFxiF8_biV-7-6cstwJl8ZJGLoFoQFuHURw3rLoWQdrutFGqonImyBevEhDuX-b8relBhU2ZbUyfU6-sGhTC9PzXREdwZiq0hsU6p1mb-jSPjQ</reference>
+  <id>bf57ec71e52f3265701cdbe8a5a71ea1c9b708cd</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJleJlNJ1ZmhQRuftQxy218_c</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Λιαπάκη</name>
+  <vicinity>Leoforos Ikarou 70, Ηράκλειο</vicinity>
+  <type>gas_station</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3382830</lat>
+    <lng>25.1599280</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png</icon>
+  <reference>CnRiAAAADDbh1Ci1jopR6T3HZO8IRdB4nM5VpIyC8WDMHNkDCQ6CoNN51Fd6uJvO9SRUgsBHpgbyoCooytL8G6pdeBw0I02s6TccI0x3wPT3oY01qbHKA4crsOev8hj7I7GpspSJWURjmhT99d_Umy4_APH1qBIQD3zmqQh88aiofWGzkDSHbxoU3F5-mS3sjUNMBPwQDxAWlE9SUoY</reference>
+  <id>5ce173ba36d09d730b7fa4798eb029cdec305d29</id>
+  <place_id>ChIJAfQQUsNbmhQRRvHW0VQuedE</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Ευαγγελλοπουλος Α Μελάς Γ ΟΕ</name>
+  <vicinity>Mafsolou ke Didous, Ηράκλειο</vicinity>
+  <type>gas_station</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3360440</lat>
+    <lng>25.1577030</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png</icon>
+  <reference>CpQBiQAAAO-n1SlxLaqWizJqRSpuuj2lD7-7vKBpayJneScj0AfamArTW3F_GLi8fx6UqDFABkNEb5F761p773b5TF6dwksmzD_kbeK_402oVxQR-jJUMgt6DYLr-DsXndLEUA8gh35at1cTTKFnVXxzL6DUUqCZOMQm6Oz1yrIZXUWWRMyZCxp_83dhzZuNfMXpyi16hRIQWnLZhm2Dzw2oHYnuDwOkFBoUUA_GLaJYRfw1PTRZBbNUz54RRNA</reference>
+  <id>b9eaa0204bfcaca13249dcce877b2653a2af44b9</id>
+  <place_id>ChIJrYqhCttbmhQRqOiKlGixf-4</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Μωραΐτης</name>
+  <vicinity>Mafsoliou 222, Ηράκλειο</vicinity>
+  <type>gas_station</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3347530</lat>
+    <lng>25.1582450</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png</icon>
+  <reference>CnRkAAAAiUXZNm7Fafk753DodYFn6kHzLoHxhzodPnRlA2PdhksS1JHQiz0He7Xkc0A2t70l1grxz-cRYqDM_5iFPnmGpjOafPMZdbLKpw09PnSGDE33WT_ymxj-rM890WwjMnaI0bczdbsTvSLTwVo1fqF4_RIQmRB6ddMSEOJnA-v5q7CAMxoUuv0xP5cqdHrXYmOSDQ7KJQ7dols</reference>
+  <id>abb7dd8db62f431e613af1139199204f1a92abd1</id>
+  <place_id>ChIJ2xNzk9tbmhQRDujrsAIf37c</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Καλυψώ 59</name>
+  <vicinity>Μαυσώλου 174, Νέα Αλικαρνασσός</vicinity>
+  <type>gas_station</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3361610</lat>
+    <lng>25.1577260</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png</icon>
+  <reference>CnRiAAAAr-HEbhDkrj76Mbsj7gnBryV8SaQB9RBL8tvFPgphiptHvnalgg8zZ0fbbhYLggqtz_No4kBXJLVIZ3SShJDYEAzjYK18OdOhMqD2gnrhL_kjAnO7AxnMdpjcwLFXV0juudLDQvVuzR27g7XmcWl2QRIQkFur5quGJq9od32WHP4QcBoU5D0d8ziij7M82tu2QZvhyJKNviQ</reference>
+  <id>ee7cab6bdbb700b1c53a31dbea63cbcb77d026e5</id>
+  <place_id>ChIJHWfZCttbmhQR1OcEObs8LVE</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>bp</name>
+  <vicinity>Dimokratias, Ηράκλειο</vicinity>
+  <type>gas_station</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3300870</lat>
+    <lng>25.1381700</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png</icon>
+  <reference>CmRVAAAAfmH3YT3X4X6cvqzoVvSkTn75HGbJv82pg6gi1kDFUIt6-7sX6Tr0BkGrFZFT7i0IkVMScYffFeMiUCy4pXC8Y26YD3wKQS0V0bJVYY9aLGpNXwBI1Lp1UdL_Lq66YzYnEhAC8tzlGay6kbesla9uF653GhQUanUdwuZw52AR8e2OtflDxcoAAw</reference>
+  <id>bc9cfe38aa022bb0bed5d9b6fd3f6a712af46c5f</id>
+  <place_id>ChIJEVEB_oBZmhQRnePeMV8vYTI</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>BP</name>
+  <vicinity>Leoforos Ikarou, 15, Heraklion</vicinity>
+  <type>gas_station</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3386790</lat>
+    <lng>25.1434990</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png</icon>
+  <reference>CmRVAAAAhes026r8FzHntrQVoR6QDEGydu8IdlWHHqPdjeI0GANCx9pHkmYq1f1jKl8HeuelVXLdTB0eg9r3mmxIT4-bVdczREIV9hTUY2Tu2rzX18GbIAtUL1zWjukibQPhaJW7EhAl-9nCIAhkxPA3H5L_iinMGhTTSIBvaQs6RYhcgDpTb8OQX8d1fQ</reference>
+  <id>0ab37a7e266c499946f9e6e6960d8eee97b3d1c1</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJAZtykdFbmhQRd83LYPfXHzk</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Γιόμελος και Υιός</name>
+  <vicinity>Plastira, Ηράκλειο</vicinity>
+  <type>gas_station</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3343840</lat>
+    <lng>25.1338540</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png</icon>
+  <reference>CoQBdAAAAFlAvoikxg9CWhFsRyfOwGrLPqoE8zB6BkGG8SAptPbblxWP68CV5JQT_89oW205l6mboOU--OkQtD15S-HgwFAp08zHW0B9wBwt72xKhPWQ8c72gdd5bmM_5eEhVkYYCQ_bBRWriEcY4E_2GIvmpbf_SN5OVJfhwIYn7FFVKjQBEhDcbFlmA5rwIm-MRtr2WDdYGhQdcfV9KWEvTsS3Jpo5fgLApJrrGg</reference>
+  <id>2ecfbec5cb2808feef12b096c9a4e54e390156a8</id>
+  <place_id>ChIJ1fMGwylamhQR8cRFu-JX4bU</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Μαυρακη</name>
+  <vicinity>λεωφοροσ 713 06, Λεωφόρος Κνωσού 21, Ηράκλειο</vicinity>
+  <type>gas_station</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3312030</lat>
+    <lng>25.1358140</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png</icon>
+  <reference>CnRiAAAArgN_OmU5PiLzuj5elDBAPM1qlhnFp7rk48ye1Mrj3rx2Nt9GHg_VibmzOtsUzzI_it_xazT-5lTWR2AhPJBxfTjYkoTdK50FumzHfBXx60nqIiFankIfdzPAOuIRvys8_AtgTCwoHRwdj9d98WWc1hIQ4tHltZOXqMFvCrkBGKWvuBoU4_atr58MKQZUaflmZPY-tqO_LsM</reference>
+  <id>d760bb7c3214b32ac4acf274cfb4cafbb6c4e3e6</id>
+  <place_id>ChIJcctz0oBZmhQRcsGHH2i3VNE</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <next_page_token>CoQC9gAAAG9g-j3goTDKQ5V1rVmRXu0Da5by0Rqr2p9XduNfH_TMNGocCDgx_xFU9dif3G2d5lQWgZsQdawQk3dmC_CguKoRSXbS_8IWcdbtpFsbpyyAk-7tGafG2BP68xBHHMQitcror7tfvfMIeC8BFIp_6jahSeepy7r5eHXCE4nvQqebPU6hpuxOa_1_e81Uomu5unHnpT7vY1X_qu7AVDB1Y6t6ikTfhph8cXxTepWyNUEZgtoRy_smhxZCxMTdUIwJ_3bOCmH1DJy9EvQIQyKt-O3fEnCAA6E5DVfszOL5-li8m7rBbsSVe6o52JI05YD9R7py2v3HXHcslp6KiZdWeCoSEIDFU_H9N5UsFoD2RQuh6l0aFKRVjfehHvDrYDcGU-WFXYdT7Fn3</next_page_token>
+</PlaceSearchResponse>

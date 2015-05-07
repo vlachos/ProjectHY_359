@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Καφετζάκη Μαρια</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>pharmacy</type>
+  <type>store</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3321060</lat>
+    <lng>25.1446250</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRwAAAALNSyGjCf0JLRyiaIa95r8vGsNOdDd6Oq5HquUfmWfZBBywwVQ14K0tkupWBXz20qDeF74qD7di4MBlab9wuOrjbf7D_fsuQyFtHOaeZjpgTfzi7kjhthuQIC_lVEnSZZ7MnUidRYgdXCde9h4pG63xIQbN1PkZQ-SdEqOQ9EcqoolBoUwkbiS3p3zrf6N7aZC9u43d-Z4ww</reference>
+  <id>719c7c0fa0d202275758ddefbbbd0ca7ac3ffff7</id>
+  <place_id>ChIJEwXLndVbmhQRtaj0nEyNqQI</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Μπαμπουνάκη Χαρά</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>pharmacy</type>
+  <type>store</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3303580</lat>
+    <lng>25.1446800</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBcQAAAMLx1XweUZr6uFHQ4F9U0sXgMl7fnVkF4AdPsTTWGL48NhamxmiAlSTt7joAB3uH_EHO_XdVdU8dDmkG92brtSIWAhECxfOk6Yop4Fn_ul9QFd-0YuwhkZZFK62ZeIgpFo04pcGIakRjEr-M7lEI2YvBvYJ9nBGnEUXYhW9tgVvREhA9si6r_3wDyE6-5_zD10CdGhQzGL-lPgdoCqQFQJYP-yMaOYidmA</reference>
+  <id>833a3d5c7ef4f574f3de89a9ac6a1579b5e94d56</id>
+  <place_id>ChIJ0-OvM35ZmhQRrqPcIUm3MgA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Αναστασάκης Γεώργιος</name>
+  <vicinity>Γερωνυμάκη 59, Ηράκλειο</vicinity>
+  <type>pharmacy</type>
+  <type>store</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3325030</lat>
+    <lng>25.1438490</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBewAAAAZzPa725OpehG2xc92K-rnb2-zq8gC77C8le1vhPwci2OONKbc4kJoKkvw6kzSmrk9pzwDfsGypQG7kNHXbCoNpOWdyIGEW89zlFG4R9hJhRAFKTB6YNE2PMpf8ZuFSVl_1WW5LAZVfE3G-xtzRGsGZrVQmzYiHCB7vmGhAIAcuEhBNPrXVu2ctWsgz8YqUD2tIGhTV_UuOfU2u420QFTNmXXBBfEp9RQ</reference>
+  <id>3aa4a59c8e140fb96d937c1776c26c0da88ce992</id>
+  <place_id>ChIJj7XhctVbmhQRoqAuKTvbcK8</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Λιοδάκη</name>
+  <vicinity>Έβανς 45, Ηράκλειο</vicinity>
+  <type>pharmacy</type>
+  <type>store</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3361180</lat>
+    <lng>25.1340730</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRiAAAA5L3Q0CViQOTVxsquOOy8YkAcSz4_GppyLt-qAhwueNMcuyd_HA09t1svFx094OC4B3kzggbCDJ5hV4mkbAULoAX-kFP1JTDmVSnIbHMa7mvy8Ypn_40oiHH_kvXwjjH7WENgZtAptpn4KEKJdgbV3hIQzt5UELdhvsp3ezPxYqZkNBoUReuiAJoL4F_SRZNqqWi-nunzYmc</reference>
+  <id>817e19e11f9065a03ced02fbd81050f5fae2ca8b</id>
+  <place_id>ChIJPVIGoClamhQRMZndMXcrq-I</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Xenaki Siti S Stella</name>
+  <vicinity>Πατριάρχου Φωτίου 47, Ηράκλειο</vicinity>
+  <type>pharmacy</type>
+  <type>store</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3265080</lat>
+    <lng>25.1299730</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRnAAAAwXsx9JgnxT--t60ZGD8htFU-JyEFYCKSpwzK7y549ol36MgR0LJ7AuCoZ44FhX1u9yYm6LacbPV2QpNtTycQCw4dr5OTIWePttVOPmJjrJV-bonSgsUS2OoM1DaxKpVX-isy0zzFZKR3GrdaqTiH5RIQyQtCFRX5tHhQmFq6vY3-YhoUfJWl0iLUDbET4qRObFDRKObAjHc</reference>
+  <id>21605559014922a30903399485709852a840eafa</id>
+  <place_id>ChIJUyjKfoVZmhQR9Zjs4crIrSo</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Damoulaki M Elvira</name>
+  <vicinity>Ταξίαρχου Μαρκόπουλου 43, Ηράκλειο</vicinity>
+  <type>pharmacy</type>
+  <type>store</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3352490</lat>
+    <lng>25.1298030</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRmAAAA27CsLEXwjb7uvCY4pUL__QyBqbZAk4JyYKWZrsXTSA-fuNwfsLs1QXZo7WWFKfMNy8jg--O7ODR7REKZykpuCqMjAnMBuMpqiLOBLMtl263dGIS9fxo92xhq0Mjz1kiBZ9p3WmboSILs1GXXhiD5xhIQFPKJdudQIaraLg_YsmEvwRoUJoCQ6-mtFWGG8k5hTnD0vwOILJw</reference>
+  <id>6a34274d9390f0e6bf10c3427e018a1b4e47362d</id>
+  <place_id>ChIJL_jrCChamhQRr5cZQWMnPqY</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Παναγιωτάκης Ζαχαρίας</name>
+  <vicinity>Λεωφόρος Κνωσού 224, Ηράκλειο</vicinity>
+  <type>pharmacy</type>
+  <type>store</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3133460</lat>
+    <lng>25.1485670</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBfQAAAGE7t3qKq8BPNJ-OLya3o49z0Z-qYBjQ8V3jTbq0a7FF_LnZwHVC0iHU8Vl1j4Y89N_fsyKpjDz-D1jcFxsp_ZviTiKed8FA4yldQgRGvOMcSlBU1t3T7T0s7iwUhmKXRt4r2IiciokTD_W4GcuVKwsjQ71S048dyq_ZtAIkXDcIEhC7HfJsftA3Rl-E7niXigs4GhTLScvODa_Cclu7d_DJNggcK8a6nQ</reference>
+  <id>8afddff3a3bc959e500f1e9d00ee04f949349318</id>
+  <place_id>ChIJFdQFlHNZmhQRsJWjdec3KZA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Κόκαλης Νικόλαος</name>
+  <vicinity>1821 82, Ηράκλειο</vicinity>
+  <type>pharmacy</type>
+  <type>store</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3367450</lat>
+    <lng>25.1317270</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBcgAAADcBWeltScGVefl9F6Fteo3scCCiyLPgCDmwdgRs0sH3NmycZGB-zJNbUJlLFpk-egABi6egb8QPIIeYTZ3OMO2wXfp23AON-FfzslbwKxxMtOUOlGxfRVr-caufgqy-pZPzVy4bfE6sQZf0UCg2pNA1G7ZPjHuD5ZjOXUUDqiT4EhB8Cv76B2sLxd37zrQxcWdAGhSOdU6URyX-dxSi4eO3x8W3216XbA</reference>
+  <id>1a7aec91e3a61a3e43c183ea01c782c81a660590</id>
+  <place_id>ChIJYUmS9yhamhQR_Y-jCU225RE</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Συκιανάκη Κοκολάκη Στ</name>
+  <vicinity>Δημοκρατίας 79, Ηράκλειο</vicinity>
+  <type>pharmacy</type>
+  <type>store</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3416180</lat>
+    <lng>25.1584570</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBewAAABR8gfIHozUYEnyEvRcEdEcmJyWint47Vn7cKQ50qqEkSWYhDZtptt-6ZWQlf3SlKum2AozPtFoU57_ZNxa38e_mLj7it-TV12lyHq_5x17H9HC47arFJd_uU2ZRFlQXPtJ16_HCYdMZeB_PRx7oj-2pZr-wZv5OAx-SoKBp0HgWEhBfroaZANhchrGWvApSWaOBGhSAF1f8FAEAKpEbkZlUqRuSSrZuNw</reference>
+  <id>a20ed4f89512737a7aa00091c017ebd74b6e19d2</id>
+  <place_id>ChIJlSx0ZcRbmhQRfY8mLVXs5hk</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Stamataki Anna</name>
+  <vicinity>Κατεχάκη 6, Ηράκλειο</vicinity>
+  <type>pharmacy</type>
+  <type>store</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3370950</lat>
+    <lng>25.1312820</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRiAAAAAFGgwtuQKhh-kkhF8P0e7YxaFAMDHXOzwI0EkgI3BUeLtpWnPCm-2iSXPEwQywzMyrCIPWQRQ5TUV6ons3h70OtEIjquPhJRyIuYE9wlScl2i-AA8YXRuunr-IVDfj6Z1YgMz1Pd8whXvBIcZxwpQxIQf17nATQ3xRrhFJbgWim6KhoUQNSEG0A_xBZ9SyxP2W4lxnF-HCc</reference>
+  <id>2a15b56c7aaedd4681a4aa3caaee7ec505d8a675</id>
+  <place_id>ChIJucpw8yhamhQRm47RK7ZCZtc</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Βαιλάκη Αντιγόνη</name>
+  <vicinity>Κομνηνών 24, Ηράκλειο</vicinity>
+  <type>pharmacy</type>
+  <type>store</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3354600</lat>
+    <lng>25.1466250</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBcgAAAAj0EI4rW3tOWmIR1_j1SoNu4kHJABTeSXCSo4MislmdbHVeiWVpb8vxMbbY8f01B2Qpvhd9eft5Oo0T6KQVXnqF7z0ch9mSyL4fNWV_bW6-1mvBDE8oue3ntf-QgatlIC6hb8kIfUOLcy025KHxbTkFwdngDlEy-mlGztk-0yKCEhBIE9ib8q2F1Jn4szPyzASmGhQK13eRugzCo_ALUv3xuXEBwVFdRg</reference>
+  <id>81cc6566c0b74b0b8cc23e76df909ba410d99117</id>
+  <place_id>ChIJn2YMD9RbmhQRBIlJJApZGCQ</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Μενεγάκη Ελ</name>
+  <vicinity>Kerias 92, Ηράκλειο</vicinity>
+  <type>pharmacy</type>
+  <type>store</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3397660</lat>
+    <lng>25.1595520</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRpAAAAJuDyipgNTmQfHL3RMYEvbUeU8SwIDjeyX_wW3s47tjL9e7AwHNt5g_-7bXtOHmp0RGGsX0efmcr-phKW9MK2wL9B9gsj2-suEcFS-5h4iaGDgd4Kp4QXhlsOenSXO-Uuh5can0cGJFNNMWLvDgx9KRIQZKBfQoeQEIIiRfoZJfeV7hoUg0jBzRxwuEqi9HIkEpPo7BtGQk8</reference>
+  <id>2ca47b60a06bb1fdecadb458b758b3b7a8dd4527</id>
+  <place_id>ChIJ1_JdYcNbmhQRuYQgg7EQRq0</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Θεοδωρίδου Λαμπράκη Θεοδωρα</name>
+  <vicinity>Λεωφόρος Καλοκαιρινού 151, Ηράκλειο</vicinity>
+  <type>pharmacy</type>
+  <type>store</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3377330</lat>
+    <lng>25.1281790</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBiQAAAK5iPG7_nSOoxtqoV_TZDaebrNEA6CJ32We40M-3Ji-mvap0HSLQkBwS3auWu2TrUsWpleqZW-9bDPfhUL9Tn2cnzN8wskIN8iW0D5DrrIfIWg30L5-TPVqeDujpUsR3R3W_1lJH1wDJ4u3-KzmO2bwJtTYXQSCc0g39fJSotS_nA6BdXzXHLJ0FGig1TkLbjxIQpkOqclX1mZ07AKTmZtIn8RoUEc5DSdgtJN2ekYkFWJ_vlOA10cQ</reference>
+  <id>74e8716a922925ae6521efa3c456be6de3e2e902</id>
+  <place_id>ChIJ9SYcNiZamhQRPoGdcNg8kPA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Σφακιανάκη Ε Ειρήνη</name>
+  <vicinity>Παλαιοκάπα 1, Ηράκλειο</vicinity>
+  <type>pharmacy</type>
+  <type>store</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3289540</lat>
+    <lng>25.1262230</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBdwAAANCFlXZ3f0jW6fsRoOK0Sp654ZwSauu6oThaOQ1U8pAXNOkHMVWMD5PCoZf-5dQUYykZoH7F5sjr2ovrxBXg-idISWZpD9dR-SQlg615fXq0mwaIVtns55nMWI2lXkvM0Xs_ynQj4qTYZYx14KX0qbC4ig-7AFJIjEhAuv62EDuXEhAnveRDMxQQwLHV_lEoSVN-GhRmrOS-n55LqQUShVcrclWPusGRfQ</reference>
+  <id>66931c6d9541a8ad844e7283c75149ea64358647</id>
+  <place_id>ChIJkZXw3Y5ZmhQRpIDLyrx6iwk</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Παπαδάκη Ευαγγελία</name>
+  <vicinity>Κυρίλλου Λουκάρεως 39, Ηράκλειο</vicinity>
+  <type>pharmacy</type>
+  <type>store</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3371960</lat>
+    <lng>25.1305100</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBdwAAALB5eah5XaFtV3TLIUWuL1hm0IdUIAuCyBD7W7THHaL-RypNZsThFEJzTbr55Kd8R2hDwpBocYyZSZbVCzFl7aAzHVbQ4tlhxqow5NgBoN20F51qy6bNZKZy0Ys09R3pGudFFm_wjPEXRhaSXTGaphXT2Vk9FY-db9v3d7GTObhnEhC8W1-OKsFmt2ymSgVA7RPXGhRnkGFVyqn1coDZJu9Vm1c4xVXNJQ</reference>
+  <id>ec5e1c11d7f1a4c62379204b6fb2a9bf463d28ff</id>
+  <place_id>ChIJb9mJQFIiIRURxXxsOOa4Q8g</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Chalkiadaki Eleftheria</name>
+  <vicinity>Πλατεία Καλλεργών 9, Ηράκλειο</vicinity>
+  <type>pharmacy</type>
+  <type>store</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3395240</lat>
+    <lng>25.1337650</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRpAAAAS4NkWrk7_07HSxq51uDGDltordIjKG7nm3Btw3T59LGv8SwiGzDoKIgoBFjSCyFsImKBlw6ebjOUzVboVRNcbJzcIoC5am3gewDwN-O5i9ZE9B06at5CB6GDeJSNjg320shL0JwtutEWgjdYzQdIGBIQIg_faMR3kadyZGH7CQtx1xoUgO0ccEFRG1wcJn-rIfnki_Ah6oA</reference>
+  <id>7d5e78d027f17b3ab86e21c0e2f94ede66cbd975</id>
+  <place_id>ChIJnUArxC5amhQRY3nAAqtAxyY</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Νικ Μιναδακης</name>
+  <vicinity>Λεωφόρος 62 Μαρτύρων 31, Ηράκλειο</vicinity>
+  <type>pharmacy</type>
+  <type>store</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3360450</lat>
+    <lng>25.1216570</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRsAAAAjpQJxh9oCE56wSnR8b11_E1KwRd34yq6s2pv2FHcJm-AdjPrOx_IYDCCv3s9f9Fnpp8n7-uL3MYD_fBhzFj1bDoJvS9RlpOPbCNKZ0dF06cIIscUpwtQ7nS9Gc8jSH6Rk0zku75NuXP1viLswo6w5RIQupmEnaSkceFCfAW3pUu9aBoUioyC29tEbpXJttYNn7NbR4LTB0w</reference>
+  <id>6a8b839d030a8f9ca39518472fa97c9f2cbacd98</id>
+  <place_id>ChIJ2RMBd4pZmhQR5HSEcEroeH8</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Φαρμακείο Έφη Παπαδοβασιλάκη</name>
+  <vicinity>Μαυσώλου 152, Ηράκλειο</vicinity>
+  <type>pharmacy</type>
+  <type>store</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3372360</lat>
+    <lng>25.1575000</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBiwAAAMs21HFcvGJ9EJuZEiWRZSwMp5pJS2cxPoOT7vKSBsCkJOQcqqX4aGr5WtO4Q8JJVrSXRgue3dNGAe0Kmgf5tjy7MOX-8c0Mge31fE5bbHsgzQd_5C0462fdwnCtW5_lA9nmZkadgHVehxMKCtAMIEq9CuOf02yL2drz0G7_cr5q9Bl-Q0bgoqYzOZyHa4TlBhIQHbnZyeInproMpbOvXrqONRoUwj1IuNkkaNBvpUGp3ib9u2RtuMc</reference>
+  <id>3e6dd13dae6dac2e0207b0b2e1c05444fc2d5df0</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAA7q7DXk2vvBdvDKH17xSJ70yYGw1HYpld670d0bP_oxALpGMKjf64dVEIc1CSVPxEKhH8_jG2M78bzQoRLva2QCwLVvvNT2pPgId7a_IBDvgGHoz0Qbt9TQ3ZyrbsVtZY7pDx9OI-OujV4Q1DjPIE8hIQNF6zOEEAdCxJdP7u7kRBNhoU6rtO2irwWOSYcBdnUpeuW5-78-Q</photo_reference>
+   <width>867</width>
+   <height>865</height>
+  </photo>
+  <place_id>ChIJVS3GFdtbmhQRyXRKdA_cIv4</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Gonianakis Ioannis</name>
+  <vicinity>Πλατεία Αρκαδίου 2, Ηράκλειο</vicinity>
+  <type>pharmacy</type>
+  <type>store</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3364630</lat>
+    <lng>25.1311710</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRlAAAAg54OMHyka-voRkw1iD_bFv57zbRXe5TqwrpkHPSeYVDzVaoAgRcB9WH7YTC-h4x2aPdgDEGioK1FiC8FPNQFv_EvwmMnDizv-Eb3DKP2ZHWRyY0kTOnk3cYrGQrMHanopA49QnUmWCwQuV9MGen-mxIQbTbFjt2DBk7BvJdW4VOeqRoULI3S6Mt3cZaH2oMrt4gO_V3LwGU</reference>
+  <id>874fc6ee933720f4100419bedae752da19aa4113</id>
+  <place_id>ChIJa5UOXihamhQR821vPGIu0lk</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Φαρμακείο Λιοδάκη - Liodaki Pharmacy</name>
+  <vicinity>Έβανς 45, Ηράκλειο</vicinity>
+  <type>pharmacy</type>
+  <type>store</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3361880</lat>
+    <lng>25.1342110</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBiAAAAFvpRbJhJ-4Mq6z-1tTvYQmnFOVqcAI07S-AHEqdgCZ1xojj2WwS3PBcPGAkrvw94V3fgj4-344qWQW4cv-vL49VnvxY4sNWMDTcW5OfZAn4T7ZrSD_hl2gIRj-80xCxrA7Q7RT8oP2xNtJCgovqIPykiF9qnD3tI1TyfQwHBzEpniT-v2QVO8xkywrnEIgc_hIQiEsTwg99r-s_E3DxYQ5nShoUjyeQwXkM-yVytjm10gPE7O50Bng</reference>
+  <id>23fb2c7ca3ba6a2896d5ff4dc066f701bea0de20</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRsAAAArHt8YHRi5q1PXdwCgmEHEupGKJkV5jWYReZyCG91fF7uuCe9T33qWWLKkbuUdRei99dAPblSwd99ZnTl8pLxFWv681PHVJJ2OPCYzCKyLigyOowdvsG984mNVpnfyvRZegeX7B_9PlAHByWtBxGIxBIQakpOmJwQ1tn63OMra3DTWRoUbwFaBycyaihNG2DLFlb8znQRXkA</photo_reference>
+   <width>356</width>
+   <height>354</height>
+  </photo>
+  <place_id>ChIJz50TdSlamhQRvmw4ZZYuu0Q</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

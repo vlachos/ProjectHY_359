@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Διοίκηση Ηρακλείου</name>
+  <vicinity>Πλατεία Κύπρου, Ηράκλειο</vicinity>
+  <type>fire_station</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3332420</lat>
+    <lng>25.1352630</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBdwAAAPm8WPqUH8_yP3PfHSal_z7LAcVterC9PcLZ1922iu2guL3PSn3f26pslFa1EZJRVhsMtw1BNssKTyrCmgewgfBD79cz3QYDUmzE718ag5yaT0wzLm-sX2t4sgrew5Vp-xrUX8FbUx7qCt9OJLYrf3IZ9maoTuZ_5D6TPPcCJS9EEhAQrZrCFL3OVHnd4A8bKTdOGhQZO8p0mTlDMj6FGn96qBltBihJjA</reference>
+  <id>2b25f5e65afb10ce209c2ebef5c115ec9d107e90</id>
+  <place_id>ChIJd2wyV4dZmhQRr9_yaGx3I6Q</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Πυροσβεστική Υπηρεσία</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>fire_station</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3347600</lat>
+    <lng>25.1348600</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBfAAAAHYOvrZRuRxFMm-g4DCWV7rex3NHsFqPpAaIf_98KtB3e8dV2RGtcMm76SJZdhSdyG6c55qNlMY3ReWw9orBnL2NdKrln6DeoCCzz2EnbplmC-UZqimtPKzWo0K2_D3SEhfLh0todgR8KVLXAvS2SPXCvDY44YkaTBRnjGmqO0u2EhCxbtM2pBHoVMdpWBwH7OFFGhSdF-Y8oJcLMhKDUVLhXR7_cZWrjw</reference>
+  <id>b929b056506fc46cc0ea87d7b5d9a02a953f035d</id>
+  <place_id>ChIJH1hvjSlamhQR7Q_KikpwSwQ</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>2ο Τμήμα Πυροσβεστικής Υπηρεσίας</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>fire_station</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3408700</lat>
+    <lng>25.1677900</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBkAAAAKbULrQZSQ_1epmkAB3wo0Mt-0oTA-13lnt09QuxSPL1xsb016QZ-RkZLW0-A_JB05kkngi3z8AJVu2lIcyljDLxEr68XIQD1Idj79i8OQ2stQ8vXdNHvQ-Zzra7ziyuFKo4fL_xqKXLILRVvtHpijPKGxe-KlJrcch6M8L9cEjg-COvVguODqQ5svRu9sLenhIQ7tfgAlLg-fC7h86R8vhkVRoUGHYMeq54L5pWF4fuK-Jg1xgV5CY</reference>
+  <id>4b6ae6ebf5b09223306287c93ea06ecc4e87c1a1</id>
+  <place_id>ChIJZ2mqhOlbmhQRx_YqDCxmnDk</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

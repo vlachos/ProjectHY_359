@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Περίπτερο</name>
+  <vicinity>Νέα Αλικαρνασσός</vicinity>
+  <type>convenience_store</type>
+  <type>food</type>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3319870</lat>
+    <lng>25.1588170</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png</icon>
+  <reference>CnRmAAAAnaWEiooPO9te_2_FTQUZuw1fLLTVU2bdOEHZA7pKm4TnFn0WZ5Ul4OjIeKDkJ2Bl4BlODPYid9D1twwtdx7OtHT8RmK5cGL_IPMTKz8pNH9uyRzLNpSqwL4LjLS2qhVYWBiu05gIM6-pBhhHMDBdmRIQ3zTX_Z2OjF9RQlP34mEdXxoUienLP9MhIxeWBaE4_TLeH42ubxY</reference>
+  <id>e3d7e8d2d60fe943797d7025ef3471abfe64e341</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJGZsgStlbmhQRq08n2OieBpM</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Γραφείο Τελετών Ηράκλειο Κρήτης ΑΝΤΩΝΙΟΥ ΚΑΡΥΩΤΑΚΗ</name>
+  <vicinity>Λεωφόρος 62 Μαρτύρων 110, ηράκλειο κρήτης</vicinity>
+  <type>funeral_home</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3349780</lat>
+    <lng>25.1165270</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CsQBswAAAJ1JSHMlLtdb-cVyoEa9FAKf3BSddGjCGtwIpIJrc-tC9bQVWvtKYiNJT5BO7Iz9Wdftu8QndbOv2BHYEqqx3KuMy8NeVPKA2jCoh2fCLDAYv9nDBDsFDHbJqICae3S9Le3IwN-NbWujRvkz-tIZDGl58s0ti5a5FxKw49UAJr__aPLZSZELMgUeua3TQztIf1OEnINhu0C0tF8nNX3-V0MT_u_IzDECLqXU_2_iQy2N7j25vyoZvYPD5q3ByNTVMRIQDwyaNVO_n2Nd5SJP0OjcvxoUyi493HiGDz_paSyrEL_kfJKLmEA</reference>
+  <id>d145e00203f678da328d3154dd70ef326fba308e</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CuQCWQEAAGFpocyAxPLTgioSlD7uESAryh1UtwoKBMLHtOv20paVHecZ6cihKCJ8tkup_NasA3U28GLslos6oqNo0IRQErEU8gs1cWsO1t2fo7nOCzq2AAKK-hm4VmNKZqABtMmHaBEINJ_Pyh-BdoqY_IDdtjqn3ezL4Z449Fy4fqphURNOx9FqEAenmAPUUtJkv6fGfJ5WMSRP6oMk0f_O5fGxIulzvF96_yino9Kk4IfOpcIb_KeUxmDSV_6wINyS997Da3RWYB8-yeZJiQlpzyZFweEkS3Eb6v1CDed68-20z03vHClDt_zys-0Yg8_wkeMJ9XpNkSEnHKnLfM6gN5nMgXap4z86G63jPhvAlC1ayUBn0nl060zy7BCsr9MGcKWoFVakTa9UsojXytb-x3ifZLUZggFZ-VFPLRe2hBoZe56yVGGP6BZ8g_vDkD2DoSTtmr9hqIx1yThOGlAz-G4fGtkSEFY-gTAzGrS3TMz3O3ftBnkaFEwP3EBHWXN0eTeeB7qPQSt04MIB</photo_reference>
+   <width>1540</width>
+   <height>1536</height>
+  </photo>
+  <place_id>ChIJ7xXbIPVZmhQREyqfsQywoCc</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>γραφείο τελετών Αντωνίου Κρυωτάκη</name>
+  <vicinity>Λεωφόρος 62 Μαρτύρων 110, Ηράκλειο</vicinity>
+  <type>funeral_home</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3349730</lat>
+    <lng>25.1165580</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CqQBlAAAAI6IHi7r_105O5G-fQczfcwBsqguEBHJIOihDUEbQ1J92EPqgXUwAF2Fnxwzfk2mjwosMO0mVIdR6Q7-DyJULFeaOPi9cAVBfysbYYjhCkiTgg93qQ-Rz0R6dc-tP1ZrnQDKZVZLuVRy7uiH0950MmplASU_OVI_oP7OP8d4mM_KArWarMY5RPJrTBVYgGxuhz9waRgfxe3e5jwMBikrOCESENfVNva6akG_kl4pljv0SRkaFFnmmuWmJPAdfC2inCbP-l5t1wkd</reference>
+  <id>557639a2fb48d52c52c49b7f6c49fcad8e395339</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CvQB8AAAAKnp6AG3tZ7oHxyvop1ZiVbEL-xDXz_pQH8Xw09DLR_mdMfcdho-SaO5HQhpVd6WsLA5UbIQoF4paIoSGahxf9bFqHqcQz_6KhErW9Om1rG8Cj0TG6ioy1zoycqc_IZcxmd0NvFKjC4VMZ0RVtTJx0xlbEF5oocFu-XVY_N5i8lqMNrznNN6G1OmKfRrXmP9_OWfjPOIScyN3KJnX2l-LKBLfAQAJr-g62UrvDazlEtMIC8cUDlBCwfDLDSZGqhnZjalo3eHhJ7IIwbHM6LI9DY0bxxqxqTYOzOVEy9BxyfueeaVI8nTCXjfxaZHOPbAwxIQybM_Dfc_9jY9L7Wapk5rYRoUGIN4R_mx8DSOQkxRRjWoydqHWXw</photo_reference>
+   <width>582</width>
+   <height>582</height>
+  </photo>
+  <place_id>ChIJ7xXbIPVZmhQRtfDuV5RUEqw</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Γραφείο Τελετών Ορφανού Χρυσούλα</name>
+  <vicinity>Στυλιανού και Νικολάου Γιαμαλάκη 25, Ηράκλειο</vicinity>
+  <type>funeral_home</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3396200</lat>
+    <lng>25.1295910</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CqQBkgAAAFzYFwMpbxrerJrtiPJqcMFMGORlv4YAINRx2fcEoI9wq1okTJuVx_ikW2Cr_ZkEtpysR1IiwdCznkeoyU8qNXkCcgRSbqIhtBLysnXtICBbeDRhzYoebxySsfC-quUgkM9HQycbSiegYM3QxuWqWZZ3qqDNT0SENbSVgEIoGrONRDrYldaP8KmRT3x7gendride9rbNKcaLxqtKZ2Iufm4SEClfQMJVra0NtvNCk_tXD4IaFG1Ab-yM5RfGQpFhF8zUAoSjLEd9</reference>
+  <id>b21ff8851f3261795442229ea4f76f6345dc9dc4</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJrdUbACZamhQRP97SLQidTJ8</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

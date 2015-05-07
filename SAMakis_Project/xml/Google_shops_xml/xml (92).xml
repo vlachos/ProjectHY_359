@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Παγκρήτιο Στάδιο</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>stadium</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3365070</lat>
+    <lng>25.1061570</lng>
+   </location>
+  </geometry>
+  <rating>4.3</rating>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png</icon>
+  <reference>CoQBcwAAAK91R6N_a-KZ1ySjQGLB7EbSJ7N7DmJl9SoNsFXsUsE_NXKO2K9EoYRTcsotE267ExWamDyF77uzCePJpPOg62sQLdVULME5Y45dm92FuDAqnnrVdv2ZVu1yqwp6p2rGFCQE7ehCGhaDTjW1iTtC5c3bgoh2gg-4gwaij8tHgD_5EhCZmH6DD5aWpzTTXmjecQ-DGhSEunb66L33xI0cpVhD7ODDTdFxxw</reference>
+  <id>8d4124ac246a99d3febaed66137900fec5c32561</id>
+  <photo>
+   <photo_reference>CnRoAAAAOOvG-uUoLjGfJ6EwwAva1a9eHR__HtSiRVmdsHeYScosfhNR_qI5POr89vufUrZCGW3uxHDQja-ypQ2m91E21JTc-MQe5Kc7Imbe_hus2Igl8S1g3b4UJD7KyA9EkwAYijdaTYK8WICCuLi5-oOPhxIQCfeh7Xvieglhbni5VVvtaxoUu7SE2roqeBiCTioMWJbk_cYZEKk</photo_reference>
+   <width>896</width>
+   <height>448</height>
+   <html_attribution>Από χρήστη Google</html_attribution>
+  </photo>
+  <place_id>ChIJo00zY_dZmhQR4eXXQ8iQJ7Q</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Γήπεδο Εργοτέλη</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>stadium</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3318640</lat>
+    <lng>25.1305910</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png</icon>
+  <reference>CoQBcQAAAEgrLiEus1Icpj0w751ldLRPkwt10LsW6kCiYMOzl863UcWVhmadkhM38FOf9Y3TpY9b3mmwlTpNWhX3AwDTN1Lt4Kj53Y6txifJQ-SWfJuq4D9QSjCtLD7L7VULsv4Sumxcf-IFt5dhTSnhKJuyW2by4dELOOrVAulv5xJwiRVdEhCTYK4QtSSRjgBwHrepMWCyGhSLdCOA0TcfHemMQZcQOmUIK91lXA</reference>
+  <id>a3d721accad516768b68bac562565f705e87f6b0</id>
+  <place_id>ChIJG2iNy4dZmhQRx2jENUClYbg</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Δημοτικό Αθλητικό Κέντρο</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>stadium</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3303630</lat>
+    <lng>25.1162530</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png</icon>
+  <reference>CpQBgQAAAHsGhVraXp2mEgeSTccMqxdk_i7yyQ_jRDTCcKoHf2q-VmO0hNXZkXefXUkkAuN29NSUBIqtMV1-TJNrZr2FTHwr_J8HlKyhpihx-izBetOz7g92oD6ie4ESbYLNlxPkHhww7bQD7BuvORkqfRxtRyi9Ehm6s4WM8u9Vw8smj0QHlSy5R7xmFSWzyAwKHwxokBIQQY_x1KuJ9_X4azmfd_R9LxoUwXayZ7MBVVlKdrN-UwGbhhF9g48</reference>
+  <id>184af40a5f6d4c62e1037fc02add8e7a2beccfc8</id>
+  <place_id>ChIJ7_5GGPNZmhQRbK_xa9FbaB4</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

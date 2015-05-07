@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Πανεπιστήμιο Κρήτης</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>university</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3073800</lat>
+    <lng>25.1533460</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png</icon>
+  <reference>CoQBeAAAAMuE52mAfjPm57SX-R3RYLeWCBeI8Ud4STYJhCeXc9LEiRTHa1JIr7F6eV6qCy-nZn2KJR0bQzp0mTza2N-thZ1WMIbc1cYVgegvygIRl_mnnhmJ9CeeTNP2HEx3W9KFEdulhjoDEm79e--qXDX4TGpGv0vGuf0Kr_Wb-LtUPv8kEhAbDJMAeamhfLypX43KBpiSGhTmids80qNDjX5Oz3yQk_G_9XztQQ</reference>
+  <id>2f0c5f33002b11a5c07885e26fe94fa40401b52a</id>
+  <place_id>ChIJm3-yZg1ZmhQROLHJAMFSyH8</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>MBS College of Crete</name>
+  <vicinity>Ολυμπιονικών 84, Ηράκλειο</vicinity>
+  <type>university</type>
+  <type>school</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3283660</lat>
+    <lng>25.1186940</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png</icon>
+  <reference>CnRoAAAAgwQJnX5TGIJqsP0Ybq-RtRDP1D83itjEWzvRErhq767lylAmRjUmbIEWfQOoO7EjldB2ZaB5NV_DNS4yqHfxXoSqG_-ar0EqQshk1hNGAGSkFvVDPhBZiIufI6de_wVDn8Z7TdfHue03d2GFFd1JpxIQzo36UVVbMRegqJLWjzxGlBoUch1-umHA_jCbefcP24Q1bR4bAdA</reference>
+  <id>e934a0d322577de09640d5ac577d7fd092220bb8</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAyNT3hDXsQHnh64unjwfue-GDauplevtzYiSrdZg6dWwrs59LmpLvuZOisSfon27iCGQEdqLGvSuc4hcfbcGqAXHYUBzEnjl7VfGB1drYApz6Hvvfh6GtkhdSxvoqruz8De-PYj0QCsVBb4TGJ9I0_hIQkYA4chLcH9R6aVdD-PGyhBoUc-6XkRlkX4LI0MJQwRdl0khHlnQ</photo_reference>
+   <width>720</width>
+   <height>406</height>
+  </photo>
+  <place_id>ChIJwTPIMI1ZmhQR2r_an5mIrOg</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Αγγλικό Πανεπιστήμιο</name>
+  <vicinity>25ης Αυγούστου, Ηράκλειο</vicinity>
+  <type>university</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3413220</lat>
+    <lng>25.1343750</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png</icon>
+  <reference>CoQBegAAALd66NS6gcFj91UmFW22eeNHNxPYiqehQ8_OOMl3iJMQxtSzLq-sx_lZAorai08DUtFUeO0FuQGvmucvbVWKYbPTM1Y5nhBq1hpNOLrAOKG7_Ig85bWfD5PcW22fAvsJz1zBbe2RWDSoSvkgBriaNAr6zc7EH-QDPXl5jTeVenIxEhC_1jyl2f8pVYYjmq_JNpvEGhS21Jrvu4Yo-VhutPw618CnMM-QXA</reference>
+  <id>8b76d0847878919c3b263c0029d6faefbeb05546</id>
+  <place_id>ChIJ1xqlYS5amhQR255-hcRD8hY</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

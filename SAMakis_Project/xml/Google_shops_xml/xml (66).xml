@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Venetian Loggia</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>city_hall</type>
+  <type>local_government_office</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3397700</lat>
+    <lng>25.1340050</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CnRiAAAA-bV_JjjoxhLzQCi-1XNl7EbOWCuHAGtBs174jTbT5eItTXOXKYDdMk1eJsXvhX2uswLryAyMh0VREgsYlRBwbvHadasRPvNN_BPLVUMOmdZSs112bXWGf3SutcT7ju_m-D-TGTubtWli2IcJbrwC7RIQ80COkULPL4KH-9g6NF1Y_hoUMbeK-hsCGLCuPiFjv0OzP8dWxMs</reference>
+  <id>d4886c30cce10042e75228e1324195662debd39a</id>
+  <photo>
+   <photo_reference>CnRoAAAANO2ER4UhGyu285e9Z3bOmf6vtP-DBMOosfkEjV4xqXtwBcFscjZwBajUOfOcqkwtacfMtYf4SPrcL-ZlAqMimpLM7nKsYreNrmPCFa0rSmwi-owYid2Gm-IB7Y9JbDeodYbiN3pgkxSJD_ARkWCbLhIQDukvjX_mW9_4-iqX2mTm-RoU2wu7rhWmaBp4xnuV2VYW35NZpeM</photo_reference>
+   <width>1632</width>
+   <height>976</height>
+   <html_attribution>Από χρήστη Google</html_attribution>
+  </photo>
+  <place_id>ChIJuXcUwC5amhQRM1CvWpGrSwo</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Νομαρχία Ηρακλείου</name>
+  <vicinity>Αγίου Τίτου 1, Ηράκλειο</vicinity>
+  <type>city_hall</type>
+  <type>local_government_office</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3397520</lat>
+    <lng>25.1340460</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CoQBdgAAAIJz6edg8NNzPYLSVv9_TzMDoHzX3W6dcFu9YJxZE6GrRgMBawk7ZXOlF6H7rFfesh8YwWL7fmscEHP6UvLcfz8jpW5FfOhor3dbQBpVnHQIr7mUxqNuO0hD53-O2AcN_2-hy_4BAhS3bALyMcNLf25HnFri4KtdCzgtM-kiEIaFEhAxoNJyEHM0O1hePDSiEjqLGhRCYnkL4jDINRX__uwdl9UcX4PBIw</reference>
+  <id>769a08e9ba6c077ca0acb8dd84258ef110cc2bf2</id>
+  <place_id>ChIJO9x0vy5amhQR9uwGNb33Hl4</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Δημαρχείο</name>
+  <vicinity>Dionisiou 13, Ηράκλειο</vicinity>
+  <type>city_hall</type>
+  <type>local_government_office</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3422500</lat>
+    <lng>25.1563400</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CnRlAAAAtU2XOpQBWsxfMgyg_MnnYUD5GDXRde2jxGS1a1Nr48Mv17eyMl4uUSh_VjPDuJOJIVTIofvBq6x1PvKHOKoy23w_gdQw4K9o5ib24zmDJH6_RKrJqtPjhL4C5xl3mlE7ydWSWHaf7UpgqWDjv-hN1xIQwVgA62o9WQCnTKEc5izYGxoUKi2fPbMwtsZ37Yrk8Je_L8FA6QU</reference>
+  <id>ccbb22cf05434795758ded3826a9ef48aeb2c0b0</id>
+  <place_id>ChIJ-SwpTcRbmhQRip8ODuEKUVU</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Μετακομιστική Κοζή</name>
+  <vicinity>Δίωνος Κάσιου 21, Ηράκλειο</vicinity>
+  <type>local_government_office</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3034380</lat>
+    <lng>25.1484290</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBdgAAAFY2Wn7cnD-xd1xhpg85vK9qFs-nzjSStcBAJsbhHa-cBu0-D_7BFJKJOUpufBAXyV4Xx9J0AA0herHMzzf5YTVvujeD4FpZ3GCuv2KeCYDbqkj-pQvddNbXcCmCQjCIMhvA5T938DOZrv5dskh16nrTWVmANBTEqn8qOifxbKpKEhDOFH8hBd-eWEYUw9cA_Q-IGhT0iY20K5VoSBR4Fj2GeShR-stHPg</reference>
+  <id>7b420453316d441bd9fddbbfe47fdcf1ed592fbc</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRkAAAAsdfXVn6SEkERSfh34Orj2b6XLwTyER7pLQqsi-aKYyR9bTYLNBnZ8j_f7ZtY_jMO_Iq5FGxp_ujq_PC7utbPGoFCG9DG545i6hWJ-LfwL5lYKos1zKlfFYzACFGTkFwDCToYgYiTwtVRH3bfcFX_iRIQywTOjWvfsd-HCZWg6HdydBoU4cNK3fypPpkVQa78LCpwwaxwTds</photo_reference>
+   <width>501</width>
+   <height>501</height>
+  </photo>
+  <place_id>ChIJcRXfhXRZmhQRKPNZ8Sz1lHQ</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Δημαρχείο Νέας Αλικαρνασσού</name>
+  <vicinity>Artemisias ke Dionisiou, Ηράκλειο</vicinity>
+  <type>city_hall</type>
+  <type>local_government_office</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3428760</lat>
+    <lng>25.1576020</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CpQBiAAAAJxeBumduAvrvpWiXpIFGIpW-f8KFYwelj89ODykcgIzPsILW0YXD1gt57qF3y391Erl6AvzWxt6RoYh5FWq1Yrr53zJuNolzudMM-KUl6T9aznDpw_NgNMEIYDCVQMJWcyli9L4uDal_IOqjUrBsa-x53VCQ1wWN_TOD9YmeNKutqP34DdURlswRnUgAupN3xIQ3Kg7OYopHST-pmg-3cc3uRoUFbmF7Gjp-xugqLpqtReLVvnK7T8</reference>
+  <id>c0b02677fa86e83a1cb87101e69e827b8e9dc160</id>
+  <place_id>ChIJD7BKPMRbmhQREW1EJragnjw</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Γενική Τράπεζα</name>
+  <vicinity>Αγίου Μήνα 34, Ηράκλειο</vicinity>
+  <type>bank</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3371210</lat>
+    <lng>25.1307190</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRuAAAAzfwRRwqD6kN5w0NSV0r4C16t1UlFjJMb0XwUbe7xQip_8DKwshwj2L84hLvdOfs4NSNchFCVOeSrA0q2DVUiukVF0uLT95uWbOZRoZVqAcQlfKHrnktn0bhcPShnTTvIgYWxDWfv9434SpMCj9QYKxIQBnMBS_YRlSRrKvU-lfs0oBoUUrLKGjqgxZCTlQXZxCuGQ7Jq-ss</reference>
+  <id>8289e44cd515843ea6f2e0557a1ef6129431d32c</id>
+  <place_id>ChIJt3igAYhZmhQRhE1fnq6IiS0</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Τράπεζα Πειραιώς</name>
+  <vicinity>Έβανς 7, Ηράκλειο</vicinity>
+  <type>bank</type>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3379330</lat>
+    <lng>25.1336980</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBcgAAAAKccla2uBKJ-WXAV3Si2vs0xDb2JRFdUAz74Q-lZEmLgKUdhdVR4XKgGnkrExqF7VSW2wgwPQ7LCcvreALhVI7479eqQXkID3nirxBm2xh6UwfUS69kVrn3UWmmTrfHOjCxmSH1MdiwZYUHEQ3DJgQt_smdsuhDOEZ6KnZ5yT-EEhBhnNH3gxXd6GwFEl29ZYISGhRVO_m2qvVJItL53_SGHbkcIyzyDQ</reference>
+  <id>26b9d29cf6ba07f5a3853b3b57ae5aa8a893d07e</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJz8TXOylamhQRg_g6_S36Rmk</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Τράπεζα Πειραιώς</name>
+  <vicinity>Ίδης 26-28, Ηράκλειο</vicinity>
+  <type>bank</type>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3388510</lat>
+    <lng>25.1324810</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBcgAAABrZ6S9kdpmo5woJXAO7Mj95zI-BhbD1m5ZVpHUpGNQQmbEA2fLkSZz6DA8xSNOaY6d6FHcv5e4y6C3OpC_C602tnIYRLeE1M6YX4x1_ovZtEXteLlDUXTJh9xAt_Pmhc7Q9QFpm7Gi0KRKe_F_1_xr3K08i0RpiYhR_FA_2cDMFEhCR-QQ-YNDPsLGmh8vFw-HpGhRSysjvd7NJ665xCKdF_US3W-JMGQ</reference>
+  <id>1921bc68a4f598446cee7d53e5332ad5e3dd875a</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJC6Oj1ShamhQRKPCvoKq69xU</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Τράπεζα Πειραιώς</name>
+  <vicinity>Λεωφόρος Εθνικής Αντιστάσεως 2, Ηράκλειο</vicinity>
+  <type>bank</type>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3271380</lat>
+    <lng>25.1385130</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBcwAAAO4qhAK60prUAF58TOHev58BZQYwj_gc_Ez-Xpmn_Tagu477V0yrWTvIa3N3rvFL2FAmsGx5QfbkGm3vir6VDtDmEtiaDF3a_JYATgVJfCE-4AKjejQbhN4OiobsiUqM43xDPYIP1khZRckfY-zmsdy-JAwiahwlY1wOM_J6t6YHEhBFbW8-Jank7k3g9mTU-Oa3GhRsGqEe6NA2uxoecL7U6iCnttAzvQ</reference>
+  <id>7ba695911c71ea4302d966ec555de9c29ff7b8cc</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJK2at1INZmhQRCuZu9X1MpNc</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Τράπεζα Πειραιώς</name>
+  <vicinity>Λύκτου 1, Ηράκλειο</vicinity>
+  <type>bank</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3387030</lat>
+    <lng>25.1483900</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBcwAAAFbAOFhufiNxGG1Wdm-J_-Hwe5NEJVjs10oXbYILiBEnPplIfnMHQY-SguLj2H5GEs6gaOQh0Uw6dADkCWAgoeUDA9w6IkGtxpZOGa-yGNnvWGZ1BrhWH8xKvzpjkdZ88gfv_5I8ab-ez2DTvW46oDyTc5HVaa90ilIEnc27y3FFEhBTGlt2b9jcOlIak_ceVt05GhRtTtq5o287soll9Uz4JViHtkjp3g</reference>
+  <id>86526b9ebe065ece1292617e4895a4e4fbb948a6</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJ8Tx7mtFbmhQRQZ-PME5ee7E</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Τράπεζα Πειραιώς</name>
+  <vicinity>Πλ. Ελευθερίας 40   Αβέρωφ, Ηράκλειο, Ηράκλειο</vicinity>
+  <type>bank</type>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3372060</lat>
+    <lng>25.1362270</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBcwAAAGtRsoa4AFSgmbRWZ66qluqWhxa19j85XQ8SbDZtCmH9PAXaSRFcmMG2fPUHP0dkhgaXHaL75DHnWup51KFk2wvBaLV7U5kwatmHe78nxakqvnuyIaLETEBwQifFhfeU-s0SBP-oiWg4ysD53kI3sfNikNHV8NxQxN6pmYMtZxHuEhCymAUhQ3j_1dxz_tCRk0yPGhQQxXeh5Br_-RiffqEXhYXYNiOADw</reference>
+  <id>d727f08638ea28e6fe3e487cb27f8793152b677b</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJ6wEO5itamhQRI5GyhJKKaf0</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Τράπεζα Πειραιώς</name>
+  <vicinity>25ης Αυγούστου 39, Ηράκλειο</vicinity>
+  <type>bank</type>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3401660</lat>
+    <lng>25.1339800</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBcgAAAJjZKveFqOe1sBhbWBkZfMFzyqwW__VipZ6xUOTSWeETiMH8S5WqUiMksk-4x3jgprHPAnLGoMsxiu-7d51iWyyVsnRhlOSGiBCy53A18XT58YcV5rGi_XJ_Iwdr-_3ziMNaYst95DXpwqSeUIBtYptfI8Y3EtnByCeubMG3IIvVEhAN2wlV4JpLHQFoboMnxf-MGhTx7tlYNG19nkBVPKF2XdzlZNzFbw</reference>
+  <id>bb53e27a4b8791fa1cc1fd0f150d74f0745f8e05</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJs9kh6y5amhQR6IWzoWZm5CY</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Τράπεζα Πειραιώς</name>
+  <vicinity>Λεωφ. Κνωσσού, Ηράκλειο</vicinity>
+  <type>bank</type>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3324250</lat>
+    <lng>25.1347530</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBcwAAABdyD6Gl5whDgFDSFFOOzygrEDBXVx0ShYnpv_g9Y6ea1bkELveUrumAlXH5D3dGsWoN38ji3i2BhNd3o7eRRG1sEiyp0fnQDsPo7jP-ukv0EQ7QkOnnt32ZkgE4o2h7V0fyUEfb7xCyNsuC7Rbbo9KzhMXxA8hSjgyPd-1LzqoPEhA8EW1S1h4QMIyo-9tmhZgtGhTMpxrzwHtgPmwgCRENOrpdoev5wQ</reference>
+  <id>083ab88ca3d9953332be6579ea20a6606cd32e23</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJ67AJRodZmhQRNYQZN-j3HtI</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Τράπεζα Πειραιώς</name>
+  <vicinity>Λεωφ. 62 Μαρτύρων 97   Διονυσίου Φραγκιαδάκη 1, Ηράκλειο</vicinity>
+  <type>bank</type>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3353890</lat>
+    <lng>25.1177180</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBcwAAAPWzhtcABdMw-oInysbx9F2500WeQHEbPk4oaLL4PoBtwMRgZuCpvlO1loBLKFVJSndotf1B-D5lyxWnEScJoEQ9Vy9iQ0_WRoGK0WLSSwu2xo31AUBFf-j-MO5PZwXks1I9cp7nsqAF5yHh8l8aX0zX5R723mx3crgesmnLpLGBEhBhJ8_-kqamLgeI8cjN6sP5GhR95osIWbBvtWQZFQ8X2VihvutRqw</reference>
+  <id>89f3624d39cf188471c774722415fcae471ddd02</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJ2yjYMvVZmhQR9hddPLrJksc</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Τράπεζα Πειραιώς</name>
+  <vicinity>Αγίου Μηνά 34, Ηράκλειο</vicinity>
+  <type>bank</type>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3372880</lat>
+    <lng>25.1302450</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBcwAAAIF3qbn84a_bje1Lzeigp3H2gPWYi8-1uY6Jthr5jjZL2Q4rOpzXX3nt-GSGL9_XUGAoh0IdxSgmVyo3y_8aFMNXo_qYlvydXleGTiPMGNC889GGlHwCkDKEan7kNIswcl91-kf_iSHjaVCAH2qhF2mFxP7R9Yo0_sJ4ER70FN7mEhAww-UYPZGYaBM_yStNJfjcGhRcoAr2DZ1MvrJQ7hamXeEuv0Z4ug</reference>
+  <id>4e3cf42eced2b95262e7668b603cc2fb20bf4748</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJtb3YhShamhQR6RQCKeYiYOc</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Τράπεζα Πειραιώς</name>
+  <vicinity>Λεωφ. Ικάρου   Ηροδότου 140, Ηράκλειο</vicinity>
+  <type>bank</type>
+  <type>atm</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3385310</lat>
+    <lng>25.1585790</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBcgAAACnRqy-0FHu5bAmiF1OE1lY0dKR0vYeKk3VhmH6invQPp3ZGn9eXCb_vG_XXbZ7RisaRVhbgWnI7_otYwVdiSW1gF1BfSiqOKcwZYuJsf1-WqqqDsEkGI31qWpJ_IABRsAC9xghARR0v9s3OSCJ3-9TU0iDmmGqzFjP4c5vAcR5IEhChoQwcvYMFu-7garcgbBaeGhQpKQYpVPjfQX_egFK3weMAqFfkZw</reference>
+  <id>3ce29ef9d49362bd1a61de59e7a11789b350a111</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJl4dwrcRbmhQRdAidPJe4l0Q</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Τράπεζα Πειραιώς</name>
+  <vicinity>Αρχιεπισκόπου Μακαρίου 22, Ηράκλειο</vicinity>
+  <type>bank</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3387540</lat>
+    <lng>25.1238050</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBcwAAAH-4NLdKxsTek41DRTEwsOVIv9SwBWanPA7CTIlMCO7eLreW7C8AS3ocIYUu3SbMLeQyz9eHUhWk0S61epD4xRm__WV9slRbpqZDTy2YO_4vI8N-OWkChq2kpC0noOr9BONYJS-agibOWXJ_qGxq8251RIE11Nfk4r6Ngwo2IONGEhA8Uvp-StnQcmnjtPCo2fHcGhQvx1D29x552nyzEW6_PtFji4qpag</reference>
+  <id>8dc2a5fba35ac46ded5cc303ac2eed38109db589</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJoxVjMiFamhQRIwOkKKrNFu4</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ALPHA BANK</name>
+  <vicinity>Λεωφόρος Κνωσού 198, Ηράκλειο</vicinity>
+  <type>bank</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3159030</lat>
+    <lng>25.1466140</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmReAAAAnskF0eM8BGCDRbouraAKjh2GWcVmec7h69sBeXjMibPQxrffUDJQUL0icT8r7JRj2v1qT_wNeAjfDFHMKzqoCDO7t1F3H2pEYVf7jNQX7XeKY3MLqQlf4CISdJdE9Qt_EhAnkEndk4mLjl5kaCckOQn_GhQf_ZQhiIEYqbsEWetynuy1AFgARw</reference>
+  <id>ad46e2e3a70a1b06c50fddcc9475275ba97cfd03</id>
+  <place_id>ChIJcyRYpXZZmhQRexyoovEhVPM</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Ταχυδρομικό Ταμιευτήριο</name>
+  <vicinity>Λεωφόρος Ικάρου 47, Ηράκλειο</vicinity>
+  <type>bank</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3387050</lat>
+    <lng>25.1414870</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBgAAAABo1XBUPP4svig0UV6R0v5qQGMqSYNfQZGaB1aEXTML9fRDurKgh0m87Ps83mMpHLnF7GUYZ8AAVF16wvdpL7RQjyBnl7ISYhDVS4AoZml9nvAQp9cZeMoDbmcni33upbkJs-SmwsPsfjvocWmDbATU6jFAn8p15z1ThjIew3GwzEhCawloM-gii1jOlB1KYCiGAGhQxA5CZguLC8Acd-Zxnysm5zqYRIg</reference>
+  <id>1b18d71edbc6db7eb86287a70916937b7dfd3adc</id>
+  <place_id>ChIJ0Uy0qSlamhQR2srUM50xADo</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ALPHA BANK</name>
+  <vicinity>Λάππα 1, Ηράκλειο</vicinity>
+  <type>bank</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3271580</lat>
+    <lng>25.1278990</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmReAAAAHhYKlGynRucj6rzPUraHkQz4TCFmHnEMD5SJuMMuFzgYeN6qCcYNBvxpRAoS-q5yi-Tup3VKRRQzzqMuxw0KOlE-si5wxMzpwR_J73oYLLytTI6FbXaS-ci7wWI1-lXhEhCyF-l1Zo7dBHxpVYFaWhbSGhT1K4paUnayNtWQ6wZ43tRKpmgoFg</reference>
+  <id>2f1d0f2c67355689967541d4b1a319f67ea1f362</id>
+  <place_id>ChIJ7wi3oI9ZmhQRJVuXm45UUd8</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>25th August   Koroneou, Athens</name>
+  <vicinity>Παπαγιαμαλή, Ηράκλειο</vicinity>
+  <type>bank</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3407020</lat>
+    <lng>25.1341010</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBcgAAALf1Sw4-kYPrRFC9S_B7Xl2XWyFdUuZFtJTYc_a1GTvJKaNtzZm5_tobRUnFO7HLAYaUv7ogb2l0dy3XJUlvV95JW4eLmNVK4mh_5CgOG9cQQ_1d62Ae89l2CNxrQnIJFDEpDazXzY8fIAsWOEIbdoWAOaO3PC8EN5_U6lbr6rKSEhA3H4qdc0Rzq7zhE7nCsM3-GhSl6NrCvGx28T4WukaW9QgQifq9kQ</reference>
+  <id>bb1ceed26f66e651b7213c1cde7d89d061c7e5e4</id>
+  <place_id>ChIJyZI2jS5amhQRZey52JDmu88</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Λαϊκή Τράπεζα</name>
+  <vicinity>Ίδης 26, Ηράκλειο</vicinity>
+  <type>bank</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3390350</lat>
+    <lng>25.1320870</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRsAAAA3AqcPtzq2ijb24qKfPC6y1zZKF_n_2ttwnoZ0TGS6xMI5cMglcCz5upgWNymYUSW3RvCuLqyk3r0mOexZZccRv9lLn3hspFrkLzcGDRWWp_Z75DZ_Yz0NkRf6X9GW7rJXmtMmz84-PpgFHdVPvPPIhIQpoOHKs9rBy_TzQNsdwxQiRoUrSudjV41xT-f96vZz3X9lAHjQGI</reference>
+  <id>6059b3a274f46463e28e09c8f9cac3cbf13ff4ef</id>
+  <place_id>ChIJ7Y9w0yhamhQRVBArG9lKVx4</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

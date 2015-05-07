@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Mediterranean Hotel Ξενοδοχείο</name>
+  <vicinity>Platia Daskalogianni, Πλατεία Δασκαλογιάννη, Ηράκλειο, Heraklion</vicinity>
+  <type>lodging</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3291630</lat>
+    <lng>25.1385270</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png</icon>
+  <reference>CoQBfAAAAHCZLvbyvkhhwl21ANQGbFx-S1Bhh2AG0kbd3dvzTs_sRdvkrrcbMZD0yydwoTFMEhEPzAbTf8wh8gi2tyyAMUkQh0-uiIdbePeFtCQiKKiaiiPbPn0kctL1pWk0uZiYMPjoH3HwvGid0jjmERpYe-O_c2zLGsGSBRyXChSn9EdREhDhP8CJfm0zV2RUjLY-gWMxGhQ2gCvpXbVv9W3eOOi9UooW1OnJJw</reference>
+  <id>ad3f501d450621732f7b30e639f5e5b8ec1d8b46</id>
+  <place_id>ChIJxcR9p4FZmhQRVADdMUZE_es</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>7thalases</name>
+  <vicinity>Ηρακλειτου και Ηροδοτου γωνια Ν.Αλικαρνασος, Ηράκλειο</vicinity>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3430120</lat>
+    <lng>25.1573280</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CmRdAAAAtoyyWSVBQmNKneqscY4WinKpUQS6ODMoLF-JR5UENbBs7OAlH4u1FoFbVETfRAq64L-hQNcvrc_k-s6QyvFixTPXCHY6TDM1tquONKtZLbkPN3nzZaVnEMGUTyYIXbGlEhCziSrMa3f1vzup8xcrAhvrGhTaFejqly7h3I7CC5Lqy7LBO9qBrg</reference>
+  <id>a49362a0e8ed1d74726fc48333278eec06d7a0db</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRlAAAAWXjHD2MOsRkIUyu6G5-8hES4qIuCUrz1DNz1Z6hy6PwrkENV3ubrnrU-IFpEATPHWOxPcsNQZ760rC_j3Gfqk8zUMF_GMrHUQ63fFr0DXBhQw-X0orINtiG6HZwFAMkPGCsjd6wtBe0DnOO5lzxD2xIQCILfwoDPLIZcWtnDp3pppxoUX_3_tpzEGNISfCaKrZq-M27bNgk</photo_reference>
+   <width>95</width>
+   <height>65</height>
+  </photo>
+  <place_id>ChIJEfqfO8RbmhQRsFrTFsNXPLM</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ARINA SAND Α.Ε.</name>
+  <vicinity>Νέα 35, Ηράκλειο</vicinity>
+  <type>lodging</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3399720</lat>
+    <lng>25.1474720</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png</icon>
+  <reference>CnRlAAAAsn1dCG2WDO4WhJ79KJezoZT-up6pn92ZM81MwfxJVxuZeOGw87ajyc3prwdTS0zwLb-vmB2WEYJNlNJCpjjrfzoNnr4Gkz5cFHGMuNd7E5pSFuXILA85fxQ2ycnUStXXBCqAWtx_Qna_1nT5Dws5DhIQxxE0N7wGKOatX9Nu9z2O7RoUoyd2Vf5sztwM8CUQ4pk8qswum4g</reference>
+  <id>c3c53cad88fdf79c3a96539d4550fdc13ea5fb55</id>
+  <photo>
+   <photo_reference>CnRqAAAAQE3qJT86k1aJVuaI5jM6TQpaMcS1Gd_tOBqn06CID5SA0VKnQfrK-Hvuez426lVdqSiHJ4U9SNz6tSqoB8sciOs1Tu4Wu1nyyqPbsgCg4fvfQyloqQhEs-Cte_cs5FFNX07StuH-4UvuMmikhzfunxIQka-e-BPZImuzJaWz8DifpRoUFTjBEk-tXh7cFl8Lo7EAPlwaJA8</photo_reference>
+   <width>2816</width>
+   <height>2112</height>
+   <html_attribution>Από χρήστη Google</html_attribution>
+  </photo>
+  <place_id>ChIJZdy1aLZdmhQR2K_G3tLEwIs</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Kamari Hotel Ξενοδοχείο</name>
+  <vicinity>Kokkini Hani, Μάλια</vicinity>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3250000</lat>
+    <lng>25.1306000</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBdAAAAHniXA9xG1kX-guEgM9DLNyZTA_trrA2pcU3WUbCrWETp33agjHOOarfN_4RlxU6XttjaDP4bN3fJ0sY3JmhyD6TOnHP7uCsOqkCvwksxCStLznyjwZfxHpKwRPTKfk0_TVj9UyXsE64RCRpGr3LI4OaQbh4yoSxzmO6afph6HMSEhCLqmo7HAWF-3Hcvs92X4vWGhSzTyEvWEEPiua10VSCzPBW5Gb6OA</reference>
+  <id>d74eebcdf87c5d0c8a078442932ff234a3c87809</id>
+  <place_id>ChIJYZd_RIVZmhQRlG5Z-zeQtQ0</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Talos Plaza</name>
+  <vicinity>Sofikli Venizelou, Minoos   Pelasgon, Σοφοκλή Bενιζέλου, Μίνωος   Πελασγών, Heraklion</vicinity>
+  <type>shopping_mall</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3401680</lat>
+    <lng>25.1204910</lng>
+   </location>
+  </geometry>
+  <rating>4.2</rating>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRfAAAAeCRnL79q8giznS848ZO6p8VnayBSJiaSXYtCCYvPC90f7-mxO12yEL5TN-BTmpn3hPEzbo7Ov07n5Eb2uxO58GWPrftQBZ9Xn3iLFBcc7lYbQxx2zjI-f0J1KdDxU_KDEhDY2x0lnOc7D-3uNb9Sga9wGhQBQacPYKVYdWIsKSRp9XhAjutA5g</reference>
+  <id>c5d0b56a6fe467f6d21ef9b22eb0ea2e9916cc58</id>
+  <photo>
+   <photo_reference>CnRoAAAAbaqpPTSusXzW0GFgeId4IjT2XDn2C7t7F2OjGxq4w78dFaXTtciCNtqRrUX8a7ZGB5gffmkiN0l0fAzvUme5U98nTzKsvhsTH9xc2MwrHkROYTpwa4MVr6odn_4tDI9b4YfpFj7ONnAmB95fRBrpgRIQB_2Mt_8YYLzFSWTbjr1G4hoUKPcaXk2C90uk063okbfXd55NAIs</photo_reference>
+   <width>1632</width>
+   <height>1224</height>
+   <html_attribution>Από χρήστη Google</html_attribution>
+  </photo>
+  <place_id>ChIJwdsXoSFamhQRg6QrtxL6-OA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Evans Hotel</name>
+  <vicinity>14, Aghiou Fanouriou, - αγιου φανουριου, 14, Nea Alikarnassos</vicinity>
+  <type>lodging</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3400690</lat>
+    <lng>25.1546210</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png</icon>
+  <reference>CmReAAAANSDt-OK2dk4abbtXG-iR0D3j4yOZtTcd6SxbuAZFHtCQkhJ7QcvKdxqqX5rl6o3Cg3os-7IWHEfQdaQZ2yU04MIw8_3DW3BAh7O8tzE7fIUzPT3BuMHGxSHmG-y3nX7IEhBO1U5L-vpfax1r2-Pk1Ua4GhRgTYKsLK2FD5kHm9k4Z-00vGQ9OQ</reference>
+  <id>48722b5d8d2138b4082937e9947b8c69a6bc9ba9</id>
+  <photo>
+   <photo_reference>CnRoAAAAM3Bl3PXDbzjbwsSLIHmG9_pyKlmbpj0o-x0wyQQWX9qgZ5flYQtleKn9LUIrazyPIHyQSYRiHFCAk5BKtH9vZ1kVfzK5-8TXk37x8EX5v2n6csDjrX5lEaf7QL7A5ZrKEzXafd-IjQBB_pqk5VSyixIQ62lwnlNTYCJOLLPk9dlXxhoUL3LdGjZUG1YVumrRCsoKXT4T4Ag</photo_reference>
+   <width>960</width>
+   <height>1280</height>
+   <html_attribution>Από χρήστη Google</html_attribution>
+  </photo>
+  <place_id>ChIJnWX9RsVbmhQRIihllM3VnHw</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Rethymno Village Ξενοδοχείο</name>
+  <vicinity>Ίμβρου 30, Ηράκλειο</vicinity>
+  <type>lodging</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3367240</lat>
+    <lng>25.1424990</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png</icon>
+  <reference>CoQBeQAAAIpQ3ikb1W5ZSr58uE5_6PM95hlw9fY_Sj2D2_22uZ6OnGslnKdOalYPCURzvk8LcsekITtWaX7L9xPDV8aOOZUVqbuk_CSTUW4erAswtLqslfAdsSXOPy4GnjI_ynGgyHkE4SFjtIRHuXscfXu462KprAZxV2S7PzEhVmFlpTObEhDJtM0NycdsVuvXdZnPE4AtGhRyrDsS8qqSWUQku2Dd5MBNRe5jtA</reference>
+  <id>4d5c9c0a9d5fe13a2caec46ace60bfb08de7f175</id>
+  <photo>
+   <photo_reference>CnRqAAAAa6N3qx3BvfEMnl1hQO11n8T4SRSsbl8dZ2v-G_kllxtwBLn3c-sDg4RDIcBk_uKQcysxYWAQkCNtFiTp2X2UtXX3j8QhDOixYsJC73ePKvqGXAkoCteLm9Sgv-XovG6dgXnJvefMDLn24pwpsoYhOBIQd5AUBy6T2-NIMQoN1RyImRoU7wzj1ax7d-1G3mhhpvYWNjwI3hQ</photo_reference>
+   <width>3264</width>
+   <height>2448</height>
+   <html_attribution>Από χρήστη Google</html_attribution>
+  </photo>
+  <place_id>ChIJmU_Tl7AKmxQRKwO-j_I1rrU</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Museum of Archaeology</name>
+  <vicinity>2 Xanthoudidou St., Heraklion</vicinity>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3250010</lat>
+    <lng>25.1306000</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRoAAAAHymkIvLIbRjEdqq2Zub61uFU7PcmejQc1-NQLr30GyD9CvwyyFmE1zPsutYKwXOpjPK8S8k5pZ1C5z6gAJBIfju7mlwAI--qUeqMNz8FAVx81ELCYHCMqmd_iKQA-99GXwRtkmTQyNj1F8_bQga1MRIQyO7SUffTitw0i-L8HzhezRoU1MwyQT4H6rlIqSBshqDhcmDsiKs</reference>
+  <id>5e7f62457a9cd0f9ff1801f8c650786a8a38c3b8</id>
+  <photo>
+   <photo_reference>CoQBdwAAAOvwqbtgLVoU9zf1VfomqmMHQjYrjzudAuceNmakmr5WU9_rU0_1NLP6GdDJNUh20nMQixCH3DDn61A1Az0RbtHF3Pk-xP3SFSAvcxUhHgwkK8tDujm3ii4miyanr3UWixyyDcTOHddK2et1WZnXePL7bbsVapyHxNPok8iVru2-EhBDHNG8taaIJtxICCMAQJbXGhSnToo3VnSnNGslfQIxL-2956h5oA</photo_reference>
+   <width>600</width>
+   <height>800</height>
+   <html_attribution>Από χρήστη Google</html_attribution>
+  </photo>
+  <place_id>ChIJUXKIQ4VZmhQRjlCKMnBXPWY</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>L SQUARE</name>
+  <vicinity>Πλατεία Καλλεργών 12, Ηράκλειο</vicinity>
+  <type>cafe</type>
+  <type>bar</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3395170</lat>
+    <lng>25.1334290</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CmRbAAAAoO3PtrpZD5dyh896O9RgbVIBS0WHfV_xAUQuKH-fmmErWsVJsn8OpRAWIeYmahbqlDOpOm4oqqHCRAGmq0_vvT2NInoU6kfo-3rC85bEYmIdiHJV-I307jDFG54jTO-_EhB5GcNBXgydp047DGFxm2U6GhSFB1NnheErKBcfmVCrRAO6pmdtUw</reference>
+  <id>3d8335b24a4f5c8e9e1d45c2c39eaea8177ae921</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJz9K0zqqkoRQReHrdCCSTjyM</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Cretan Adventures</name>
+  <vicinity>Έβανς 10, Heraklion Crete</vicinity>
+  <type>travel_agency</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3379810</lat>
+    <lng>25.1335010</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png</icon>
+  <reference>CnRlAAAAlvusrt91JgxJt5X7vpspovBIVYV6z02bZZsuQhZnZd_HcudXUZgi_x4t4fOglQiCyXqXl_kpIarCnbbhIWzvWoyR9xa59L53Fp3lxv3tuGBAmBl-A5HgdQg9th4auRYSCKXqjITDM0I_uFB_SAB0FRIQIbEaaHqD-ysxmWyMxmwInBoUYYi9tgOJb_Je-ViYzu2x8BL9ODs</reference>
+  <id>97c802594463e81e53712269b92cf51ee6f70611</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAwiqolooYGnGoNxB9C6O-gbixRiXgeczndmBIo8uhR6ZWBmWoPYJQLv7BjHCLiHCsnV7FhfQ8nO13VLLzdyOgykWrbTd2ZU0a7m2F4lYZJDrZyUuxUdObDyBn_fVEtFTzxNSqhs1LzWiuijXISP6GLhIQTdySts_a0b2yuYpggWRrDxoUpDwZHxJae-bSNFw37wFUTAxKePg</photo_reference>
+   <width>220</width>
+   <height>147</height>
+  </photo>
+  <place_id>ChIJJxFZMClamhQRRfYHWVlE1eA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Australia Hotel</name>
+  <vicinity>Απολλωνίας 28, Ηράκλειο</vicinity>
+  <type>lodging</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3368510</lat>
+    <lng>25.1205740</lng>
+   </location>
+  </geometry>
+  <rating>4.3</rating>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png</icon>
+  <reference>CnRiAAAASknjUQVB011_jMhjC_STlgZgnvqFBm7zwcahAInwXslewcO6bxgqg66IMXDwW260KKgARPHUKRXrtaf76YF3zDnj4cKhycsod0vXXuKU7RdMQsT_urSM4UVo2dr8xoSr-ia8smO-LvyEBP-N9HqqCBIQWlLra6oreIWYIF3M0XeSpxoUS4jDivym7fhVGM_f3P-IDupr7IA</reference>
+  <id>9ee42153b186dd966c26d624e019f71abe603d3a</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAC6lMv-yGYfLYeqHy_y5jTNkpYCyeQem3dsFhsxAndplBJ1Lyn_Wh8BOerGXfLKQh81Vp-jjcaBItPU_xj6MGKXD6B-_4db8UsrtIDBt7GZPVByvDAk15mDFVPzB0r5hMNKAy78Rqr08L9T-piZN1VRIQf_JNXBmVfYVs8b-xz09kwBoUG241AFP_FZVh5HMJ-FrT-_7EDB4</photo_reference>
+   <width>2048</width>
+   <height>1536</height>
+  </photo>
+  <place_id>ChIJb19VFzBTqBQR5ITlcapOsXA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Roxani Hotel Ξενοδοχείο</name>
+  <vicinity>Λεωφόρος Μελίνας Μερκούρη</vicinity>
+  <type>lodging</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3285350</lat>
+    <lng>25.1191690</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png</icon>
+  <reference>CoQBdQAAALsp1M9fRswaTue6Doll_S9me7eayAafTvl9qUUYq3BQPMwP2VwpwLA_twMFEBm50o9iOMB5EAPRAyO4-drD28rs3ibvVaNoKy03TM-Hn5tQrM9VuUsEfNASYHkxaS8VaDdhvFsovcjyeHoGr9LBLFTqtxfoiq9YKb1TkaYOEaIJEhB83LSNIKTsrjUFA9Z59nk3GhSC1-DiwU29sIRw2PJQsBGSCmNw8Q</reference>
+  <id>22e203f3487e6c637a52836f1122516f9cdbcafa</id>
+  <place_id>ChIJmdp0A0ZXmhQR8HA1ptek9d8</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Ηράκλειο Κρήτης</name>
+  <vicinity>Ζωγράφου 11, Ηράκλειο Κρήτης</vicinity>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3376560</lat>
+    <lng>25.1351920</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRwAAAA7G8Xzq--BtdrNaWnohgWXi9oBwoNizvzM34MMsqL-sRwy0AjblziPP8c4xsO-u46ZrdSQwPc_J3TExHxfg1RGViIWrxAgaIf_WQpdDMPFYDH9j4FO0qiTL24JqhNa47j6MGABNg2Zp8l3BEK6aPUcRIQCOWzoWWbHl8rBdhSRNjsQhoUu9Wk0VPWU6pg-zVoUlh-1JsS2Ak</reference>
+  <id>094626a3b4ea1d7aa8c0f3809d5727616210a73d</id>
+  <place_id>ChIJL82AWSlamhQRZx6asKRGQ2A</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>The Traditional Homes of Crete Ξενοδοχείο</name>
+  <vicinity>Μονής Αγκαράθου 22, Ηράκλειο</vicinity>
+  <type>lodging</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3423890</lat>
+    <lng>25.1333450</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png</icon>
+  <reference>CpQBiAAAAJ6zR_edbvDSWAShYuap36bCf7tQz_zeLI13oUSNRmOHr6lG0GNJs4kcm3eDwBWJo3ite0Kfz6p0RLnKH7Zf5kgvKrlfL4GyhKklhJ16C8x7InBe_InJqWCWEvfzX--N4A4p0V2rIm3HvhhCf9qhqpAICdRhFSkLZdnOjCeTV87s44qfHkzWKlND0-lnAfovRxIQf0gAEoVYPuw37zAeMm3mkxoUjKmwr7l_IG7iE6BbQ9pdku68lQ0</reference>
+  <id>d939502249ffcb290fc0a0eaaa4441eff322085b</id>
+  <place_id>ChIJBTVxOyODkBQRz3ok5qfl9-g</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Albatross Apartments</name>
+  <vicinity>Νάξου 5, Ηράκλειο</vicinity>
+  <type>bar</type>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3404590</lat>
+    <lng>25.1482610</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png</icon>
+  <reference>CnRoAAAAwyJa9ccS7qpB5yMDDANCT8ymmPGdRkEnIkjuADici3Sm1i0fsmDWwujwQOwiCNlfQ9-KbcLBYnC0DYmhd8vl0pjP1U5KvW55UjH24dnwtg-bdBhr9lS7x0WnCboRrdnzWsOGZrNapU9RPk9JIa2aTxIQKgD4dTzGK4T6aIOzWt9f_RoUHmuZzlGUiuhHhah0lyS2KHoo5iE</reference>
+  <id>01668685fd98249b245c9a2e4ab4d0eedb96ab73</id>
+  <photo>
+   <photo_reference>CnRnAAAAS5pAT8nTZsxu5ngzu3-VTpT6uw0t_z7jgp1Mqrl-lPIYXyuO9f53J359wh25pf1klR_9emBg8s5FdwhA_CGrU2XMI2BX4yIbjVckeIZipiWVs7Cd6OIGABjWX-NpW0yEEl7guTiyc09hlLYEdXx9cBIQ_hpRnUc_OofMgOR1bz1FAhoU43AMUTZFegkNUEh7lvIWMc60duY</photo_reference>
+   <width>331</width>
+   <height>430</height>
+  </photo>
+  <place_id>ChIJg4J149FbmhQRXUuABPz9lbs</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Rent A Car   Bike BlueSea</name>
+  <vicinity>Ζώτου 5, Ηράκλειο</vicinity>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3421280</lat>
+    <lng>25.1340760</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRtAAAAFMqsBtKBWPsL3Gv0U5xDb2-wR5k5ve2dUbrtlT9On-9V1VSvQ0loQMqtxec3MOP7fNLR2nX37aDppx60fGwiJW0zyHs7TorBxTb288nodvXaTplLxBWiQs6nZjYIeDDVjUhdOi8G4d2MfPhlrMOPRBIQ_X5-LI04ZugHY4kxgvYXFhoU59t4DrCkrkHT53jvlNj8MHkPSyc</reference>
+  <id>7b6d7190fd311c3d82ea47ac95bae5f699a53539</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAgZXoaJ3Cw0NIJhXot2lIfsarCaMocXiXfYUguGhOPqDlttyvO_ZM3G5lP-oCoxegz7PVYk4aQRJDn5-lPnjJ8ObbhqiCErBjvLkqXE1ZnUnVtkqFjNidOJIl67iDHqycttAd_Z-qDmlUv7LDt5AGEhIQD6hREqPnP8Gbd7VezaCbaxoU7B9s-7k31K5xcz2wdsP2pugXKmI</photo_reference>
+   <width>957</width>
+   <height>609</height>
+  </photo>
+  <place_id>ChIJ7yfWaS5amhQRJ1Zn5nNiV6c</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>EUROMEDICA Α.Ε.</name>
+  <vicinity>Αρχιεπισκόπου Μακαρίου 56, Ηράκλειο</vicinity>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3413520</lat>
+    <lng>25.1237950</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRkAAAA9CbFmLfT-CvpisKFqLO_eVyeq2PBoaENHjWjaqDLMN8jN9fXI-Eu_MNcwEp4TYBXmMEx-rZ1N3X5m5XE3pK0C2NvmDV0ps0-cW2nds7NgBnWXUK5iewYglpnVLhUaw33hgAHAHmCGwirLZLg_EjaXRIQvd007121IOHnJpk-9wsecxoUr4gDUVQmCp8tfcZpFNHhkyiXpUs</reference>
+  <id>ed9f02ad0c4ceab9c1012490f3aa09ac14c973e7</id>
+  <place_id>ChIJ4zHZgihamhQRojfitCC18CQ</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΘΕΑΤΡΟ ΚΡΗΤΗΣ</name>
+  <vicinity>Κ.ΧΑΡΑΛΑΜΠΗ 1, ΗΡΑΚΛΕΙΟ ΚΡΗΤΗΣ, Ηράκλειο</vicinity>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3400190</lat>
+    <lng>25.1325770</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRsAAAAQcnYvn-cLwOVRcMebKkPg6o3P31yaG_54as_zDyYoChG6S1yhUUvOliM3io_dEeYd4jW18er_ayjnryLOKxvFzGR2TavlK0jPMVuvo4qqxzF2nfUXhw-GgtaobW7TAilYtiKhU3XSFrTHVUyGMajnhIQOp6hHModbP0T33H4a9JsyRoUaYmnvuL75420HJJ-IujizxDsCUs</reference>
+  <id>2488dcef6be02616da0bcf1c2cb5f07ab1b2adf3</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRvAAAAgMbVNZOJN9grLdl9Lzrbt9K3mXcJomPm4C7XQ1fVjGAiaCHG2w5FaIsy2smE4_DqTvwsZa8S-6RiATzEkQYQGAhDOsrbCoCk3fJm52U1b4q1VOp0lcUiud6TXgjQI-N9r3fONwr8oJn4TeDluhO9bhIQ-99wnxs8wQh8QdkmS7B9qxoUNQo1eOtnT5soIP_t7QIRSCqxylI</photo_reference>
+   <width>1602</width>
+   <height>800</height>
+   <html_attribution>Από χρήστη Google</html_attribution>
+  </photo>
+  <place_id>ChIJPYmoIC9amhQRPkgmARalLzM</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΚΤΙΣΤΩΡ Α.Τ.Ε.</name>
+  <vicinity>Λεωφόρος Μίνωος 125, Ηράκλειο</vicinity>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3310110</lat>
+    <lng>25.1240390</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRrAAAAd9auJHSq9CMxXs2_2O8TVvjLP9_uXxZsxiFcaIkXLUgX8Yy_igHWr-xg2Xr2s2H3dtOmJgqBfaJw16R5wzp1Qn-_jhZNFy5oZTaYRzPihq80ypov7uQpW6SyVhso5s48KWv1N1CHwt0bbzbJ4UPFfRIQRO6pk1Ok2OOsPEcGI9wvSRoUs2W5fBO00weIsLjZiTHH2XRfvHw</reference>
+  <id>11494712f159e5ff5471dcaba108b285e3e7b5f4</id>
+  <place_id>ChIJx9YyVolZmhQRIfDwVMBGpzo</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Crete</name>
+  <vicinity>Λεωφόρος Παπαναστασίου 116, Heraclion</vicinity>
+  <type>store</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3189840</lat>
+    <lng>25.1401630</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRZAAAAHnFbrx73gAxiPXj0Y6tUQOgNFzIIvxGjui1rN7EofvfMNMOy7uKTT9eUEtF71RNm-Hn_X57di8J1EEGSxYWLobm1Cg0PFi-JxwuJZwEiad2WeFH-EfCTOjOtCCXBP3-1EhDvYXOfmTSIR70cq8w7eMRoGhQO4rBxZsOi39hq3xqJvZl8UvAcFw</reference>
+  <id>dfa01679c65451fc427a852c5f2782c5f22e91dc</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRmAAAAmUnbHFYb642cF8wN1iO7m7U8RLv3PCARLflpfYIKhKw77z13Ww2aEm0g8IOc5_ecJu1oSK9EWtVdedpl5NhmzPWWkkHTnck5XJmhS12tJAWZX0vflilNvRv-zDBj_s_NkEjZsPbggTzOWits7ih1PBIQubq6JdBA8icH9oKoYfcBtBoUxfaXNVamL8cGlUP1tUth8XDHQ1o</photo_reference>
+   <width>313</width>
+   <height>72</height>
+  </photo>
+  <place_id>ChIJF5xz5p1ZmhQRSMhWGmA4hJI</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

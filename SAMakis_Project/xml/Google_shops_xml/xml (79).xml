@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>BRAIN FITNESS NET GR</name>
+  <vicinity>Ζακύνθου 5, Ηράκλειο</vicinity>
+  <type>physiotherapist</type>
+  <type>hospital</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3368210</lat>
+    <lng>25.1438200</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRoAAAA4hKgJ9d2gNahh7Fa4Dk7-h2KDNYo3UEQVEZkM44Wwpzn9_03CUttjmZOaBtG9mXC61ACCk6NHYCJGFB3LilZubokvOcYeZeVVSr-BsguhfWLOpV3B0N1Bzoz_jFHSBnzZftBDJ_R-dzWHWDRsnsyhRIQKDsjkdHWI-bwQyCexj5jhRoUjPMTzXwsJdDqCeKE1ZGrzhQSmYQ</reference>
+  <id>d39acd8a5f4cfc597cdbe675ff6d2d2e2bece2d2</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAflxzMFsj5UQQr7TLT9bdnxyNPvgW5rexWy4EGDUeVJ97Glem2gNa9aNfBLX98SIsUgqmlyoru_l9pY_ysRc_X4U19TiNuQYtpX_yHzy9KYWkgi8ZA24tigS1j2nrtbIeUdJSS3Y6mSoK5ON804pBRBIQxSzs3wIw32P2SnDEpfZdPBoUS_MHcQKDzhM2OLAuMN8WQ_WGY3M</photo_reference>
+   <width>237</width>
+   <height>357</height>
+  </photo>
+  <place_id>ChIJf_f5aNNbmhQRC6_AUAIXN_M</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΦΥΣΙΣ-ΕΠΕ ΦΥΣΙΚΟΘΕΡΑΠΕΥΤΗΡΙΟ</name>
+  <vicinity>Γερωνυμάκη 8, Ηράκλειο Κρήτης</vicinity>
+  <type>physiotherapist</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3350860</lat>
+    <lng>25.1391270</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBigAAAL2mQK_u4UVDKr2PE8DdQJB4Ch1_cPWPzFESZ5vuCZJk8BFPxheR3sXCdplnm69Y-HNxfUcs-L2zI0HlLi1iR1lwldbtkeJVQLEHcWlqEFYqNTigYBKgyj6p1JnEUSo03ryVAQVIrelUipfqcA8hqWPVZbYlAC4kzQs1Gcij1pCRH3hnl0m8XNNOx1ZjE0_5ThIQAl1rWcOKKW9P4rn0ikcyuBoUUZfAt_y6d1577SgYHA4md7JKptU</reference>
+  <id>5b7c1a39695d41a07d1051598c103fc5fa3771d3</id>
+  <place_id>ChIJtx7sAitamhQRTFzwWDKf2AI</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΒΕΡΕΡΟΥΔΑΚΗΣ ΓΕΩΡΓΙΟΣ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑ</name>
+  <vicinity>Μίνωος 41, Ηράκλειο</vicinity>
+  <type>physiotherapist</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3373970</lat>
+    <lng>25.1204400</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CqQBmwAAAEybMrQ_KRfUS2oyvVna0xlCzB3p7FaKv3a9aN6dLJWTE8SlVZwLte5FrIpOCqvRleJlm_Nps1ei-J2w7wXRHM7D8rGW4uAjGzwuZaUxfHghqIuL4vTy4iuIxJAMPqqEYdRunb_MDe6ol_mLzuoEDEaQNz-y-ty_Ra9oRznVDBSCdnnwRz0moIDq7izTHCr993xwdGdstT7oE26OA00AZ4sSEPGrlMPelcc8dxaK79HSq0MaFFZNVTLOQ5bQkRZ7YKlipEBbIXoD</reference>
+  <id>87f6f837e938e863460506478b439fe9fcad2183</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJsdZ-ZCBamhQRNTC0vKmRT8Q</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Πετραλή - Χρονιάρη Αγγέλα</name>
+  <vicinity>Ανωγείων 24, Ηράκλειο Κρήτη</vicinity>
+  <type>physiotherapist</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3356660</lat>
+    <lng>25.1229380</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBgwAAAMNfkg6QhPxF7nLVZJJhTHMV3-9bwVQpBEbNz9U8dWysXieaAQJg4VH00qa9WETp7XrXl3DoGSctO5JFzjvHgelShYCyarhd7JxMs7Ru9OKs8Y3FoKCqxbeEBJZ6N4cat52_qyMH7HsodCj5KHIF4XvgxhlxVYyWNgZA3KJ4qZSZnGq6WWjIVK9EdHQdysiaxBIQhw0pzU1HW5C8gXHi3cXtUBoUOHAhiMd7qzZnH4aL5wuFTBZOIxA</reference>
+  <id>cfd2d8d05ab38ee64ab3f03084f2378d7046c439</id>
+  <place_id>ChIJp2SKBYpZmhQR6l-6HlJSKLs</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΠΑΠΟΥΤΣΑΚΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ</name>
+  <vicinity>Μάχης Κρήτης 10, ΗΡΑΚΛΕΙΟ ΚΡΗΤΗΣ</vicinity>
+  <type>physiotherapist</type>
+  <type>health</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3375500</lat>
+    <lng>25.1220380</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBhAAAAMJ_xnBPGhdHIZrxflLXDU9ZJ_UK39WXo4yBfx5Dbj5fQBS9O-cIOk0QZ7HYUxZNZX_96WMknQnfcGvWAhi5HQTxoG05eC7b5bohCo3JDhNBZy-pTrV_jQ2I3eshL-wydLiBknJfRrvcH4FgXKXeKlgUTsy0-qCPCX-IaPgS7QVcQGoA6A4CZ5V1u_7gdIgndRIQZEgK7WgIGiJ6bD9tfL8rmxoU8lejBHu2uUow3d2ooebg19pQtEg</reference>
+  <id>c7728da3dd4f4a5ca2c7e947bd45166d5e7eede8</id>
+  <place_id>ChIJRybSlCBamhQR9iguwjf5y4U</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

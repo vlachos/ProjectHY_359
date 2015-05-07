@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Βιβλιοθήκη Βικελέα</name>
+  <vicinity>Ταξίαρχου Μαρκόπουλου 46, Ηράκλειο</vicinity>
+  <type>library</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3353920</lat>
+    <lng>25.1298990</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png</icon>
+  <reference>CoQBdgAAAF5VYXb_99N3i4tGUN6p_Ynyu0PMxCAvQIdUQXLEDWrUnbEz6eenQNwqG67L2-9X0epvjPEDLMz5ZoflmMYYxeSGNRXstTJo2fJdY7Iawtw7p9cWaAIvPojfcq3ZNh-lA_OOE2xtbNy6_EnJTU2u-YR9Z2dkEpDJgY65uctIL5bKEhDlYA4rWN_ABttgqKLQdb8UGhQKeRtXqlC1zHv1stNF-2RGYpTSfw</reference>
+  <id>49f3ef27094f5cf9c35c6c3f6ebfc2f224dde38b</id>
+  <place_id>ChIJn3hMCShamhQRQWXgIoRXiF4</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

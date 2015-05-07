@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>ΜΑΡΚΑΚΗΣ, Α., - Α. ΚΥΡΙΑΚΙΔΗΣ Ο.Ε.</name>
+  <vicinity>Λ.Μαρινέλη 21, Ηράκλειο, 71202</vicinity>
+  <type>car_rental</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3413590</lat>
+    <lng>25.1348830</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBjAAAABw4PbApWjeLhYabYtkZWUHk5HoUrvDc4nE1Qu2YcsCbPTZi51mOKHDkQe-vwb_d8uRLkjkF_UwICYiTtSQ1bvEDQH7m_5DBtmho3-ViT6lBN1SiWWik1LYCHrmpbQuYnDotO480BVOSuH8W67FIgeYOYj44FnFV0A5inyeMRFDWp3giQZ0ufb8WCcocjigRZxIQlwRvn89oeWVVEq-e-lWC7BoUAToSrOR5vCZc-xPnhhuWPIHAIws</reference>
+  <id>a9cc44bfdb98b2fe273f22b680c987e1fd412edb</id>
+  <place_id>ChIJtaq8fC5amhQRJewPGy4Iy28</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Κόσμος Ενοικιάσεις Αυτοκινήτων</name>
+  <vicinity>25ης Αυγούστου, Ηράκλειο</vicinity>
+  <type>car_rental</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3416130</lat>
+    <lng>25.1343830</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBjwAAALFpJeYKdyoysn-U-NR-oLrWFiyJMi7yoOOQvbAkbOFrTeYXigk5cNLKI2K82LYqXUgBPyG64SjiUbGs6OyPJK1Nx57V_eHKaShisKQL4gsun7cnNhFfNygTf0T1OnudfZSLXRTf_e8mpvjKp2NNmHANyzdNM1QlKqFQF5J7QezxkzxxCcp01IdQ57xTvlIC1BIQ3Vgx-vGMRhSFDr0RrJH2dhoUVLJT6_S2G_-1ukw58F2-Ccc222s</reference>
+  <id>6de8c2e35f49452c349d616a75fa62b764f38ddd</id>
+  <photo>
+   <photo_reference>CnRnAAAA_Y8eMRzCFJjSlj18y0pd4x02pZVv07R6BAs_DC3tsq9I_9LtZGYcD0yA8jmnjPnwDJ09QtAvWyDg-U2Fv9hixetCoJoKJn_ILYDmUm-rFmSCYVwn2nx2qtgh91kGTyWJBBEVt2SDhwkoMNUgwk49_BIQmAhnVy-qDI9GCjZxCEOhtRoU4bn0O5HKQlAtXfay_soHygH4QEQ</photo_reference>
+   <width>1060</width>
+   <height>1180</height>
+  </photo>
+  <place_id>ChIJX7MhwC5amhQR7PVAcPHOwM8</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>EURODOLLAR</name>
+  <vicinity>Ηροδότου 74, Νέα Αλικαρνασσός</vicinity>
+  <type>car_rental</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3417260</lat>
+    <lng>25.1576420</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmReAAAAuNROCOjZavb7auFMEXwo1tAFPpMltrNAWg477RLfMlDoSD-ucdUbxyE1keXcB6OgMFmADl0KO0xCbSaKdn94rFeMx8F304HXYLqV8-iFIwBoK-akgFUD2h-l2y51gu93EhDwnRhg6azblAphTqZh33P3GhR-a84eTx3p5LXCuCH6Ytzrg1sylQ</reference>
+  <id>7435a53b9adfd0578167bbb0b6c8c8460d1f8f18</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRpAAAAjLxcmQ5LsxMLfAlJZrimqBtU7gdYHuznTPNHd0TCRPesc4UGXh5hX1iG-M_LzV1LAQbDtzudAEckMjODH6Vux2xCFEfPfecowlp9eK8Ktca7JgDsZpE9R7jWjPg3MuggWKv8cGm0Vb5icDQxt6s21BIQ4W1Z6zZ1ibTga3wya2iO1xoU7AnYc0cIdvWbJtCa0kyuifH7Aig</photo_reference>
+   <width>684</width>
+   <height>683</height>
+  </photo>
+  <place_id>ChIJubwZXcRbmhQRs9HPIK36mu8</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Thrifty Car Rental (Heraklion Airport)</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>car_rental</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3394260</lat>
+    <lng>25.1342880</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBeQAAALOK75fHYuqQUIygHOlq275CJpNK0kGi-vmCjYvpRRXhKewRk-gTZzC8AZgPRAwgQIK2tiQn4v53mxEulR4yXtDqbIVexIDGtWK4vkZdX8HxNzzomGCpLcf9lOZcEgF2bJnePiOi0NszIa6cZU3gjhhW2VMa4tc3445BPEN4EOkfEhBVsqXKPsyL4sUUmcDJxuk4GhSOkEDtrw2eL19eLRpMKNp47tZ9Tg</reference>
+  <id>b55cd918d7bac75828d08724af27443bf88c59e1</id>
+  <photo>
+   <photo_reference>CnRmAAAAiTEJ8ozcuJHEj7cOcmA1yD6rO5nyxEc2JAbPtO40rFbF9ynpx9RjT34wNo2BwaSjqCg1o1s0khXaotsIhNyBc6fFKpD03_yzYRuVBGX-4gVlFwlHa65o6wKsjY83Axt5ouCT5nfCour9HBcGqPBCHBIQn9ChN9jCusftPqSqnN_CXhoUmtcPcO4dZijsQPb6wD90yo_WDEM</photo_reference>
+   <width>218</width>
+   <height>77</height>
+  </photo>
+  <place_id>ChIJxTupuS5amhQRp9FEcCPNciI</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Thrifty Car Rental</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>car_rental</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3421950</lat>
+    <lng>25.1350030</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRlAAAASDhpxXrnrYnbgYOMD5AThu8tl2cCeu6Ot25cWqrUY_jDXxv4Z7GsFbEfmeHCxsZseFgG4nImy6pKRAmrZ8ulqJShZhxzpbnelu0IXpgFga05SDdx45LipSmlLTcyxjP36-YPZmLDSA_h5KzHJKpa1hIQ0o0zPPIjjbYkdk6quBnfwhoUsPW0ZJKyYbjYgSKLT9mgu5SyHXo</reference>
+  <id>b44ff972e75f49aecf10c28d5d491e8b3f03ae36</id>
+  <photo>
+   <photo_reference>CnRmAAAA5C2SGYtQ_zqvXIN3d2g2BC4LDkGbvUMB6HRBLsSNIeijbVFdVkDe_bQ9UoKXGgfWehRAG0jvKUoiuiGyLMYK3O-xyD-yZFAxH8VhjzacFdn-JW6JpcJdmOpWP6n2k3yFFcmPEID8bobo9siu4PYfURIQcli9anHJazhzGuVZpXwdmBoUHEukbqcVtpyyZqvQRXFJ4lld_BY</photo_reference>
+   <width>218</width>
+   <height>77</height>
+  </photo>
+  <place_id>ChIJ__MBcy5amhQRM83gI7cNiVQ</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΣΑΡΡΗΣ ΜΙΧΑΗΛ</name>
+  <vicinity>Stalida Pediados, Limenas Hersonissou, 70014</vicinity>
+  <type>car_rental</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3353070</lat>
+    <lng>25.1360760</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRtAAAAdNynVjPtYRv8UZY1bjdSt4olUjbOmd2n14e0RVHLacNyRjjKDlW5XsDRXvdANaykqDxzFuKB78Aio-D6bbzgN2JkWFuxORNH42ATN_VVW_zrte39N_T4jSEawZZtvQ4MHe7GuaoUcixSnmRjo77vqhIQe8GJNf38qe3vKQ6ctMSQKhoUhSZgZg6laenLO53CLPL-yJjca7g</reference>
+  <id>f41682503ceb3055bb51b06fc37a11956c02aa3b</id>
+  <place_id>ChIJd3WPLipamhQR662JSccoJ6I</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>ΚΑΝΕΤΟΥ, Μ.,   ΣΙΑ Ο.Ε.  TOURIST CAR </name>
+  <vicinity>34 25th Avgoustou, Irakleio, 71202</vicinity>
+  <type>car_rental</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3413590</lat>
+    <lng>25.1348830</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBhgAAAEmQhBgal53W1jtXMt_r_AHwWAJCj_B26m13dMyJxDS8eEJyT4LcRC88rc1PhbsI9fMmlsFYVMihkpOkkrghUOb2mOD5dYn3UOYGyznq-3dAnodUqdn0RqLCvXETgzTmp6eQPYwkOa0tfjbDLcNgSP3HY8fxm9jahYh1NGb0NsSYsChQH6WquDbUMHqKDg8bdhIQ2a-RnU6IoiqHMHZHnBH8LhoUh3hrhA0eSGS63gxQ5_Qsr2gr7W4</reference>
+  <id>899008495d0b16f649ccaf4ec8ea20fdd5c16d32</id>
+  <place_id>ChIJtaq8fC5amhQRLnvgPOTZf0U</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>UNIQUE Α.Ε.</name>
+  <vicinity>Νέα Αλικαρνασσός</vicinity>
+  <type>car_rental</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3372870</lat>
+    <lng>25.1600450</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRhAAAAifNbDjdXeUz2FYcrNjd6W0DUe06jVBaRcrYRsSsT_FtLYNSRdEvRwoxjzrvmukuhLf45BjIWMgksk2OytZcps4YC6yvQZhLv4Tpqw5pbjqsqS6T4z-6-TghsoCpvyQZQHTq0UoZCCucWVtzE1n052BIQgVn_7kbhwdH__ckgaHVbCRoU1YZvGIpUeyj5RpT0UCtyhhqH7Eo</reference>
+  <id>ebbaef7e837e75cbb620c1e808f6660b2af6c6b1</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBeQAAALX5eYtNA0frK0TeeB9OitKDrX2aNu2utfSlRKRV50-Yb-HYa_BA_vWZ-79SAE4QW3kMA5dxDzCpW-LIyhotXDwiv1r1yxbof5Ie63yIak-4-3zom7bagPJ9AlXjLNEHyVOmqqs0MtaeL2SApTSW0jMj9lwG9wLi4vCDsGYemH-qEhCaX5-UCwiMc72dAMVfXWvIGhT5khhvFgAHeHVOLeLm3zaQL5jo2Q</photo_reference>
+   <width>500</width>
+   <height>500</height>
+  </photo>
+  <place_id>ChIJ_1yrItJbmhQR4Xp0Ozdl0PU</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>MCar Rental Crete</name>
+  <vicinity>Μονής Αρετίου 5, Ηράκλειο</vicinity>
+  <type>car_rental</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3305990</lat>
+    <lng>25.1381070</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRlAAAAlOCV0wuA9Iu-tAKdbwR-yyQ60eDikVwpvMDuzlIQ-T2JerZdG-vOeRd6jjCI-W5JAPt7nqQH2KVT9lGmmK484t5IQRHqTDKNoP7HOfWb4sYGbql0tMsGnKQ18bUNKJ3JWENNBBgnAuEruQ-tKLAOphIQ3iD-HyAgplcHZDcVLoG-rBoULbV7WW9SrSoEXcpL-rVWp4GojfI</reference>
+  <id>dd3f9047a5effbc8b20de95498b68e63e87cf9b3</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAZkL2NNbNHp3kTPnm93bxoeuw_RFmn_Dc6j49asjyFX0IcBeNHp8s22Kg0DTI-iWVevWDbTXiu8OQ86JIEzHQ42s_fyT8eVLhYSL766aZgSWWpLFkghjVP137348ItZpntIe3RfH7yJi25emtL_MDmRIQcNJAOGhKnvHKaKqR6ddo_BoUTC_v4nyIkAjIWGlbt4X1A-v7HnI</photo_reference>
+   <width>256</width>
+   <height>256</height>
+  </photo>
+  <place_id>ChIJv8Ev-oBZmhQR0wxDIlfGRpA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

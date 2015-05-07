@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>ΦΟΡΟΛΥΣΕΙΣ - ΛΟΓΙΣΤΙΚΟ ΓΡΑΦΕΙΟ</name>
+  <vicinity>712 02, Αρχιεπισκόπου Μακαρίου 54, Ηράκλειο</vicinity>
+  <type>accounting</type>
+  <type>finance</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3412250</lat>
+    <lng>25.1237340</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBjQAAAClxFvyP_7nsGv5YpRFGPSc4cPcg_8GGE-aveJl6oEL_Fd_zVGPiDd7gpTjpZkeHGzQgtO0KeTVwkSMc3-e_c6u4dsnzSmTsBKfsujZ7CZ81y2oQDLyGf5F3O2OFQ5E4HPvt32cmNcaCXEvN1OKBrAhKdByoyPFyqwtfjMxctHcNOxXaevY0alQhSx5enZnCuBIQG0NsGqHDSiblak-w2tCw1hoUA9w4vh1u4j0yMM4gJo-vA3VqaQg</reference>
+  <id>77e724ec04bd3956e3828332877921a3d8be3fa6</id>
+  <place_id>ChIJi-OiACRamhQRFg_yjfI_JcI</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

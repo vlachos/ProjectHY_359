@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Cine Studio</name>
+  <vicinity>Leoforos Ikarou, Ηράκλειο Κρήτης</vicinity>
+  <type>movie_theater</type>
+  <type>food</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3384310</lat>
+    <lng>25.1585220</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png</icon>
+  <reference>CmReAAAAg0v9EzMOXXiM91BRaz7qOUlLG0kAGiG-FEnCvJy6xTGR8pprRiCoaekU0QXL2Sx1elymaRj2ZfD0-WHCzrazhW3tJVGj_64Ba9frNZV-aj1EXVeC5qvhSYyw7NDFA9CFEhBlN6en5jsBZp1OQ2GhxfvNGhTlllPu7phzW7n1rV_NKHsKJqOIew</reference>
+  <id>e9e9a2d73aedac3e68b9ebd2839216bc598c6c3c</id>
+  <photo>
+   <photo_reference>CnRnAAAAloUNMq_9IBimxA8Ow6VnH2E4kopJ6JAe7GIZ3b3WqoZ4GmbhT0Q63e6kOSZUnhuEPq6GmveJc91u3YhTHJul3b8Ajg-8ShJ1UOMQxZ1fdHSKy6V8cilccJUbqsHNg6QZ5IUuxEQuu8PKcYdvai9BsxIQwSkUxqehLStRdRQ9dm-zTxoUxpvKbGcJ8hWlN3XR9kmDjQKIAmA</photo_reference>
+   <width>300</width>
+   <height>359</height>
+  </photo>
+  <place_id>ChIJI6KdssRbmhQRzYW4Le9vC0Q</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Βιτσέντζος Κορνάρος</name>
+  <vicinity>Μαλικούτη 18, Ηράκλειο Κρήτης</vicinity>
+  <type>movie_theater</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3407800</lat>
+    <lng>25.1369050</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png</icon>
+  <reference>CoQBeAAAAKMSUgSmj5mQT5juFy38Ixx9v1eS4kEcgE7_e-oZ9ZATNdhRaRf1H3ycxGiJaDMLuBSDr9h9oAf0vg3I5DtJfT6LCN_IpMQZaicacegpNBJi1how7A3cOz6FU9m3rPjVrCELRjzNuuZYtNy0DGNexaglSlTP9WTvx_Wa_Kgusu-4EhAsm_qYi6Q9e0kEHLKhjsU0GhQ3ccNgRlTnzNh-EPpaw56tCZI9rQ</reference>
+  <id>2ab855dccc4280740b6f01de4706a804924eaa64</id>
+  <photo>
+   <photo_reference>CnRnAAAAjZh81kYZoC_byn0WPZRlMXvKsb19elTA3Uidydxo8fapLX3XyjbeFWPq_0MRUkFoNpr0fn7l0IlUQhCwZ-fWqgIqZzid9xxY8Py01ktp8dO-f28EbG7-qZHHmgMz7--TTIRvGJ5iUs95d7PT_FWh4BIQj8RVMxbADDfbNrN4o-LCExoUT2zcflW4Kbc0-v9vpTgPWbj6EtE</photo_reference>
+   <width>500</width>
+   <height>400</height>
+  </photo>
+  <place_id>ChIJvxHCyi1amhQR9Z4R2dAkjSQ</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Κινηματογράφος Κρόνος</name>
+  <vicinity>Νηρέως 12, Ηράκλειο</vicinity>
+  <type>movie_theater</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3377950</lat>
+    <lng>25.1463210</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png</icon>
+  <reference>CoQBfQAAACLpsXzn_BnoVLTBZjVQemfw3cL9vd5mLnmc3a6RIzXcoTLakVg0NM37LxkKjz07XusKSN2M3IzzLHfK2N2RYdTDgw95TKo3ZOq2TLDxiRQUjCYf7RdAXbkKrxU5YK8f-lh6wEzLBkuKWjAU5NXnHTeG5F97PPgu0fK8Vicwo5H-EhAA99pmPAr6Rgz49cbDkuWtGhTHUh6YKnFYkfVy6LgUPfv73pIpOA</reference>
+  <id>ec85bda8584b00b85aaefa19538914d1b3fb34c7</id>
+  <place_id>ChIJ5Qa_xdNbmhQRQFvNBuqlY6w</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Ahmotiko Koimhthpio</name>
+  <vicinity>Μουσών, Ηράκλειο</vicinity>
+  <type>cemetery</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3338460</lat>
+    <lng>25.1639040</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRnAAAAKcqBhc305hn8P3MbfiE4Y0ccT0CcijtMo9Fhgub0FUWkVv5DL_mh6lWirt0NRbAnbh5STiTJWKtFhOUoaaFvoyBhUUaALM2WQ9lwmZGVqLRCbrRK9Oo8ptEOvX4PlpY_7uMPvMrznsm6VZ7xMRMAyhIQS-cfGMGe84g1LeyKAXoqJBoUmRB4InVv51NmV6PtucLAM1uRmxA</reference>
+  <id>eac6e78e7936b4c0814cae77ea76d568f146150d</id>
+  <place_id>ChIJAxnzvd1bmhQRAXXz4dgDs9k</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Αρμενικό Νεκροταφείο</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>cemetery</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3384260</lat>
+    <lng>25.1148910</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBegAAAF8jVQbJvwMNaH4rud58FLYtF_GS5AqUzBoyi20KULUgTTC5yB17P0cs92LoMK_uxJnm-ZhcbhBb8H6HT_xGVHper7A3xuTGwC_jPNTVR5S2feGjElpvt6Yxdu70EqXiGqVRBJojHPtWacKa-kGr6uav0Du8Eg69SkjhsS5guHm9EhDnFwlFdyFwGTzzcGcIfx2nGhS5tJ7_9-jiuWaqRLGNKv-RPu57Gw</reference>
+  <id>1534fbd2a188435c779f24cd6566dd574e1fe470</id>
+  <place_id>ChIJ0zip0h9amhQRbUVSxTgJ7wI</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Νεκροταφείο Αγίου Ιωάννη</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>cemetery</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3180050</lat>
+    <lng>25.1525550</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBgwAAACsYla9mBoN4S3RlPMTBgZykqkNnj-pMXJLuhEVYyniWkeanEZ01OAMwLPn7e_uOK4A-THvQnKboFzzULbhfcNWkPLuXMU-1DtJDp_EIla3P61DSuAx5CeHvgst8-ETsFSTCOUVpWr89wP5GW5BfydqFteeZCT-tPHuzd74Xtx0RFQZBt6SQkOAiDeSv9b16zBIQwHrfbSgijAJLROhqbDwiphoUegMjOsXsE2UwPUzoTvNKqsgvA10</reference>
+  <id>d363a63ed3448e091625b9963d70298393c0fd68</id>
+  <place_id>ChIJ3dDAHnBZmhQREUyXvhObZME</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Νεκροταφείο Κατσαμπά</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>cemetery</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3305040</lat>
+    <lng>25.1532500</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBegAAAN4mpCoLUfMjWgoEgIMV8lzN7AFp7mvTBO8NEQttDdGQ_TBMfeOlsKvYHy-htnLOMlNjqHLvFgcvohfd-bevXD6tylwT32stCGqv9eDEYhfFXHBxrfloj5EwXoourXNd9c3E0EVIdaCcj8OmRihvADgTWi3T4qjqh3DODVXxyZVXEhB2NemxU6fJvtXtrFXTtJwCGhS-CydiDNb60BMn1DJNly6oWk17Bg</reference>
+  <id>b33ef6e4a7523764ca378fb6a07260749f19241a</id>
+  <place_id>ChIJV3hU9tdbmhQRMw5JkVBvAjA</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+ <result>
+  <name>Νeo Κoimhthpio</name>
+  <vicinity>Ηράκλειο</vicinity>
+  <type>cemetery</type>
+  <type>establishment</type>
+  <geometry>
+   <location>
+    <lat>35.3201160</lat>
+    <lng>25.1594060</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRjAAAAeJ-AEVxGrr1_ZK8wckV2d142-FBtwx3HPK0f6eZx_OCjm7AcRHAGhrFg5lHHIxfRejwfisF5dP3GWtd30i5ciRzBFtGPrT5ZbtBXHfJMYD0-BmEFmThilQt9FiYC_nDWuh8gYNObSylPsvTDiQFzGxIQmmNWEI7cdjXk0uYYWY6dZhoU00QFwaq3d2Rp9ovcHWcmMJwtCA4</reference>
+  <id>e080b6859ccec8a6ba0090e4d08d88c6c6d058d3</id>
+  <place_id>ChIJlV4tgGZZmhQRzz3bQzXAJFs</place_id>
+  <scope>GOOGLE</scope>
+ </result>
+</PlaceSearchResponse>
