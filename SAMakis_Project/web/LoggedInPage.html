@@ -1,65 +1,92 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>LoggedInPage</title>
-		<link rel="stylesheet" href="CSS/loggedinpage.css">
-		<script src="http://maps.googleapis.com/maps/api/js"></script>
-		<script type="text/javascript" src="JS/functions.js"></script>
-	</head>
-	<body>
+    <head>
+        <title>LoggedInPage</title>
+        <link rel="stylesheet" href="CSS/LoggedInPage.css">
+        <script src="http://maps.googleapis.com/maps/api/js"></script>
+        <script type="text/javascript" src="JS/MapInit.js"></script>
+    </head>
+    <body>
 
-		<header>
-			<div id="logo">
-				<h1>Shopping Assistant Manager</h1>
-			</div>
-			<div id="user_container">
-				<form>
-					<br>
-					<p><a href="">User Makis Makoulis</a></p>
-				</form>
-			</div>
-		</header>
+        <header>
+            <div id="logo">
+                    <h1>Shopping Assistant Manager</h1>
+            </div>
+            <div id="user_container">
+                    <form>
+                            <br>
+                            <p><a href="">User Makis Makoulis</a></p>
+                    </form>
+            </div>
+        </header>
 
-		<nav>
-			<a class="invisible" href="/html/">My Account</a>
-			<a class="invisible" href="/css/">Favorites</a>
-			<a class="invisible" href="/js/">Shopping List</a>
-			<a class="invisible" href="/js/">My Ratings</a>
-		</nav>
+        <nav>
+            <a class="invisible" href="/html/">My Account</a>
+            <a class="invisible" href="/css/">Favorites</a>
+            <a class="invisible" href="/js/">Shopping List</a>
+            <a class="invisible" href="/js/">My Ratings</a>
+        </nav>
 
-		<section>
-			<h1>Categories</h1>
-			<ul>
-			  <li><a href="#">food</a></li>
-			  <li><a href="#">coffee</a></li>
-			  <li><a href="#">car</a></li>
-			  <li><a href="#">gas</a></li>
-			  <li><a href="#">shoes</a></li>
-			  <li><a href="#">clothes</a></li>
-			  <li><a href="#">bakery</a></li>
-			  <li><a href="#">super-market</a></li>
-			  <li><a href="#">atm</a></li>
-			</ul>
-		</section>
+        <section>
+            <h1>Categories</h1>
+            <ul>
+              <li><a href="#">food</a></li>
+              <li><a href="#">coffee</a></li>
+              <li><a href="#">car</a></li>
+              <li><a href="#">gas</a></li>
+              <li><a href="#">shoes</a></li>
+              <li><a href="#">clothes</a></li>
+              <li><a href="#">bakery</a></li>
+              <li><a href="#">super-market</a></li>
+              <li><a href="#">atm</a></li>
+            </ul>
+        </section>
 
-		<aside>
-			<div id="aside_conteiner">
-				<div id="aside_search">
-					<input id="search_input" type="search" name="query" placeholder="Search here..."><input id="search_button" type="submit" value="Search">
-				</div>
-				<div id="aside_map">
-					<div id="googleMap"></div>
-				</div>
-			</div>
-		</aside>
+        <aside>
+            <div id="aside_conteiner">
+                <div id="aside_search">
+                        <input id="search_input" type="search" name="query" placeholder="Search here..."><input id="search_button" type="submit" value="Search">
+                </div>
+                <div id="aside_map">
+                        <div id="googleMap"></div>
+                </div>
+            </div>
+        </aside>
 
-		<div id="section2">
-			<iframe src="http://www.deltiokairou.gr/gr/weather/limania/irakleioy/irakleioy/" name="frame" id="frame"></iframe>
-		</div>
+        <div id="section2">
+            <div id="result2">
+                    <h2>RESULTS</h2>
+            </div>
+            <div id="scrolled_container">
+                    <div class="result">
+                            <div class="res_name">
+                                    shop1
+                            </div>
+                            <div class="res_content">
+                                    descreption1
+                            </div>
+                    </div>
+                    <div class="result">
+                            <div class="res_name">
+                                    shop2
+                            </div>
+                            <div class="res_content">
+                                    description2
+                            </div>
+                    </div>
+                    <div class="result">
+                            <div class="res_name">
+                                    shop3
+                            </div>
+                            <div class="res_content">
+                                    descreprion3
+                            </div>
+                    </div>
+            </div>
+        </div>
 
-		<footer>
-			<small>&copy; Copyright 2015, BAZ - BOCCITO</small>
-		</footer>
-
-	</body>
+        <footer>
+            <small>&copy; Copyright 2015, BAZ - BOCCITO</small>
+        </footer>
+    </body>
 </html>

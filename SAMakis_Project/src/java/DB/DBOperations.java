@@ -3,11 +3,14 @@ package DB;
 import Parser.SAXHandler;
 import java.sql.Connection;
 import java.sql.DriverManager;
+import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import org.json.JSONArray;
+import org.json.JSONObject;
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -24,6 +27,21 @@ public class DBOperations {
    private static final String DB_URL = "jdbc:derby://localhost:1527/SAMakisDB";
    private Connection conn = null;
    private Statement stmt = null;
+   
+   public static JSONArray convertToJSON(ResultSet resultSet)
+            throws Exception {
+        JSONArray jsonArray = new JSONArray();
+        while (resultSet.next()) {
+            int total_rows = resultSet.getMetaData().getColumnCount();
+            JSONObject obj = new JSONObject();
+            for (int i = 0; i < total_rows; i++) {
+                obj.put(resultSet.getMetaData().getColumnLabel(i + 1)
+                        .toLowerCase(), resultSet.getObject(i + 1));
+            }
+            jsonArray.put(obj);
+        }
+        return jsonArray;
+    }
    
    private void ConnectToDB(){
        try {
@@ -61,25 +79,34 @@ public class DBOperations {
         SAXHandler hand = new SAXHandler();
         ArrayList<Shop> shops = hand.GetShopsInArrayListFromXML();
         String sql = null;
-        int id = 0;
+        int categ_id = 0;
         
         ConnectToDB();
         stmt = conn.createStatement();
         for(int i=0; i<shops.size(); ++i){
-            for(int j=0; j<shops.get(i).getCategory().size(); ++j){
-                sql = "INSERT INTO SHOPS " +
+            sql = "INSERT INTO SHOPS " +
                      "VALUES (" + 
-                     id + "," +
+                     i + "," +
                      "'" + shops.get(i).getName() + "'," +
-                     "'" + shops.get(i).getCategory().get(j) + "'," +
                      Double.parseDouble(shops.get(i).getLng()) + "," +
                      Double.parseDouble(shops.get(i).getLat()) + "," +
-                     "'" + shops.get(i).getAddress() + "')";
+                     "'" + shops.get(i).getAddress() + "'," + 0 + ")";
 
 
                    stmt.executeUpdate(sql);
-                   System.out.println("OK " + id);
-                   id++;
+                   //System.out.println("SHOP_ID: " + i);
+            for(int j=0; j<shops.get(i).getCategory().size(); ++j){
+                sql = "INSERT INTO CATEGORIES " +
+                     "VALUES (" + 
+                     categ_id + "," +
+                     i + "," +
+                     "'" + shops.get(i).getCategory().get(j) + "')";
+
+
+                   stmt.executeUpdate(sql);
+                   //System.out.println("CAT_ID: " + categ_id);
+                   categ_id++;
+                
             }
         }
         DisconnectFromDB();
@@ -97,6 +124,24 @@ public class DBOperations {
        
        System.out.println("Inserted records into the table...");
        DisconnectFromDB();
+   }
+   
+   public ResultSet GetShopsByCategory(String shopCategory) throws SQLException{
+       //ArrayList<Shop> shops = new ArrayList<Shop>();
+       
+       ConnectToDB();
+       stmt = conn.createStatement();
+       //String sql = "SELECT ID_IN_SHOPS, CATEGORY FROM APP.CATEGORIES WHERE CATEGORY='"+shopCategory+"'";
+       
+       String sql = "select name, category, lng, lat, address, views " +
+             "from APP.SHOPS, APP.CATEGORIES" +
+             " WHERE APP.CATEGORIES.CATEGORY='"+shopCategory+"'"+ "and" +
+             " APP.SHOPS.ID = APP.CATEGORIES.ID_IN_SHOPS";
+       
+       
+       ResultSet rs = stmt.executeQuery(sql);
+       
+       return rs;
    }
    
    public void InsertUserInDB(){

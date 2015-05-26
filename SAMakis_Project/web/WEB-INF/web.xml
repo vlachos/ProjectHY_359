@@ -16,6 +16,10 @@
         <servlet-name>SearchServlet</servlet-name>
         <servlet-class>Servlets.SearchServlet</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>ShopsByCategoryServlet</servlet-name>
+        <servlet-class>Servlets.ShopsByCategoryServlet</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>NewServlet</servlet-name>
         <url-pattern>/NewServlet</url-pattern>
@@ -31,6 +35,10 @@
     <servlet-mapping>
         <servlet-name>SearchServlet</servlet-name>
         <url-pattern>/SearchServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>ShopsByCategoryServlet</servlet-name>
+        <url-pattern>/ShopsByCategoryServlet</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>

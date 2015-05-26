@@ -92,7 +92,8 @@ public class SAXHandler extends DefaultHandler {
        shop.setName(content);
        break;
      case "type" :
-       shop.getCategory().add(content);
+       if(content.equals("establishment")==false)
+        shop.getCategory().add(content);
        break;
      case "lng":
         shop.setLng(content);

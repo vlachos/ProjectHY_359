@@ -1,68 +1,92 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Homepage</title>
-		<link rel="stylesheet" href="CSS/homepage.css">
-		<script src="http://maps.googleapis.com/maps/api/js"></script>
-		<script type="text/javascript" src="JS/functions.js"></script>
-	</head>
-	<body>
+    <head>
+            <title>Homepage</title>
+            <link rel="stylesheet" href="CSS/Homepage.css">
+            <link rel="stylesheet" href="CSS/SignUp.css">
+            <script src="http://maps.googleapis.com/maps/api/js"></script>
+            <script type="text/javascript" src="JS/lib/jquery.js"></script>
+            <script type="text/javascript" src="JS/MapInit.js"></script>
+            <script type="text/javascript" src="JS/SignUp.js"></script>
+            <script type="text/javascript" src="JS/Categories_Functions.js"></script>
+            <script type="text/javascript" src="JS/Results_Functions.js"></script>
+    </head>
+    <body>
+        <div id="popup_container" style="overflow:hidden;">
+            <div id="abc">
+            <!-- Popup Div Starts Here -->
+                <div id="popupContact">
+                <!-- Contact Us Form -->
+                    <form action="#" id="popup_form" method="post" name="form">
+                        <img id="close_b" src="icons/close_icon.png">
+                        <h2>Sign up</h2>
+                        <hr>
+                        <input class="input_text" name="username" placeholder="Give new userame" type="text">
+                        <input class="input_text" name="email" placeholder="Give your email" type="text">
+                        <input class="input_text" type="password" name="password" placeholder="Give your password">
+                        <input class="input_text" type="password" name="repassword" placeholder="Retype your password">
+                        <button id="popup_submit">Submit</button>
+                    </form>
+                </div>
+                <!-- Popup Div Ends Here -->
+            </div>
+        </div>
+        <header>
+            <div id="logo">
+                <h1>Shopping Assistant Manager</h1>
+            </div>
+            <div id="login_container">
+                <form action="LoginServlet">
+                    <br>
+                    <input class="input_text" type="text" name="username" placeholder="username">
+                    <input class="input_text" type="password" name="psw" placeholder="password">
+                    <input type="submit" value="Sign in">
+                    <p><a href="" id="popup_open_new_account">I have not an account</a></p>
+                </form>
+            </div>
+        </header>
+        <nav>
 
-		<header>
-			<div id="logo">
-				<h1>Shopping Assistant Manager</h1>
-			</div>
-			<div id="login_container">
-				<form action = "LoginServlet" method = "get">
-					<br>
-					<input class="input_text" type="text" name="username" placeholder="username">
-					<input class="input_text" type="password" name="psw" placeholder="password">
-					<input type="submit" value="Sign in">
-					<p><a href="http://www.w3schools.com/html/">I have not an account</a></p>
-				</form>
-			</div>
-		</header>
+        </nav>
 
-		<nav>
-			<a class="invisible" href="/html/">My Account</a>
-			<a class="invisible" href="/css/">Favorites</a>
-			<a class="invisible" href="/js/">My Ratings</a>
-		</nav>
+        <section>
+            <h1>Categories</h1>
+            <ul>
+                <li><a class="menu-select-shop" target-category="food" href="#">food</a></li>
+                <li><a class="menu-select-shop" target-category="coffee" href="#">coffee</a></li>
+                <li><a class="menu-select-shop" target-category="car" href="#">car</a></li>
+                <li><a class="menu-select-shop" target-category="gas" href="#">gas</a></li>
+                <li><a class="menu-select-shop" target-category="shoes" href="#">shoes</a></li>
+                <li><a class="menu-select-shop" target-category="clothes" href="#">clothes</a></li>
+                <li><a class="menu-select-shop" target-category="bakery" href="#">bakery</a></li>
+                <li><a class="menu-select-shop" target-category="super" href="#">super-market</a></li>
+                <li><a class="menu-select-shop" target-category="atm" href="#">atm</a></li>
+            </ul>
+        </section>
 
-		<section>
-			<h1>Categories</h1>
-			<ul>
-			  <li><a href="#">food</a></li>
-			  <li><a href="#">coffee</a></li>
-			  <li><a href="#">car</a></li>
-			  <li><a href="#">gas</a></li>
-			  <li><a href="#">shoes</a></li>
-			  <li><a href="#">clothes</a></li>
-			  <li><a href="#">bakery</a></li>
-			  <li><a href="#">super-market</a></li>
-			  <li><a href="#">atm</a></li>
-			</ul>
-		</section>
+        <aside>
+            <div id="aside_conteiner">
+                <div id="aside_search">
+                    <input id="search_input" type="search" name="query" placeholder="Search here..."><input id="search_button" type="submit" value="Search">
+                </div>
+                <div id="aside_map">
+                    <div id="googleMap"></div>
+                </div>
+            </div>
+        </aside>
 
-		<aside>
-			<div id="aside_conteiner">
-				<div id="aside_search">
-					<input id="search_input" type="search" name="query" placeholder="Search here...">
-                                        <input id="search_button" type="submit" value="Search">
-				</div>
-				<div id="aside_map">
-					<div id="googleMap"></div>
-				</div>
-			</div>
-		</aside>
+        <div id="section2">
+            <div id="result2">
+                <h2>RESULTS</h2>
+            </div>
+            
+            <div id="scrolled_container">
+                
+            </div>
+        </div>
 
-		<div id="section2">
-			<iframe src="http://www.deltiokairou.gr/gr/weather/limania/irakleioy/irakleioy/" name="frame" id="frame"></iframe>
-		</div>
-
-		<footer>
-			<small>&copy; Copyright 2015, BAZ - BOCCITO</small>
-		</footer>
-
-	</body>
+        <footer>
+            <small>&copy; Copyright 2015, BAZ - BOCCITO</small>
+        </footer>
+    </body>
 </html>

@@ -1,4 +1,5 @@
 body {
+	background-color: #4D70B8;
 	margin: 0px;
 	padding: 0px;
 	margin: 0px;
@@ -60,20 +61,20 @@ nav{
 
 nav a{
 	display: none;
-	color: #FFFFFF;
 }
 
 section {
 	width: 15%;
 	height: 500px;
 	margin-top: -50px;
-	background-color: #00246B;
+	background-color: #4D70B8;
+	border-right:1px #777777 solid;
 }
 
 section h1{
 	text-align: center;
 	color: #777777;
-    text-shadow: 2px 2px #000000;
+        text-shadow: 2px 2px #000000;
 }
 
 section ul li a{
@@ -86,6 +87,7 @@ aside{
 	margin-top: -470px;
 	margin-left: 15%;
 	background-color: #4D70B8;
+	border-left:1px #777777 solid;
 }
 
 .input_text{
@@ -103,44 +105,73 @@ a.invisible {
 	display: block;
 }
 
-#aside_logo {
-	width: 70%;
-	height: 70px;
-	margin-left: 15%;
-	background-color: purple;
-}
-
 #aside_search {
-	margin-left: 18px;
-	padding-top: 10px;
+	z-index: 50;
+	margin-left: 8%;
+	padding-top: 30px;
+	position:fixed;
+	width: 35%;
+	height: 10%;
+	display: inline;
 }
 
 #search_input{
-	width: 85%;
+	width: 80%;
+	height: 40%;
 }
 
 #search_button{
-	width: 12.5%;
+	width: 20%;
+	height: 40%;
 }
 
 #googleMap {
-	width:95%;
-	height:420px;
-	margin-left: 2.5%
+	width:100%;
+	height:470px;
 }
 
 #section2 {
 	background-color: #4D70B8;
 	width: 35%;
-	height: 470px;
+	height: 451px;
 	margin-left: 65%;
-	margin-top: -470px
+	margin-top: -490px;
+	display: block;
+	
 }
 
-#section2 iframe {
-	width: 95%;
-	height:436.50px;
-	margin-top: 10px;
+#section2 div h2{
+	text-align: center;
+	padding-top: 10px;
+	background-color: graytext;
+	border-bottom:2px #777777 solid;
+}
+
+#scrolled_container{
+	float: right;
+	width:100%;
+	overflow-y: auto;
+	height: 431px;
+	margin-top: -20px;
+	display: block;
+}
+
+#scrolled_container .result{
+	display: block;
+	width: 100%;
+	height: 150px;
+	border-bottom:2px #000000 solid;
+}
+
+#scrolled_container .result .res_name{
+	background-color: whitesmoke;
+	height: 60px;
+	border-bottom:1px #777777 solid;
+}
+
+#scrolled_container .result .res_content{
+	background-color: white;
+	height: 90px;
 }
 
 footer{
@@ -148,4 +179,11 @@ footer{
 	width:100%;
 	height: 43px;
 	text-align: center;
+	margin-top: 19px;
 }
+
+/**   blured window,prepei na mpei se
+#section2 {     
+    -webkit-filter: blur(10px);     
+    filter: blur(10px);      
+}*/
