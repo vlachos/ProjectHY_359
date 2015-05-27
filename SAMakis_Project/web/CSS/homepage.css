@@ -81,6 +81,20 @@ section ul li a{
     color: #FFFFFF;
 }
 
+#categories_scrolled_container{
+    overflow-y:auto;
+    width:110%;
+    display: block;
+    height: 430px;
+    margin-left:-30px; 
+    direction: rtl;
+    text-align: left;
+}
+
+#categories_scrolled_container li{
+    margin-left: 10px;
+}
+
 aside{
 	width:50%;
 	height:470px;
