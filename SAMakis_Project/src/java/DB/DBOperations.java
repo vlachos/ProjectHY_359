@@ -28,37 +28,7 @@ public class DBOperations {
    private Connection conn = null;
    private Statement stmt = null;
    
-   public static JSONArray convertToJSON(ResultSet resultSet)
-            throws Exception {
-        JSONArray jsonArray = new JSONArray();
-        while (resultSet.next()) {
-            int total_rows = resultSet.getMetaData().getColumnCount();
-            JSONObject obj = new JSONObject();
-            for (int i = 0; i < total_rows; i++) {
-                obj.put(resultSet.getMetaData().getColumnLabel(i + 1)
-                        .toLowerCase(), resultSet.getObject(i + 1));
-            }
-            jsonArray.put(obj);
-        }
-        return jsonArray;
-    }
-   
-   public  ArrayList<Shop> MakeShopsUnicByCoords(ArrayList<Shop> shops){
-       int counter = 0;
-       for(int i=0; i<shops.size(); i++){
-           for(int j=i+1; j<shops.size(); j++){
-               if(shops.get(i).getLat().equals(shops.get(j).getLat()) && 
-                  shops.get(i).getLng().equals(shops.get(j).getLng()) &&
-                  shops.get(i).getName().equals(shops.get(j).getName())){
-                  counter++;
-                  //System.out.println(counter+") "+shops.get(i).getName()+" = "+shops.get(j).getName());
-                  shops.remove(j);
-               }
-           }
-       }
-       return shops;
-   }
-   
+   /*DB general methods*/
    private void ConnectToDB(){
        try {
            Class.forName(JDBC_DRIVER);
@@ -89,6 +59,39 @@ public class DBOperations {
         }
 
    }
+   
+   public static JSONArray convertToJSON(ResultSet resultSet)
+            throws Exception {
+        JSONArray jsonArray = new JSONArray();
+        while (resultSet.next()) {
+            int total_rows = resultSet.getMetaData().getColumnCount();
+            JSONObject obj = new JSONObject();
+            for (int i = 0; i < total_rows; i++) {
+                obj.put(resultSet.getMetaData().getColumnLabel(i + 1)
+                        .toLowerCase(), resultSet.getObject(i + 1));
+            }
+            jsonArray.put(obj);
+        }
+        return jsonArray;
+    }
+   
+   /*DB Shops methods*/
+   public  ArrayList<Shop> MakeShopsUnicByCoords(ArrayList<Shop> shops){
+       int counter = 0;
+       for(int i=0; i<shops.size(); i++){
+           for(int j=i+1; j<shops.size(); j++){
+               if(shops.get(i).getLat().equals(shops.get(j).getLat()) && 
+                  shops.get(i).getLng().equals(shops.get(j).getLng()) &&
+                  shops.get(i).getName().equals(shops.get(j).getName())){
+                  counter++;
+                  //System.out.println(counter+") "+shops.get(i).getName()+" = "+shops.get(j).getName());
+                  shops.remove(j);
+               }
+           }
+       }
+       return shops;
+   }
+   
 
    public void InitShopsfromXML() throws SQLException{
 
@@ -160,13 +163,78 @@ public class DBOperations {
        
        
        ResultSet rs = stmt.executeQuery(sql);
+       DisconnectFromDB();
        
        return rs;
    }
    
+   /*DB Users methods*/
+   
    public void InsertUserInDB(){
    
    }
+   
+   public boolean UserExists(String username) throws SQLException{
+       boolean exists;
+       
+       ConnectToDB();
+       stmt = conn.createStatement();
+       
+       String sql = "select username from APP.USERS WHERE username='"+username+"'";       
+       
+       ResultSet rs = stmt.executeQuery(sql);
+       exists = rs.next(); 
+       System.out.println(exists);
+       DisconnectFromDB();
+       
+       return exists;
+   }
+   
+   public boolean checkLogin(String username, String password) throws SQLException{
+       boolean exists;
+       
+       ConnectToDB();
+       stmt = conn.createStatement();
+       
+       String sql = "select username, password from APP.USERS WHERE username='"+username+"'"+" and password='"+password+"'";       
+       
+       ResultSet rs = stmt.executeQuery(sql);
+       exists = rs.next();
+       System.out.println(exists);
+       DisconnectFromDB();
+       
+       return exists;
+   }
+   
+   public ResultSet GetFavoriteShopsByUser(String username) throws SQLException{
+       
+       ConnectToDB();
+       stmt = conn.createStatement();
+       
+       String sql = "";       
+       
+       ResultSet rs = stmt.executeQuery(sql);
+       //System.out.println(rs.next());
+       
+       DisconnectFromDB();
+       
+       return rs;
+   }
+   
+   public ResultSet GetShoppingListByUser(String username) throws SQLException{
+       ConnectToDB();
+       stmt = conn.createStatement();
+       
+       String sql = "";       
+       
+       ResultSet rs = stmt.executeQuery(sql);
+       //System.out.println(rs.next());
+       
+       DisconnectFromDB();
+       
+       return rs;
+   }
+   
    
    
 }
