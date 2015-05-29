@@ -9,16 +9,22 @@ $( document ).ready( function() {
             evt.preventDefault();
             var username = $('[name=signin_username]').val();
             var password = $('[name=psw]').val();
+            console.log(username,password);
             if(!username||!password){
                 alert("Empty sign in fields!");
             }
             else{
-                console.log(username,password);
+                
                 $.get( 'http://localhost:8084/SAMakis_Project/LoginServlet' + '?username=' + username + '&password=' + password,function(data){ 
                     console.log(data.message);
-                    //$('#login_form').hide();
-                    //$('nav a').css('display','inline');
-                    //$('#login_container').append("<h2 href=\"\">Welcome "+username+",</h2><a id=\"logout\" href=\"\">(logout)</a>");
+                    if(data.message===true){
+                        $('#login_form').hide();
+                        $('nav a').css('display','inline');
+                        $('#login_container').append("<h2 href=\"\">Welcome "+username+",</h2><a id=\"logout\" href=\"\">(logout)</a>");
+                    }
+                    else{
+                        alert("Incorrect username or password!");
+                    }
                 });
             }
     });
