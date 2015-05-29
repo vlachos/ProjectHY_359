@@ -7,6 +7,7 @@
             <script src="http://maps.googleapis.com/maps/api/js"></script>
             <script type="text/javascript" src="JS/lib/jquery.js"></script>
             <script type="text/javascript" src="JS/mapInit.js"></script>
+            <script type="text/javascript" src="JS/signIn.js"></script>
             <script type="text/javascript" src="JS/signUp.js"></script>
             <script type="text/javascript" src="JS/categories_Functions.js"></script>
             <script type="text/javascript" src="JS/results_Functions.js"></script>
@@ -35,18 +36,20 @@
             <div id="logo">
                 <h1>Shopping Assistant Manager</h1>
             </div>
+            
             <div id="login_container">
-                <form action="LoginServlet">
+                <form id="login_form">
                     <br>
-                    <input class="input_text" type="text" name="username" placeholder="username">
+                    <input class="input_text" type="text" name="signin_username" placeholder="username">
                     <input class="input_text" type="password" name="psw" placeholder="password">
-                    <input type="submit" value="Sign in">
+                    <button id="signin_btn" type="submit" value="Sign in">Sign in</button>
                     <p><a href="" id="popup_open_new_account">I have not an account</a></p>
                 </form>
             </div>
         </header>
         <nav>
-
+            <a class="invisible" href="#">Favorite shops</a>
+            <a class="invisible" href="#">Shopping List</a>
         </nav>
 
         <section>

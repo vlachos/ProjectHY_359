@@ -6,9 +6,20 @@ $(document).ready( function() {
 		var password = $( '#popup_form [name="password"]' ).val();
 		var repassword = $( '#popup_form [name="repassword"]' ).val();
 		if( !username || !email || !password || !repassword ) {
-			alert("Fill All Fields !");
+                    alert("Fill All Fields !");
 		}
-
+                else if(password!==repassword){
+                    alert("Passwords are different !");
+                }
+                else{
+                    alert("Sign up was successful!!!!!");
+                }
+                
+                $.get( 'http://localhost:8084/SAMakis_Project/SignUpServlet' + '?username=' + username + '&email=' + email + '&password=' + password );
+/*
+ * na sumplhrwthei gia periptwsh pou petyxe h oxi to sign up
+ * 
+ */
 	} );
 
 	$( '#popup_open_new_account' ).click( function( evt ) {

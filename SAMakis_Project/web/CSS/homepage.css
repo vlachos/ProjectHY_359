@@ -48,8 +48,20 @@ header {
 	color: #FFFFFF;
 }
 
+#login_container h2{
+    color: #FFFFFF;
+}
+
+#login_container a{
+    color: #FFFFFF;
+}
+
 .input_text{
 	margin-top: 5px;
+}
+
+#signin_btn{
+    width:25%;
 }
 
 nav{
@@ -61,6 +73,7 @@ nav{
 
 nav a{
 	display: none;
+        margin-left: 15%;
 }
 
 section {
@@ -203,7 +216,6 @@ footer{
 }
 
 .res_name h3{
-    text-align: center;
     margin-top:-45px; 
     margin-left: 60px;
 }
