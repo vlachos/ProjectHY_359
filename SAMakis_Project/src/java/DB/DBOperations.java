@@ -28,6 +28,22 @@ public class DBOperations {
    private Connection conn = null;
    private Statement stmt = null;
    
+   public static JSONArray convertToJSON(ResultSet resultSet)
+            throws Exception {
+       
+        JSONArray jsonArray = new JSONArray();
+        while (resultSet.next()) {
+            int total_rows = resultSet.getMetaData().getColumnCount();
+            JSONObject obj = new JSONObject();
+            for (int i = 0; i < total_rows; i++) {
+                obj.put(resultSet.getMetaData().getColumnLabel(i + 1)
+                        .toLowerCase(), resultSet.getObject(i + 1));
+            }
+            jsonArray.put(obj);
+        }
+        return jsonArray;
+    }
+   
    /*DB general methods*/
    private void ConnectToDB(){
        try {
@@ -60,20 +76,6 @@ public class DBOperations {
 
    }
    
-   public static JSONArray convertToJSON(ResultSet resultSet)
-            throws Exception {
-        JSONArray jsonArray = new JSONArray();
-        while (resultSet.next()) {
-            int total_rows = resultSet.getMetaData().getColumnCount();
-            JSONObject obj = new JSONObject();
-            for (int i = 0; i < total_rows; i++) {
-                obj.put(resultSet.getMetaData().getColumnLabel(i + 1)
-                        .toLowerCase(), resultSet.getObject(i + 1));
-            }
-            jsonArray.put(obj);
-        }
-        return jsonArray;
-    }
    
    /*DB Shops methods*/
    public  ArrayList<Shop> MakeShopsUnicByCoords(ArrayList<Shop> shops){
@@ -163,7 +165,6 @@ public class DBOperations {
        
        
        ResultSet rs = stmt.executeQuery(sql);
-       DisconnectFromDB();
        
        return rs;
    }
@@ -216,8 +217,6 @@ public class DBOperations {
        ResultSet rs = stmt.executeQuery(sql);
        //System.out.println(rs.next());
        
-       DisconnectFromDB();
-       
        return rs;
    }
    
@@ -229,8 +228,6 @@ public class DBOperations {
        
        ResultSet rs = stmt.executeQuery(sql);
        //System.out.println(rs.next());
-       
-       DisconnectFromDB();
        
        return rs;
    }
