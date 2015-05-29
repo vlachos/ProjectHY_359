@@ -53,12 +53,12 @@ public class LoginServlet extends HttpServlet {
                 json.put("love_shops", "");
                 json.put("shoping_list", "");
             
-                // finally output the json string       
-                out.print(json.toString());
             }
             else{
                 json.put("message", "false");
             }
+            // finally output the json string       
+                out.print(json.toString());
         }
     }
 
