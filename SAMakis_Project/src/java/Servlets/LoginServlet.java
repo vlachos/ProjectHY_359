@@ -38,21 +38,20 @@ public class LoginServlet extends HttpServlet {
      */
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException, SQLException, JSONException, Exception {
-        response.setContentType("application/json;charset=UTF-8");
         
         String username = request.getParameter("username");
         String password = request.getParameter("password");
-        
+        response.setContentType("application/json;charset=UTF-8");
         try (PrintWriter out = response.getWriter()) {
             DBOperations oper = new DBOperations();
             JSONObject json =new JSONObject();
             
             if(oper.checkLogin(username,password) == true){
-                JSONArray love_shops = DBOperations.convertToJSON(oper.GetFavoriteShopsByUser(username));
-                JSONArray shoping_list = DBOperations.convertToJSON(oper.GetShoppingListByUser(username));
+                //JSONArray love_shops = DBOperations.convertToJSON(oper.GetFavoriteShopsByUser(username));
+                //JSONArray shoping_list = DBOperations.convertToJSON(oper.GetShoppingListByUser(username));
                 json.put("message","true");
-                json.put("love_shops", love_shops);
-                json.put("shoping_list", shoping_list);
+                json.put("love_shops", "");
+                json.put("shoping_list", "");
             
                 // finally output the json string       
                 out.print(json.toString());
