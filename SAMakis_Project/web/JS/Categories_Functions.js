@@ -15,9 +15,10 @@ $( document ).ready( function() {
             for (var i = 0; i <data.shops.length; i++) {
                 console.log(i);    
                 $( "#scrolled_container" ).append( "<div class=\"result\">\n\
-                                                        <div class=\"res_name\">"
-                                                            +data.shops[i].name+
-                                                        "</div><div class=\"res_content\">"
+                                                        <div class=\"res_name\">\n\
+                                                            <img src=\"icons/rest_icon.png\">\n\
+                                                            <h3>"+data.shops[i].name+"</h3>"
+                                                        +"</div><div class=\"res_content\">"
                                                             +"Address: "+data.shops[i].address+"<br>"
                                                             +"Category: "+data.shops[i].category+"<br>"
                                                             +"Views: "+data.shops[i].views+"<br>"
