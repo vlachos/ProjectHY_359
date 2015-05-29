@@ -1,6 +1,6 @@
 package DB;
 
-import Parser.SAXHandler;
+import XMLParser.SAXHandler;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
@@ -43,6 +43,22 @@ public class DBOperations {
         return jsonArray;
     }
    
+   public  ArrayList<Shop> MakeShopsUnicByCoords(ArrayList<Shop> shops){
+       int counter = 0;
+       for(int i=0; i<shops.size(); i++){
+           for(int j=i+1; j<shops.size(); j++){
+               if(shops.get(i).getLat().equals(shops.get(j).getLat()) && 
+                  shops.get(i).getLng().equals(shops.get(j).getLng()) &&
+                  shops.get(i).getName().equals(shops.get(j).getName())){
+                  counter++;
+                  //System.out.println(counter+") "+shops.get(i).getName()+" = "+shops.get(j).getName());
+                  shops.remove(j);
+               }
+           }
+       }
+       return shops;
+   }
+   
    private void ConnectToDB(){
        try {
            Class.forName(JDBC_DRIVER);
@@ -61,7 +77,7 @@ public class DBOperations {
    private void DisconnectFromDB(){
         if(stmt!=null)
                 try {
-                    conn.close();
+                    stmt.close();
         } catch (SQLException ex) {
             Logger.getLogger(DBOperations.class.getName()).log(Level.SEVERE, null, ex);
         }
@@ -77,16 +93,19 @@ public class DBOperations {
    public void InitShopsfromXML() throws SQLException{
 
         SAXHandler hand = new SAXHandler();
-        ArrayList<Shop> shops = hand.GetShopsInArrayListFromXML();
+        ArrayList<Shop> shops;
         String sql = null;
         int categ_id = 0;
+        int shops_id = 0;
+        
+        shops = MakeShopsUnicByCoords(hand.GetShopsInArrayListFromXML());
         
         ConnectToDB();
         stmt = conn.createStatement();
         for(int i=0; i<shops.size(); ++i){
             sql = "INSERT INTO SHOPS " +
                      "VALUES (" + 
-                     i + "," +
+                     shops_id + "," +
                      "'" + shops.get(i).getName() + "'," +
                      Double.parseDouble(shops.get(i).getLng()) + "," +
                      Double.parseDouble(shops.get(i).getLat()) + "," +
@@ -99,7 +118,7 @@ public class DBOperations {
                 sql = "INSERT INTO CATEGORIES " +
                      "VALUES (" + 
                      categ_id + "," +
-                     i + "," +
+                     shops_id + "," +
                      "'" + shops.get(i).getCategory().get(j) + "')";
 
 
@@ -108,6 +127,7 @@ public class DBOperations {
                    categ_id++;
                 
             }
+            shops_id++;
         }
         DisconnectFromDB();
         //hand.printShopsFromXML();
