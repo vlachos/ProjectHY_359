@@ -6,6 +6,7 @@
 package Servlets;
 
 import DB.DBOperations;
+import DB.User;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.sql.SQLException;
@@ -15,7 +16,6 @@ import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
@@ -23,7 +23,7 @@ import org.json.JSONObject;
  *
  * @author spiro_000
  */
-public class LoginServlet extends HttpServlet {
+public class SignUpServlet extends HttpServlet {
 
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
@@ -33,29 +33,28 @@ public class LoginServlet extends HttpServlet {
      * @param response servlet response
      * @throws ServletException if a servlet-specific error occurs
      * @throws IOException if an I/O error occurs
-     * @throws java.sql.SQLException
-     * @throws org.json.JSONException
      */
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
-            throws ServletException, IOException, SQLException, JSONException, Exception {
+            throws ServletException, IOException, SQLException, JSONException {
         
         String username = request.getParameter("username");
         String password = request.getParameter("password");
+        String email = request.getParameter("email");
+        
         response.setContentType("application/json;charset=UTF-8");
+        
         try (PrintWriter out = response.getWriter()) {
             DBOperations oper = new DBOperations();
             JSONObject json =new JSONObject();
             
-            if(oper.checkLogin(username,password) == true){
+            if(oper.UserExists(username) == false){
                 //JSONArray love_shops = DBOperations.convertToJSON(oper.GetFavoriteShopsByUser(username));
                 //JSONArray shoping_list = DBOperations.convertToJSON(oper.GetShoppingListByUser(username));
-                if(oper.isAdmin(username, password))
-                    json.put("admin", "true");
-                else
-                    json.put("admin","false");
+                
+                oper.InsertUserInDB(username,password,email,false);
+                
+                json.put("admin","false");
                 json.put("message","true");
-                json.put("love_shops", "");
-                json.put("shoping_list", "");
             
             }
             else{
@@ -81,9 +80,9 @@ public class LoginServlet extends HttpServlet {
         try {
             processRequest(request, response);
         } catch (SQLException ex) {
-            Logger.getLogger(LoginServlet.class.getName()).log(Level.SEVERE, null, ex);
-        } catch (Exception ex) {
-            Logger.getLogger(LoginServlet.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(SignUpServlet.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (JSONException ex) {
+            Logger.getLogger(SignUpServlet.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
 
@@ -101,9 +100,9 @@ public class LoginServlet extends HttpServlet {
         try {
             processRequest(request, response);
         } catch (SQLException ex) {
-            Logger.getLogger(LoginServlet.class.getName()).log(Level.SEVERE, null, ex);
-        } catch (Exception ex) {
-            Logger.getLogger(LoginServlet.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(SignUpServlet.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (JSONException ex) {
+            Logger.getLogger(SignUpServlet.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
 

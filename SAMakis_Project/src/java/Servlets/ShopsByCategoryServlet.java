@@ -46,8 +46,7 @@ public class ShopsByCategoryServlet extends HttpServlet {
         try (PrintWriter out = response.getWriter()) {
             /* TODO output your page here. You may use following sample code. */
             DBOperations oper = new DBOperations();
-            ResultSet rs = oper.GetShopsByCategory(categoryName);
-            JSONArray shops = DBOperations.convertToJSON(rs);
+            JSONArray shops = oper.GetShopsByCategory(categoryName);
             JSONObject json =new JSONObject();
             json.put("message", "true");
             json.put("shops", shops);

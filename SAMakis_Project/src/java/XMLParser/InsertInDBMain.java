@@ -22,7 +22,8 @@ public class InsertInDBMain {
         //ArrayList<Shop> shops = h.GetShopsInArrayListFromXML();
         //shops = oper.MakeShopsUnicByCoords(shops);
         //oper.UserExists("rouggas");
-        oper.checkLogin("rouggas","1234");
+        //oper.checkLogin("rouggas","1234");
+        //oper.isAdmin("makis", "5678");
         //System.out.println(shops);
         //System.out.println(shops);
         

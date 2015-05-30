@@ -20,6 +20,10 @@
         <servlet-name>ShopsByCategoryServlet</servlet-name>
         <servlet-class>Servlets.ShopsByCategoryServlet</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>SignUpServlet</servlet-name>
+        <servlet-class>Servlets.SignUpServlet</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>NewServlet</servlet-name>
         <url-pattern>/NewServlet</url-pattern>
@@ -39,6 +43,10 @@
     <servlet-mapping>
         <servlet-name>ShopsByCategoryServlet</servlet-name>
         <url-pattern>/ShopsByCategoryServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>SignUpServlet</servlet-name>
+        <url-pattern>/SignUpServlet</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
