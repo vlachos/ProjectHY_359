@@ -24,6 +24,26 @@
         <servlet-name>SignUpServlet</servlet-name>
         <servlet-class>Servlets.SignUpServlet</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>AddShopServlet</servlet-name>
+        <servlet-class>Servlets.AddShopServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>DeleteShopServlet</servlet-name>
+        <servlet-class>Servlets.DeleteShopServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>DeleteUserServlet</servlet-name>
+        <servlet-class>Servlets.DeleteUserServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>AllShopsServlet</servlet-name>
+        <servlet-class>Servlets.AllShopsServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>AllUsersServlet</servlet-name>
+        <servlet-class>Servlets.AllUsersServlet</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>NewServlet</servlet-name>
         <url-pattern>/NewServlet</url-pattern>
@@ -47,6 +67,26 @@
     <servlet-mapping>
         <servlet-name>SignUpServlet</servlet-name>
         <url-pattern>/SignUpServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>AddShopServlet</servlet-name>
+        <url-pattern>/AddShopServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>DeleteShopServlet</servlet-name>
+        <url-pattern>/DeleteShopServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>DeleteUserServlet</servlet-name>
+        <url-pattern>/DeleteUserServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>AllShopsServlet</servlet-name>
+        <url-pattern>/AllShopsServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>AllUsersServlet</servlet-name>
+        <url-pattern>/AllUsersServlet</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>

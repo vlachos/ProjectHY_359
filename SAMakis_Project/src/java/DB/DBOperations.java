@@ -141,27 +141,62 @@ public class DBOperations {
 
    }
    
-   public void InsertShopInDB(Shop shop) throws SQLException{
+   public boolean ShopExists(String name, double lat, double lng) throws SQLException{
+       boolean exists;
+       
+       ConnectToDB();
+       stmt = conn.createStatement();
+       
+       String sql = "select from APP.SHOPS where name='"+name+"' and lat="+lat+"lng="+lng;      
+       
+       ResultSet rs = stmt.executeQuery(sql);
+       exists = rs.next(); 
+       System.out.println(exists);
+       DisconnectFromDB();
+       
+       return exists;
+   }
+   
+   public void InsertShopInDB(String name, double lat, double lng, String address, String category) throws SQLException{
        ConnectToDB();
        System.out.println("Inserting records into the table...");
        stmt = conn.createStatement();
-       String sql = "insert into APP.SHOPS " +
-                 "values ('makis2', 135, 135, 'maria','sdhif',23)";
-       stmt.executeUpdate(sql);
+       /*String sql = "insert into APP.SHOPS " +
+       "values (" +
+       shops_id + "," +
+       "'" + name + "'," +
+       lng + "," +
+       lat + "," +
+       "'" + address + "'," + 0 + ")";
+       stmt.executeUpdate(sql);*/
        
        System.out.println("Inserted records into the table...");
        DisconnectFromDB();
    }
    
-   public void DeleteShopFromDB(String name, double lat, double lng) throws SQLException{
+   public void DeleteShopFromDB(int id) throws SQLException{
        ConnectToDB();
        stmt = conn.createStatement();
        
-       String sql = "delete from APP.SHOPS where name='"+name+"' and lat="+lat+"lng="+lng;
+       String sql = "delete from APP.SHOPS where id=" + id;
        stmt.executeUpdate(sql);
        System.out.println("Inserted user into the table...");
        
        DisconnectFromDB();
+   }
+   
+   public JSONArray GetAllShops() throws SQLException, Exception{
+       ConnectToDB();
+       stmt = conn.createStatement();
+       
+       String sql = "select * FROM APP.SHOPS";
+       
+       
+       ResultSet rs = stmt.executeQuery(sql);
+       JSONArray shops = convertToJSON(rs);
+       DisconnectFromDB();
+       
+       return shops;
    }
    
    public JSONArray GetShopsByCategory(String shopCategory) throws SQLException, Exception{
@@ -183,6 +218,20 @@ public class DBOperations {
    }
    
    /*DB Users methods*/
+   
+   public JSONArray GetAllUsers() throws SQLException, Exception{
+       ConnectToDB();
+       stmt = conn.createStatement();
+       
+       String sql = "select * FROM APP.USERS";
+       
+       
+       ResultSet rs = stmt.executeQuery(sql);
+       JSONArray users = convertToJSON(rs);
+       DisconnectFromDB();
+       
+       return users;
+   }
    
    public void InsertUserInDB(String username, String password, String email, boolean admin) throws SQLException{
        ConnectToDB();
@@ -287,7 +336,5 @@ public class DBOperations {
        DisconnectFromDB();
        return shops;
    }
-   
-   
    
 }
