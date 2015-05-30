@@ -17,7 +17,7 @@ $( document ).ready( function() {
                 
                 $.get( 'http://localhost:8084/SAMakis_Project/LoginServlet' + '?username=' + username + '&password=' + password,function(data){ 
                     console.log(data.message);
-                    if(data.message===true){
+                    if(data.message==="true"){
                         $('#login_form').hide();
                         $('nav a').css('display','inline');
                         $('#login_container').append("<h2 href=\"\">Welcome "+username+",</h2><a id=\"logout\" href=\"\">(logout)</a>");
