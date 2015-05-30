@@ -33,7 +33,11 @@ $(document).ready( function() {
                 $('#delete_shops').append('<table></table>');
                 var table = $('#delete_shops').children();                
                 $.get( 'http://localhost:8084/SAMakis_Project/AllShopsServlet', function( data ) {
-                    for (var i = 0; i < data.length; i++) {   
+                    console.log(data);
+                    for (var i = 0; i < data.shops.length; i++) {   
+                        console.log(data.shops[i].id);
+                        console.log(data.shops[i].name);
+                        console.log(data.shops[i].address);
 			table.append("<tr><td><a id=\""+data.shops[i].id+"\" class=\"del_link\" href=\"\">delete</a></td><td>"+data.shops[i].id+"</td><td>"+data.shops[i].name+"</td><td>"+data.shops[i].address+"</td></tr>");
                     };
                 } );
@@ -88,7 +92,7 @@ $(document).ready( function() {
             var username = $( '#add_users_form [name="user_name"]' ).val();
             var email = $( '#add_users_form [name="user_email"]' ).val();
             var password = $( '#add_users_form [name="user_pass"]' ).val();
-            if(!name || !email || !password){
+            if(!username || !email || !password){
                 alert("Fill All Fields !");
             }
             else{
@@ -98,12 +102,12 @@ $(document).ready( function() {
         
         $('#delete_users_submit').click(function(evt){
             evt.preventDefault();
-            var name = $( '#add_users_form [name="user_name"]' ).val();
+            var name = $( '#delete_users_form [name="user_name"]' ).val();
             if(!name){
                 alert("Fill All Fields !");
             }
             else{
-                $.get( 'http://localhost:8084/SAMakis_Project/DeleteUserServlet' + '?name=' + name);
+                $.get( 'http://localhost:8084/SAMakis_Project/DeleteUserServlet' + '?username=' + name);
             }
         });
     
