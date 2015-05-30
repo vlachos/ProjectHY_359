@@ -3,6 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+/* global initialLocation */
+
 //Categories jquery request to get shops by category
 $( document ).ready( function() {
     
@@ -13,22 +15,18 @@ $( document ).ready( function() {
         $.get( 'http://localhost:8084/SAMakis_Project/ShopsByCategoryServlet' + '?category=' + targetCat , function( data ) {
             $('#scrolled_container').empty();
             for (var i = 0; i <data.shops.length; i++) {
-                console.log(i);    
                 $( "#scrolled_container" ).append( "<div class=\"result\">\n\
                                                         <div class=\"res_name\">\n\
                                                             <img src=\"icons/rest_icon.png\">\n\
-                                                            <h3>"+data.shops[i].name+"</h3>"
-                                                        +"</div><div class=\"res_content\">"
-                                                            +"Address: "+data.shops[i].address+"<br>"
-                                                            +"Category: "+data.shops[i].category+"<br>"
-                                                            +"Views: "+data.shops[i].views+"<br>"
-                                                            +"d: "+calc(data.shops[i].lat,data.shops[i].lng)+
+                                                            <h3>"+data.shops[i].name+"</h3></div>"
+                                                        +"<div class=\"res_content\">"
+                                                            +"<button id=\""+data.shops[i].id+"\" class=\"dislike\"><img src=\"icons/like.png\"></button>"+
                                                     "</div></div>" );
             };
         } );
     } );
     
-} );
+});
 
 function calc(lat,lng){
     var lat1=35.3383767;

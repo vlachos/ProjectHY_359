@@ -186,7 +186,7 @@ a.invisible {
 #scrolled_container .result{
 	display: block;
 	width: 100%;
-	height: 150px;
+	height: 120px;
 	border-bottom:2px #000000 solid;
 }
 
@@ -198,7 +198,7 @@ a.invisible {
 
 #scrolled_container .result .res_content{
 	background-color: white;
-	height: 90px;
+	height: 60px;
 }
 
 footer{
@@ -220,16 +220,29 @@ footer{
     margin-left: 60px;
 }
 
+.res_content button{
+    width: 20%;
+    height: 50px;
+    margin-top: 5px;
+    background-size: 100%
+}
+
+.dislike{
+    background-image: url(icons/like.png);
+}
+
+.res_content img{
+    margin-left: -7px;
+    margin-top: -1px;
+}
+
 #user{
-    display:none;
+    display:block;
 }
 
-#admin{
-    display: block;
-}
 
 #admin{
-		display: inline;
+		display: none;
 		width: 100%;
 		height: 500px;
 		background-color: red;
@@ -280,6 +293,22 @@ footer{
 	#comments form{
 		display: none;
 	}
+        
+	#delete_shops{
+		width: 100%;
+		height: 450px;
+		overflow-y:auto; 
+	}
+
+	table{
+		width:100%;
+	}
+
+	table, th, td {
+	    border: 1px solid black;
+	    border-collapse: collapse;
+	}
+
 
 /**   blured window,prepei na mpei se
 #section2 {     

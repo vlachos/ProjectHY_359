@@ -10,6 +10,8 @@
             <script type="text/javascript" src="JS/signIn.js"></script>
             <script type="text/javascript" src="JS/search.js"></script>
             <script type="text/javascript" src="JS/signUp.js"></script>
+            <script type="text/javascript" src="JS/manager.js"></script>
+            <script type="text/javascript" src="JS/admin.js"></script>
             <script type="text/javascript" src="JS/categories_Functions.js"></script>
             <script type="text/javascript" src="JS/results_Functions.js"></script>
     </head>
@@ -147,20 +149,19 @@
                 <div id="result2">
                     <h2>RESULTS</h2>
                 </div>
-
                 <div id="scrolled_container">
-
+                    
                 </div>
             </div>
         </div> 
         <div id="admin">
 			<div id="cats">
 				<ul>
-					<button id="a" class="admin_cats" target-category="manage_comments" href="">manage comments</button>
-					<button id="b" class="admin_cats" target-category="add_shops">add shops</button>
-					<button id="c" class="admin_cats" target-category="delete_shops" href="">delete shops</button>
-					<button id="d" class="admin_cats" target-category="add_user" href="">add user</button>
-					<button id="e" class="admin_cats" target-category="delete_user" href="">delete user</button>
+					<button id="a" class="admin_cats">manage comments</button>
+					<button id="b" class="admin_cats">add shops</button>
+					<button id="c" class="admin_cats">delete shops</button>
+					<button id="d" class="admin_cats">add user</button>
+					<button id="e" class="admin_cats">delete user</button>
 				</ul>
 			</div>
 			<div id="choices">
@@ -183,7 +184,7 @@
 					<button id="delete_shops_submit">Submit</button>
 				</form>
 				<form id="add_users_form">
-					<input class="input_text" name="user_name" placeholder="Give new shop's name" type="text">
+					<input class="input_text" name="user_name" placeholder="Give new user's name" type="text">
 					<input class="input_text" name="user_email" placeholder="Give new user's email" type="text">
 					<input class="input_text" name="user_pass" placeholder="Give new user's password" type="text">
 					<button id="add_users_submit">Submit</button>

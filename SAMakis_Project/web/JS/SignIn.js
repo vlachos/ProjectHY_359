@@ -18,9 +18,20 @@ $( document ).ready( function() {
                 $.get( 'http://localhost:8084/SAMakis_Project/LoginServlet' + '?username=' + username + '&password=' + password,function(data){ 
                     console.log(data.message);
                     if(data.message==="true"){
-                        $('#login_form').hide();
-                        $('nav a').css('display','inline');
-                        $('#login_container').append("<h2 href=\"\">Welcome "+username+",</h2><a id=\"logout\" href=\"\">(logout)</a>");
+                        console.log(data.admin);
+                        if(data.admin==="true"){
+                            $('#user').css('display','none');
+                            $('#admin').css('display','block');
+                            $('footer').css('padding-top','500px');
+                            $('#login_form').hide();
+                            $('#login_container').append("<h2 href=\"\">Welcome admin,</h2><a id=\"logout\" href=\"\">(logout)</a>");
+                        }
+                        else{
+                            $('#admin').css('display','none');
+                            $('#login_form').hide();
+                            $('nav a').css('display','inline');
+                            $('#login_container').append("<h2 href=\"\">Welcome "+username+",</h2><a id=\"logout\" href=\"\">(logout)</a>");
+                        }
                     }
                     else{
                         alert("Incorrect username or password!");
@@ -31,6 +42,7 @@ $( document ).ready( function() {
     
     $('#logout').click(function(evt){
             evt.preventDefault();
+            $('#admin').css('display','none');
             $('#login_container').empty();
             $('#login_form').show();
             $('nav a').css('display','none');

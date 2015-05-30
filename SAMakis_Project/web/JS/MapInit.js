@@ -21,7 +21,7 @@ function initialize() {
       marker = new google.maps.Marker({
         map:map,
         draggable:false,
-        animation: google.maps.Animation.BOUNCE,
+        animation: null,
         position: initialLocation
   });
   google.maps.event.addListener(marker, 'click', toggleBounce);

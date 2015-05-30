@@ -12,10 +12,15 @@ $(document).ready( function() {
                     alert("Passwords are different !");
                 }
                 else{
-                    alert("Sign up was successful!!!!!");
+                    $.get( 'http://localhost:8084/SAMakis_Project/SignUpServlet' + '?username=' + username + '&email=' + email + '&password=' + password,function( data ){
+                        if(data.message==="true"){
+                            alert("Sign up was successful!!!!!");
+                        }
+                        else{
+                            alert("username already exists!");
+                        }
+                    });
                 }
-                
-                $.get( 'http://localhost:8084/SAMakis_Project/SignUpServlet' + '?username=' + username + '&email=' + email + '&password=' + password );
 /*
  * na sumplhrwthei gia periptwsh pou petyxe h oxi to sign up
  * 

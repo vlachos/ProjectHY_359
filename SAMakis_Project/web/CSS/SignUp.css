@@ -66,7 +66,7 @@ background-image:url(../images/email.png);
 background-repeat:no-repeat;
 background-position:5px 7px
 }
-button {
+popup_submit {
 width:30%;
 height:20px;
 }
