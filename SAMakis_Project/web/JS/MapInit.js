@@ -1,16 +1,21 @@
 /* global google */
+var map;
 var initialLocation;
 var defaultLocation = new google.maps.LatLng(35.3383767,25.1367471);
 var browserSupportFlag = new Boolean();
 var marker;
 
-function initialize() {
-  var mapProp = {
-    //center:new google.maps.LatLng(35.3383767,25.1367471),
+$(document).ready( function() {
+    var mapProp = {
     zoom:15,
     mapTypeId:google.maps.MapTypeId.ROADMAP
-  };
-  var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+    };
+    map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+    google.maps.event.addDomListener(window, 'load', initialize);
+});
+
+function initialize() {
+  
   
   // Try to get automatic location
   if(navigator.geolocation) {
@@ -57,4 +62,8 @@ function initialize() {
   }
 };
 
-google.maps.event.addDomListener(window, 'load', initialize);
+function make_markers(){
+    
+};
+
+//google.maps.event.addDomListener(window, 'load', initialize);

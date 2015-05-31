@@ -78,6 +78,22 @@ public class DBOperations {
 
    }
    
+   public JSONArray GetSearchResaults(String query) throws SQLException, Exception{
+       ConnectToDB();
+       stmt = conn.createStatement();
+       
+       String sql = "SELECT shops.*, category FROM APP.SHOPS, APP.CATEGORIES WHERE (name LIKE \'%"+ query +"%\' "+
+               "OR category LIKE \'%"+ query +"%\') AND SHOPS.ID=CATEGORIES.ID";
+       
+       
+       ResultSet rs = stmt.executeQuery(sql);
+       JSONArray shops = convertToJSON(rs);
+       System.out.println(query);
+       DisconnectFromDB();
+       
+       return shops;
+   }
+   
    
    /*DB Shops methods*/
    public  ArrayList<Shop> MakeShopsUnicByCoords(ArrayList<Shop> shops){
