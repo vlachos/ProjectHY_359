@@ -82,11 +82,12 @@ public class DBOperations {
        ConnectToDB();
        stmt = conn.createStatement();
        
-       String sql = "SELECT shops.*, category FROM APP.SHOPS, APP.CATEGORIES WHERE (name LIKE \'%"+ query +"%\' "+
-               "OR category LIKE \'%"+ query +"%\') AND SHOPS.ID=CATEGORIES.ID";
+       String sql1 = "SELECT SHOPS.*, category FROM APP.SHOPS, APP.CATEGORIES WHERE name LIKE \'%"+ query +"%\' "+
+               "AND SHOPS.ID=CATEGORIES.ID_IN_SHOPS";
        
+       //String sql2 = "SELECT SHOPS.*, category FROM APP.SHOPS, APP.CATEGORIES WHERE category LIKE \'"+ query +"\' AND SHOPS.ID=CATEGORIES.ID_IN_SHOPS";
        
-       ResultSet rs = stmt.executeQuery(sql);
+       ResultSet rs = stmt.executeQuery(sql1);
        JSONArray shops = convertToJSON(rs);
        System.out.println(query);
        DisconnectFromDB();
@@ -263,6 +264,30 @@ public class DBOperations {
        
        DisconnectFromDB();
        
+   }
+   
+   public void AddFavoriteShopInUser(String username, int shop_id) throws SQLException{
+       ConnectToDB();
+       stmt = conn.createStatement();
+       
+       String sql = "insert into APP.FAVORITES(ID_IN_USER,ID_IN_SHOPS) " +
+                     "values ('" + 
+                     username + "'," + shop_id + ")";
+       stmt.executeUpdate(sql);
+       System.out.println("Inserted favorite into the table...");
+       
+       DisconnectFromDB();
+   }
+   
+   public void DeleteFavoriteShopFromUser(String username, int shop_id) throws SQLException{
+       ConnectToDB();
+       stmt = conn.createStatement();
+       
+       String sql = "delete from APP.FAVORITES where FAVORITES.ID_IN_USER='"+username+"' and FAVORITES.ID_IN_SHOPS="+shop_id;
+       stmt.executeUpdate(sql);
+       System.out.println("Inserted user into the table...");
+       
+       DisconnectFromDB();
    }
    
    public void DeleteUserFromDB(String username) throws SQLException{

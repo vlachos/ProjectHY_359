@@ -24,6 +24,8 @@ public class InsertInDBMain {
         //oper.UserExists("rouggas");
         //oper.checkLogin("rouggas","1234");
         //oper.isAdmin("makis", "5678");
+        //oper.AddFavoriteShopInUser("koulis", 1);
+        //oper.DeleteFavoriteShopFromUser("makis", 1);
         //System.out.println(shops);
         //System.out.println(shops);
         

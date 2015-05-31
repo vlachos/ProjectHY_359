@@ -44,6 +44,14 @@
         <servlet-name>AllUsersServlet</servlet-name>
         <servlet-class>Servlets.AllUsersServlet</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>AddFavoriteServlet</servlet-name>
+        <servlet-class>Servlets.AddFavoriteServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>DeleteFavoriteServlet</servlet-name>
+        <servlet-class>Servlets.DeleteFavoriteServlet</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>NewServlet</servlet-name>
         <url-pattern>/NewServlet</url-pattern>
@@ -87,6 +95,14 @@
     <servlet-mapping>
         <servlet-name>AllUsersServlet</servlet-name>
         <url-pattern>/AllUsersServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>AddFavoriteServlet</servlet-name>
+        <url-pattern>/AddFavoriteServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>DeleteFavoriteServlet</servlet-name>
+        <url-pattern>/DeleteFavoriteServlet</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>

@@ -5,24 +5,24 @@
  */
 package Servlets;
 
-
+import DB.DBOperations;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.sql.SQLException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import org.json.JSONArray;
+import org.json.JSONException;
 import org.json.JSONObject;
-import DB.DBOperations;
 
 /**
  *
  * @author spiro_000
  */
-public class SearchServlet extends HttpServlet {
+public class DeleteFavoriteServlet extends HttpServlet {
 
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
@@ -32,24 +32,33 @@ public class SearchServlet extends HttpServlet {
      * @param response servlet response
      * @throws ServletException if a servlet-specific error occurs
      * @throws IOException if an I/O error occurs
+     * @throws java.sql.SQLException
+     * @throws org.json.JSONException
      */
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
-            throws ServletException, IOException, Exception {
-        
-        String query = request.getParameter( "q" );
+            throws ServletException, IOException, SQLException, JSONException {
+            
+        String username = request.getParameter( "username" );
+        String id = request.getParameter( "id" );
+        JSONObject json =new JSONObject();
         
         response.setContentType("application/json;charset=UTF-8");
         try (PrintWriter out = response.getWriter()) {
             /* TODO output your page here. You may use following sample code. */
-            DBOperations oper = new DBOperations();
-            JSONArray shops = oper.GetSearchResaults(query);
-            JSONObject json =new JSONObject();
-            json.put("message", "true");
-            json.put("shops", shops);
+            if(id.isEmpty()==false){
+                DBOperations oper = new DBOperations();
+                oper.DeleteFavoriteShopFromUser(username,Integer.parseInt(id));
+                json.put("message", "true");
+            }
+            else{
+                json.put("message", "false");
+            }
             
             // finally output the json string       
             out.print(json.toString());
         }
+        
+            
     }
 
     // <editor-fold defaultstate="collapsed" desc="HttpServlet methods. Click on the + sign on the left to edit the code.">
@@ -66,8 +75,8 @@ public class SearchServlet extends HttpServlet {
             throws ServletException, IOException {
         try {
             processRequest(request, response);
-        } catch (Exception ex) {
-            Logger.getLogger(SearchServlet.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (SQLException | JSONException ex) {
+            Logger.getLogger(DeleteFavoriteServlet.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
 
@@ -84,8 +93,10 @@ public class SearchServlet extends HttpServlet {
             throws ServletException, IOException {
         try {
             processRequest(request, response);
-        } catch (Exception ex) {
-            Logger.getLogger(SearchServlet.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (SQLException ex) {
+            Logger.getLogger(DeleteFavoriteServlet.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (JSONException ex) {
+            Logger.getLogger(DeleteFavoriteServlet.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
 
