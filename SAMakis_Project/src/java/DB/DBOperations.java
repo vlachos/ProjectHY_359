@@ -82,8 +82,7 @@ public class DBOperations {
        ConnectToDB();
        stmt = conn.createStatement();
        
-       String sql1 = "SELECT SHOPS.*, category FROM APP.SHOPS, APP.CATEGORIES WHERE name LIKE \'%"+ query +"%\' "+
-               "AND SHOPS.ID=CATEGORIES.ID_IN_SHOPS";
+       String sql1 = "SELECT SHOPS.* FROM APP.SHOPS WHERE name LIKE \'%"+ query +"%\' ";
        
        //String sql2 = "SELECT SHOPS.*, category FROM APP.SHOPS, APP.CATEGORIES WHERE category LIKE \'"+ query +"\' AND SHOPS.ID=CATEGORIES.ID_IN_SHOPS";
        
@@ -356,7 +355,7 @@ public class DBOperations {
        ConnectToDB();
        stmt = conn.createStatement();
        
-       String sql = "";       
+       String sql = "select SHOPS.* FROM APP.SHOPS, APP.FAVORITES where SHOPS.ID=FAVORITES.ID_IN_SHOPS and FAVORITES.ID_IN_USER='"+username+"'";
        
        ResultSet rs = stmt.executeQuery(sql);
        JSONArray shops = convertToJSON(rs);

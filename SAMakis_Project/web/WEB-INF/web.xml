@@ -52,6 +52,10 @@
         <servlet-name>DeleteFavoriteServlet</servlet-name>
         <servlet-class>Servlets.DeleteFavoriteServlet</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>ShowUserFavorites</servlet-name>
+        <servlet-class>Servlets.ShowUserFavorites</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>NewServlet</servlet-name>
         <url-pattern>/NewServlet</url-pattern>
@@ -103,6 +107,10 @@
     <servlet-mapping>
         <servlet-name>DeleteFavoriteServlet</servlet-name>
         <url-pattern>/DeleteFavoriteServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>ShowUserFavorites</servlet-name>
+        <url-pattern>/ShowUserFavorites</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
