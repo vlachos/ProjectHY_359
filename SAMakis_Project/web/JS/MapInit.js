@@ -4,6 +4,15 @@ var initialLocation;
 var defaultLocation = new google.maps.LatLng(35.3383767,25.1367471);
 var browserSupportFlag = new Boolean();
 var marker;
+var markers = [];
+var directionsService = new google.maps.DirectionsService();
+var directionsDisplay=new google.maps.DirectionsRenderer();
+google.maps.Map.prototype.clearOverlays = function() {
+            for (var i = 0; i < markers.length; i++ ) {
+              markers[i].setMap(null);
+            }
+            markers.length = 0;
+};
 
 $(document).ready( function() {
     var mapProp = {
@@ -11,6 +20,7 @@ $(document).ready( function() {
     mapTypeId:google.maps.MapTypeId.ROADMAP
     };
     map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+    directionsDisplay.setMap(map);
     google.maps.event.addDomListener(window, 'load', initialize);
 });
 
@@ -60,10 +70,6 @@ function initialize() {
     google.maps.event.addListener(marker, 'click', toggleBounce);
     
   }
-};
-
-function make_markers(){
-    
 };
 
 //google.maps.event.addDomListener(window, 'load', initialize);

@@ -41,15 +41,25 @@ public class ShopsByCategoryServlet extends HttpServlet {
             throws ServletException, IOException, JSONException, SQLException, Exception {
         
         String categoryName = request.getParameter( "category" );
+        String user = request.getParameter("user");
         
         response.setContentType("application/json;charset=UTF-8");
         try (PrintWriter out = response.getWriter()) {
             /* TODO output your page here. You may use following sample code. */
+            
             DBOperations oper = new DBOperations();
             JSONArray shops = oper.GetShopsByCategory(categoryName);
             JSONObject json =new JSONObject();
-            json.put("message", "true");
-            json.put("shops", shops);
+            if(oper.UserExists(user)){
+                JSONArray fav = oper.GetFavoriteShopsByUser(user);
+                json.put("message", "true");
+                json.put("shops", shops);
+                json.put("favs", fav);
+            }
+            else{
+                json.put("message", "true");
+                json.put("shops", shops);
+            }
             
             // finally output the json string       
             out.print(json.toString());

@@ -56,6 +56,14 @@
         <servlet-name>ShowUserFavorites</servlet-name>
         <servlet-class>Servlets.ShowUserFavorites</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>GetCoordsServlet</servlet-name>
+        <servlet-class>Servlets.GetCoordsServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>GetCommentsByShop</servlet-name>
+        <servlet-class>Servlets.GetCommentsByShop</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>NewServlet</servlet-name>
         <url-pattern>/NewServlet</url-pattern>
@@ -111,6 +119,14 @@
     <servlet-mapping>
         <servlet-name>ShowUserFavorites</servlet-name>
         <url-pattern>/ShowUserFavorites</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>GetCoordsServlet</servlet-name>
+        <url-pattern>/GetCoordsServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>GetCommentsByShop</servlet-name>
+        <url-pattern>/GetCommentsByShop</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>

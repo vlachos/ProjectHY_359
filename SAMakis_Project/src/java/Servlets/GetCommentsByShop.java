@@ -5,7 +5,7 @@
  */
 package Servlets;
 
-
+import DB.DBOperations;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.logging.Level;
@@ -16,13 +16,12 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import org.json.JSONArray;
 import org.json.JSONObject;
-import DB.DBOperations;
 
 /**
  *
- * @author spiro_000
+ * @author Achilleas
  */
-public class SearchServlet extends HttpServlet {
+public class GetCommentsByShop extends HttpServlet {
 
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
@@ -36,28 +35,25 @@ public class SearchServlet extends HttpServlet {
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException, Exception {
         
-        String query = request.getParameter( "q" );
-        String user = request.getParameter("user");
+        String id = request.getParameter("id");
         
         response.setContentType("application/json;charset=UTF-8");
+        
         try (PrintWriter out = response.getWriter()) {
-            /* TODO output your page here. You may use following sample code. */
             DBOperations oper = new DBOperations();
-            JSONArray shops = oper.GetSearchResaults(query);
             JSONObject json =new JSONObject();
-            if(oper.UserExists(user)){
-                JSONArray fav = oper.GetFavoriteShopsByUser(user);
-                json.put("message", "true");
-                json.put("shops", shops);
-                json.put("favs", fav);
+            
+            if(id == null==false){
+                int ID = Integer.parseInt(id);
+                JSONArray shops = oper.GetAllComments(ID);
+                json.put("message","true");
+                json.put("comments", shops);
             }
             else{
-                json.put("message", "true");
-                json.put("shops", shops);
+                json.put("message", "false");
             }
-            
             // finally output the json string       
-            out.print(json.toString());
+                out.print(json.toString());
         }
     }
 
@@ -76,7 +72,7 @@ public class SearchServlet extends HttpServlet {
         try {
             processRequest(request, response);
         } catch (Exception ex) {
-            Logger.getLogger(SearchServlet.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(GetCommentsByShop.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
 
@@ -94,7 +90,7 @@ public class SearchServlet extends HttpServlet {
         try {
             processRequest(request, response);
         } catch (Exception ex) {
-            Logger.getLogger(SearchServlet.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(GetCommentsByShop.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
 

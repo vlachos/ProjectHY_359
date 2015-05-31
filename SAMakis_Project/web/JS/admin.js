@@ -8,6 +8,7 @@ $(document).ready( function() {
 	
 	$('#a').click(function(evt){
 		evt.preventDefault();
+                $('#delete_shops').css('display','none');
                 $('#delete_comments_form').css('display','block');
                 $('#delete_users_form').css('display','none');
 		$('#add_shops_form').css('display','none');
@@ -17,6 +18,7 @@ $(document).ready( function() {
 
 	$('#b').click(function(evt){
 		evt.preventDefault();
+                $('#delete_shops').css('display','none');
 		$('#add_shops_form').css('display','block');
                 $('#delete_comments_form').css('display','none');
 		$('#delete_shops_form').css('display','none');
@@ -26,6 +28,7 @@ $(document).ready( function() {
 
 	$('#c').click(function(evt){
 		evt.preventDefault();
+                $('#delete_shops').css('display','block');
                 $('#delete_comments_form').css('display','none');
 		$('#add_shops_form').css('display','none');
 		$('#add_users_form').css('display','none');
@@ -45,6 +48,7 @@ $(document).ready( function() {
 
 	$('#d').click(function(evt){
 		evt.preventDefault();
+                $('#delete_shops').css('display','none');
                 $('#delete_comments_form').css('display','none');
 		$('#add_users_form').css('display','block');
 		$('#delete_shops_form').css('display','none');
@@ -54,6 +58,7 @@ $(document).ready( function() {
 
  	$('#e').click(function(evt){
      	evt.preventDefault();
+                $('#delete_shops').css('display','none');
                 $('#delete_users_form').css('display','block');
                 $('#delete_comments_form').css('display','none');
                 $('#add_shops_form').css('display','none');

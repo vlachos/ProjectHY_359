@@ -73,6 +73,7 @@ nav{
 
 nav a{
 	display: none;
+        color: white;
         margin-left: 15%;
 }
 
@@ -245,7 +246,14 @@ footer{
     position: relative;
     margin-left: 1%;
     padding-top: -20px;
-    background-size: 100%;
+}
+
+.btnaddmarker{
+    width: 20%;
+    height: 30px;
+    position: relative;
+    margin-left: 1%;
+    padding-top: -20px;
 }
 
 .comments{
@@ -321,6 +329,13 @@ footer{
 		height: 450px;
 		overflow-y:auto; 
 	}
+        
+        #add_users_form{
+            margin-top: -450px;
+        }
+        #delete_users_form{
+            margin-top: -450px;
+        }
 
 	table{
 		width:100%;

@@ -94,6 +94,21 @@ public class DBOperations {
        return shops;
    }
    
+   public JSONArray GetAllComments(int id) throws SQLException, Exception{
+       ConnectToDB();
+       stmt = conn.createStatement();
+       
+       String sql1 = "SELECT COMMENTS.* FROM APP.COMMENTS WHERE COMMENTS.ID_IN_SHOPS="+id;
+       
+       //String sql2 = "SELECT SHOPS.*, category FROM APP.SHOPS, APP.CATEGORIES WHERE category LIKE \'"+ query +"\' AND SHOPS.ID=CATEGORIES.ID_IN_SHOPS";
+       
+       ResultSet rs = stmt.executeQuery(sql1);
+       JSONArray shops = convertToJSON(rs);
+       DisconnectFromDB();
+       
+       return shops;
+   }
+   
    
    /*DB Shops methods*/
    public  ArrayList<Shop> MakeShopsUnicByCoords(ArrayList<Shop> shops){
@@ -224,6 +239,20 @@ public class DBOperations {
              "from APP.SHOPS, APP.CATEGORIES" +
              " WHERE APP.CATEGORIES.CATEGORY='"+shopCategory+"'"+ "and" +
              " APP.SHOPS.ID = APP.CATEGORIES.ID_IN_SHOPS";
+       
+       
+       ResultSet rs = stmt.executeQuery(sql);
+       JSONArray shops = convertToJSON(rs);
+       DisconnectFromDB();
+       
+       return shops;
+   }
+   
+   public JSONArray GetShopById(int id) throws SQLException, Exception{
+       ConnectToDB();
+       stmt = conn.createStatement();
+       
+       String sql = "select SHOPS.* FROM APP.SHOPS WHERE SHOPS.ID="+id;
        
        
        ResultSet rs = stmt.executeQuery(sql);

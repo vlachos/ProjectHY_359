@@ -3,6 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+/* global google, map, markers */
+
 $( document ).ready( function() {
 //add div for results dynamicallyif(location.hash==='admin'){
     if(location.hash==='#admin'){
@@ -21,7 +23,9 @@ $( document ).ready( function() {
     else{
         
     $('#signin_btn').click(function(evt){
+            
             evt.preventDefault();
+            map.clearOverlays();
             var username = $('[name=signin_username]').val();
             var password = $('[name=psw]').val();
             console.log(username,password);
@@ -47,6 +51,28 @@ $( document ).ready( function() {
                             $('#login_form').hide();
                             $('nav a').css('display','inline');
                             $('#login_container').append("<h2 href=\"\">Welcome "+username+",</h2><a id=\"logout\" href=\"\">(logout)</a>");
+                            $.get( 'http://localhost:8084/SAMakis_Project/ShowUserFavorites' + '?username=' + location.hash.slice(1,location.hash.length) , function( data ) {
+                                $('#scrolled_container').empty();
+                                console.log(data);
+                                for (var i = 0; i <data.favorites.length; i++) {
+                                    $( "#scrolled_container" ).append( "<div class=\"result\">\n\
+                                                        <div class=\"res_name\">\n\
+                                                            <img src=\"icons/rest_icon.png\">\n\
+                                                            <h3>"+data.favorites[i].name+"</h3></div>"
+                                                        +"<div class=\"res_content\">"
+                                                            +"<button id=\""+data.favorites[i].id+"\" class=\"like\"></button>"+
+                                                            "<button id=\"coms"+data.favorites[i].id+"\" class=\"coms\">comments</button>"+
+                                                            "<button id=\"btnmarker"+data.favorites[i].id+"\" class=\"btnaddmarker\">show on map</button>"+
+                                                    "</div><div id=\"comments"+data.favorites[i].id+"\" class=\"comments\"></div></div>" );
+                                            var pos=new google.maps.LatLng(data.favorites[i].lat,data.favorites[i].lng);                            
+                                            markers[i] = new google.maps.Marker({
+                                                position: pos,
+                                                draggable: false,
+                                                icon:"icons/shop_icon.png",
+                                                map: map
+                                            });
+                                };
+                            } );
                         }
                     }
                     else{
