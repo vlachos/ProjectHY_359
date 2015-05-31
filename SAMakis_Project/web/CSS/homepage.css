@@ -201,6 +201,14 @@ a.invisible {
 	height: 60px;
 }
 
+        .dislike{
+            background-image: url(http://localhost:8084/SAMakis_Project/icons/dislike.png);
+        }
+        
+        .like{
+            background-image: url(http://localhost:8084/SAMakis_Project/icons/like.png);
+        }
+
 footer{
 	background-color: #001A4C;
 	width:100%;
@@ -225,10 +233,6 @@ footer{
     height: 50px;
     margin-top: 5px;
     background-size: 100%
-}
-
-.dislike{
-    background-image: url(icons/like.png);
 }
 
 .res_content img{

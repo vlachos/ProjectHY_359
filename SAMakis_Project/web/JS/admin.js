@@ -111,10 +111,11 @@ $(document).ready( function() {
             }
         });
     
-        $('.del_link').click(function(evt){
+        $(document).on('click', '.del_link', function(evt){
             evt.preventDefault();
             var id=$(this).attr('id');
-            $.get( 'http://localhost:8084/SAMakis_Project/DeleteShopServlet' + '?id=' + id);
+            console.log(id);
+            alert("hey!");
         });
 
 	/*

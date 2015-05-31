@@ -20,7 +20,7 @@ $( document ).ready( function() {
                                                             <img src=\"icons/rest_icon.png\">\n\
                                                             <h3>"+data.shops[i].name+"</h3></div>"
                                                         +"<div class=\"res_content\">"
-                                                            +"<button id=\""+data.shops[i].id+"\" class=\"dislike\"><img src=\"icons/like.png\"></button>"+
+                                                            +"<button id=\""+data.shops[i].id+"\" class=\"dislike\"></button>"+
                                                     "</div></div>" );
             };
         } );
