@@ -16,7 +16,7 @@ $( document ).ready( function() {
         $('#admin').css('display','none');
         $('#login_form').hide();
         $('nav a').css('display','inline');
-        $('#login_container').append("<h2 href=\"\">Welcome "+location.hash.slice(1,location.hash.length-1)+",</h2><a id=\"logout\" href=\"\">(logout)</a>");
+        $('#login_container').append("<h2 href=\"\">Welcome "+location.hash.slice(1,location.hash.length)+",</h2><a id=\"logout\" href=\"\">(logout)</a>");
     }
     else{
         
@@ -60,10 +60,9 @@ $( document ).ready( function() {
             evt.preventDefault();
             location.hash="";
             window.location.reload();
+            $(".dislike").remove();
+            $(".like").remove();
     });
 } );
 
-function adminChecker(data){
-    
-}
 
