@@ -21,7 +21,8 @@ $( document ).ready( function() {
                                                             <h3>"+data.shops[i].name+"</h3></div>"
                                                         +"<div class=\"res_content\">"
                                                             +"<button id=\""+data.shops[i].id+"\" class=\"dislike\"></button>"+
-                                                    "</div></div>" );
+                                                            "<button id=\"coms"+data.shops[i].id+"\" class=\"coms\">comments</button>"+
+                                                    "</div><div id=\"comments"+data.shops[i].id+"\" class=\"comments\"></div></div>" );
             };
         } );
     } );

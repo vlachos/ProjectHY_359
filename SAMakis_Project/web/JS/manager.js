@@ -35,6 +35,13 @@ $( document ).ready( function() {
                 });
             }
         });
+        
+        $(document).on('click', '.coms', function(){
+            var id=$(this).attr('id');
+            $("#comments"+id.slice(4,id.length)).animate({
+                height: 'toggle'
+            });
+        });
 
 //    $('.dislike').click(function(evt){
 //        evt.preventDefault();
